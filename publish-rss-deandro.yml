@@ -1,0 +1,79 @@
+name: Publish RSS to Neocities
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "Now.md"
+      - "generate_rss.py"
+      - ".github/workflows/publish-rss.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  publish-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install RSS generator dependency
+        run: python -m pip install --upgrade markdown
+
+      - name: Generate RSS feed
+        run: python generate_rss.py
+
+      - name: Verify generated feed
+        run: |
+          test -s rss.xml
+          echo "rss.xml generated successfully"
+          head -n 5 rss.xml
+
+      - name: Verify Neocities API key belongs to deandro
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+        run: |
+          test -n "$NEOCITIES_API_KEY"
+
+          curl -fsS \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            "https://neocities.org/api/info" \
+            -o neocities-info.json
+
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          data = json.loads(Path("neocities-info.json").read_text())
+          expected = "deandro"
+          actual = data.get("info", {}).get("sitename")
+
+          if actual != expected:
+              raise SystemExit(
+                  f"Wrong Neocities API key: expected site '{expected}', got '{actual}'."
+              )
+
+          print(f"API key verified for Neocities site: {actual}")
+          PY
+
+      - name: Upload RSS feed to deandro.neocities.org
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+        run: |
+          curl -fsS \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            -F "rss.xml=@rss.xml" \
+            "https://neocities.org/api/upload"
+
+          echo "RSS uploaded successfully."
