@@ -1,1 +1,11 @@
-If you're seeing this. I'm currently testing the git-obsidian plugin and seeing if my site syncs this markdown file accordingly!
+Testing stuff like formats
+**Caption**
+*Italic*
+~~Strikethrough~~
+==Highlight==
+# Heading
+123
+123
+123
+CAPITAL LETTERS
+WeLcOmE
