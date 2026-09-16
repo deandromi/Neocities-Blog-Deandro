@@ -47,3 +47,17 @@ jobs:
             -H "Authorization: Bearer $NEOCITIES_API_KEY" \
             -F "rss.xml=@rss.xml;type=application/rss+xml" \
             "https://neocities.org/api/upload"
+      - name: Verify Neocities upload
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+        run: |
+          echo "Authenticated Neocities site:"
+          curl --fail-with-body \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            "https://neocities.org/api/info"
+
+          echo ""
+          echo "RSS file:"
+          curl --fail-with-body \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            "https://neocities.org/api/list" | grep -A6 -B2 'rss.xml' || true
