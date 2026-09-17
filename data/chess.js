@@ -1,0 +1,9 @@
+window.DEANDRO_CHESS_DATA = {
+  "status": "setup-required",
+  "generatedAt": null,
+  "username": "Deandro_M",
+  "profileUrl": "https://www.chess.com/member/deandro_m",
+  "ratings": {},
+  "recentGames": [],
+  "featuredGames": []
+};
