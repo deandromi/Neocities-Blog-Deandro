@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-17T21:26:24.611048Z",
+  "generatedAt": "2026-09-17T22:52:53.539495Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-08-19",
-        "label": "19 August",
-        "shortLabel": "19 Aug",
-        "count": 14
-      },
       {
         "date": "2026-08-20",
         "label": "20 August",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "17 September",
         "shortLabel": "17 Sep",
         "count": 50
+      },
+      {
+        "date": "2026-09-18",
+        "label": "18 September",
+        "shortLabel": "18 Sep",
+        "count": 0
       }
     ]
   },
@@ -1095,7 +1095,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "John Lennon",
-          "playcount": 354,
+          "playcount": 350,
           "url": "https://www.last.fm/music/John+Lennon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
