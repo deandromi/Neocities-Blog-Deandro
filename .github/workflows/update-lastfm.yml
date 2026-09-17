@@ -1,0 +1,50 @@
+name: Update Last.fm archive
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-lastfm-archive
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+      LASTFM_USER: Deandro
+      LASTFM_TIMEZONE: Europe/Amsterdam
+      NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY || secrets.NEOCITIES_API_TOKEN }}
+
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+
+      - name: Build the listening snapshot
+        run: python3 scripts/fetch_lastfm.py
+
+      - name: Save changed listening data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/lastfm.json data/lastfm.js
+          if git diff --cached --quiet; then
+            echo "The listening archive is already current."
+            exit 0
+          fi
+          git commit -m "Update Last.fm listening archive"
+          git push
+
+      - name: Publish the fresh snapshot to Neocities
+        if: ${{ env.NEOCITIES_API_KEY != '' }}
+        run: |
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            -F "data/lastfm.js=@data/lastfm.js;type=application/javascript" \
+            -F "data/lastfm.json=@data/lastfm.json;type=application/json" \
+            "https://neocities.org/api/upload"
