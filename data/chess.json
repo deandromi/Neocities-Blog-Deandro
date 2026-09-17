@@ -1,9 +1,125 @@
 {
-  "status": "setup-required",
-  "generatedAt": null,
-  "username": "Deandro_M",
-  "profileUrl": "https://www.chess.com/member/deandro_m",
-  "ratings": {},
-  "recentGames": [],
-  "featuredGames": []
+  "status": "ready",
+  "generatedAt": "2026-09-17T22:30:09.162295Z",
+  "username": "deandro_m",
+  "profileUrl": "https://www.chess.com/member/Deandro_M",
+  "ratings": {
+    "rapid": {
+      "current": 721,
+      "best": 951,
+      "wins": 75,
+      "losses": 70,
+      "draws": 5
+    },
+    "blitz": {
+      "current": 502,
+      "best": 643,
+      "wins": 4,
+      "losses": 4,
+      "draws": 0
+    },
+    "bullet": {
+      "current": null,
+      "best": null,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0
+    },
+    "daily": {
+      "current": 853,
+      "best": 1200,
+      "wins": 14,
+      "losses": 20,
+      "draws": 1
+    }
+  },
+  "recentGames": [
+    {
+      "id": "174315484646",
+      "url": "https://www.chess.com/game/live/174315484646",
+      "date": "2026-09-11T11:30:41Z",
+      "player": "Deandro_M",
+      "opponent": "ezaroel",
+      "color": "white",
+      "rating": 721,
+      "opponentRating": 704,
+      "result": "win",
+      "termination": "timeout",
+      "timeClass": "rapid",
+      "timeControl": "600",
+      "opening": "Modern Defense with 1 d4 2.c4 Bg7",
+      "accuracy": 64.5,
+      "fen": "rn1R4/1b3k2/3Np3/p7/1p3n2/8/PP3P1P/R5K1 b - - 3 30"
+    },
+    {
+      "id": "174311669732",
+      "url": "https://www.chess.com/game/live/174311669732",
+      "date": "2026-09-11T09:45:36Z",
+      "player": "Deandro_M",
+      "opponent": "Trizzygillepsie",
+      "color": "white",
+      "rating": 713,
+      "opponentRating": 706,
+      "result": "win",
+      "termination": "timeout",
+      "timeClass": "rapid",
+      "timeControl": "600",
+      "opening": "Queens Gambit Declined Albin Countergambit",
+      "accuracy": 58.6,
+      "fen": "8/1p1kP3/n2r4/P7/5K2/8/P7/8 b - - 4 47"
+    },
+    {
+      "id": "174164680538",
+      "url": "https://www.chess.com/game/live/174164680538",
+      "date": "2026-09-08T08:49:29Z",
+      "player": "Deandro_M",
+      "opponent": "Mirelaonfire",
+      "color": "white",
+      "rating": 705,
+      "opponentRating": 640,
+      "result": "win",
+      "termination": "abandoned",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Alekhines Defense Maroczy Variation",
+      "accuracy": 61.4,
+      "fen": "5bk1/1R3p1p/4p1p1/pp5q/4P3/1PP3P1/P4PK1/8 b - - 2 29"
+    },
+    {
+      "id": "174164170502",
+      "url": "https://www.chess.com/game/live/174164170502",
+      "date": "2026-09-08T08:32:05Z",
+      "player": "Deandro_M",
+      "opponent": "Mirelaonfire",
+      "color": "white",
+      "rating": 698,
+      "opponentRating": 658,
+      "result": "win",
+      "termination": "resigned",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Queens Gambit Declined 3.e3",
+      "accuracy": 78.1,
+      "fen": "5rk1/p3qppp/1pQ2n2/1N6/8/BP2r3/P4PPP/R4RK1 w - - 0 20"
+    }
+  ],
+  "featuredGames": [
+    {
+      "id": "173830805572",
+      "url": "https://www.chess.com/game/live/173830805572",
+      "date": "2026-09-01T09:01:47Z",
+      "player": "Deandro_M",
+      "opponent": "kumarprashnat",
+      "color": "white",
+      "rating": 704,
+      "opponentRating": 761,
+      "result": "loss",
+      "termination": "resigned",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Closed Sicilian Defense Fianchetto Variation 3...g6 4.Bg2 Bg7 5.d3",
+      "accuracy": 79.0,
+      "fen": "r2q1r2/4ppkp/pp1p2p1/2pP4/1P4b1/P2P1NP1/5PBP/2R2R1K b - - 0 18"
+    }
+  ]
 }
