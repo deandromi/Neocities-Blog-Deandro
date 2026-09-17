@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-chess-scorebook
-  cancel-in-progress: true
+  group: neocities-data-updates
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -26,6 +26,15 @@ jobs:
       - name: Build the chess snapshot
         run: python3 scripts/fetch_chess.py
 
+      - name: Publish the fresh snapshot to Neocities
+        if: ${{ env.NEOCITIES_API_KEY != '' }}
+        run: |
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            -F "data/chess.js=@data/chess.js;type=application/javascript" \
+            -F "data/chess.json=@data/chess.json;type=application/json" \
+            "https://neocities.org/api/upload"
+
       - name: Save changed chess data
         run: |
           git config user.name "github-actions[bot]"
@@ -36,13 +45,5 @@ jobs:
             exit 0
           fi
           git commit -m "Update Chess.com scorebook"
-          git push
-
-      - name: Publish the fresh snapshot to Neocities
-        if: ${{ env.NEOCITIES_API_KEY != '' }}
-        run: |
-          curl --fail --silent --show-error \
-            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
-            -F "data/chess.js=@data/chess.js;type=application/javascript" \
-            -F "data/chess.json=@data/chess.json;type=application/json" \
-            "https://neocities.org/api/upload"
+          git pull --rebase origin main
+          git push origin HEAD:main
