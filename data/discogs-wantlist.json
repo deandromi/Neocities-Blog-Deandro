@@ -1,9 +1,21 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-17T21:28:06.299417Z",
+  "generatedAt": "2026-09-17T21:39:54.583297Z",
   "username": "Deandro",
   "profileUrl": "https://www.discogs.com/user/Deandro",
   "wantlistUrl": "https://www.discogs.com/wantlist?user=Deandro",
-  "total": 0,
-  "releases": []
+  "total": 1,
+  "releases": [
+    {
+      "id": 37848201,
+      "artist": "The Heavenly Bodes",
+      "title": "Green Hills",
+      "year": 2026,
+      "format": "Vinyl · LP · Album · Limited Edition",
+      "formatCategory": "lp",
+      "image": "https://i.discogs.com/xoH4EKUvRsg9Itj4trySEZ0OsS216JNeBK8KQr2mxl8/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODQ4/MjAxLTE3ODM4NDU5/NDgtNDMwOC5qcGVn.jpeg",
+      "dateAdded": "2026-09-17T14:27:44-07:00",
+      "url": "https://www.discogs.com/release/37848201"
+    }
+  ]
 }
