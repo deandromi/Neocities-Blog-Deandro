@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-lastfm-archive
-  cancel-in-progress: true
+  group: neocities-data-updates
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -28,6 +28,15 @@ jobs:
       - name: Build the listening snapshot
         run: python3 scripts/fetch_lastfm.py
 
+      - name: Publish the fresh snapshot to Neocities
+        if: ${{ env.NEOCITIES_API_KEY != '' }}
+        run: |
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            -F "data/lastfm.js=@data/lastfm.js;type=application/javascript" \
+            -F "data/lastfm.json=@data/lastfm.json;type=application/json" \
+            "https://neocities.org/api/upload"
+
       - name: Save changed listening data
         run: |
           git config user.name "github-actions[bot]"
@@ -38,13 +47,5 @@ jobs:
             exit 0
           fi
           git commit -m "Update Last.fm listening archive"
-          git push
-
-      - name: Publish the fresh snapshot to Neocities
-        if: ${{ env.NEOCITIES_API_KEY != '' }}
-        run: |
-          curl --fail --silent --show-error \
-            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
-            -F "data/lastfm.js=@data/lastfm.js;type=application/javascript" \
-            -F "data/lastfm.json=@data/lastfm.json;type=application/json" \
-            "https://neocities.org/api/upload"
+          git pull --rebase origin main
+          git push origin HEAD:main
