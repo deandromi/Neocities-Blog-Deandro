@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-17T22:30:09.162295Z",
+  "generatedAt": "2026-09-17T22:33:43.271235Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -120,6 +120,23 @@
       "opening": "Closed Sicilian Defense Fianchetto Variation 3...g6 4.Bg2 Bg7 5.d3",
       "accuracy": 79.0,
       "fen": "r2q1r2/4ppkp/pp1p2p1/2pP4/1P4b1/P2P1NP1/5PBP/2R2R1K b - - 0 18"
+    },
+    {
+      "id": "172887089878",
+      "url": "https://www.chess.com/game/live/172887089878",
+      "date": "2026-08-12T13:15:56Z",
+      "player": "Deandro_M",
+      "opponent": "titus110307",
+      "color": "white",
+      "rating": 726,
+      "opponentRating": 703,
+      "result": "win",
+      "termination": "checkmated",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4",
+      "accuracy": 92.6,
+      "fen": "3r3r/1p3ppp/k1N1pn2/Q2p4/3P4/4P3/PP3PPP/2R2RK1 b - - 6 20"
     }
   ]
 }
