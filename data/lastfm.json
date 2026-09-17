@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-17T21:01:17.427269Z",
+  "generatedAt": "2026-09-17T21:26:24.611048Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 26884,
+    "playcount": 26888,
     "artistCount": 381,
     "albumCount": 1022,
     "trackCount": 4938,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Into the Mystic",
+    "name": "Glad Tidings",
     "artist": "Van Morrison",
     "album": "Moondance",
-    "url": "https://www.last.fm/music/Van+Morrison/_/Into+the+Mystic",
+    "url": "https://www.last.fm/music/Van+Morrison/_/Glad+Tidings",
     "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
-    "nowPlaying": true,
-    "playedAt": null
+    "nowPlaying": false,
+    "playedAt": "2026-09-17T21:10:33Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-17",
         "label": "17 September",
         "shortLabel": "17 Sep",
-        "count": 46
+        "count": 50
       }
     ]
   },
@@ -215,7 +215,7 @@
         },
         {
           "name": "Van Morrison",
-          "playcount": 35,
+          "playcount": 39,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -284,18 +284,18 @@
           "artist": "The Smiths"
         },
         {
+          "name": "Moondance",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/Van+Morrison/Moondance",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
+          "artist": "Van Morrison"
+        },
+        {
           "name": "La Folie",
           "playcount": 25,
           "url": "https://www.last.fm/music/The+Stranglers/La+Folie",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/07b1740d7cfcc9286ebaf7c6fbdd09fb.png",
           "artist": "The Stranglers"
-        },
-        {
-          "name": "Moondance",
-          "playcount": 22,
-          "url": "https://www.last.fm/music/Van+Morrison/Moondance",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
-          "artist": "Van Morrison"
         },
         {
           "name": "Astral Weeks",
@@ -429,7 +429,7 @@
         },
         {
           "name": "Van Morrison",
-          "playcount": 63,
+          "playcount": 67,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -493,7 +493,7 @@
         },
         {
           "name": "Moondance",
-          "playcount": 46,
+          "playcount": 50,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
           "artist": "Van Morrison"
@@ -660,15 +660,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 101,
-          "url": "https://www.last.fm/music/Nick+Drake",
+          "name": "Van Morrison",
+          "playcount": 105,
+          "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Van Morrison",
+          "name": "Nick Drake",
           "playcount": 101,
-          "url": "https://www.last.fm/music/Van+Morrison",
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -742,18 +742,18 @@
           "artist": "The Rolling Stones"
         },
         {
+          "name": "Moondance",
+          "playcount": 51,
+          "url": "https://www.last.fm/music/Van+Morrison/Moondance",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
+          "artist": "Van Morrison"
+        },
+        {
           "name": "Living in the Material World",
           "playcount": 48,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Moondance",
-          "playcount": 47,
-          "url": "https://www.last.fm/music/Van+Morrison/Moondance",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
-          "artist": "Van Morrison"
         }
       ],
       "tracks": [
@@ -1095,7 +1095,7 @@
         },
         {
           "name": "John Lennon",
-          "playcount": 355,
+          "playcount": 354,
           "url": "https://www.last.fm/music/John+Lennon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
