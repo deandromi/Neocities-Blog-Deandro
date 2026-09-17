@@ -1,0 +1,48 @@
+name: Update Chess.com scorebook
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-chess-scorebook
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      CHESS_COM_USER: deandro_m
+      NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY || secrets.NEOCITIES_API_TOKEN }}
+
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+
+      - name: Build the chess snapshot
+        run: python3 scripts/fetch_chess.py
+
+      - name: Save changed chess data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/chess.json data/chess.js
+          if git diff --cached --quiet; then
+            echo "The chess scorebook is already current."
+            exit 0
+          fi
+          git commit -m "Update Chess.com scorebook"
+          git push
+
+      - name: Publish the fresh snapshot to Neocities
+        if: ${{ env.NEOCITIES_API_KEY != '' }}
+        run: |
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            -F "data/chess.js=@data/chess.js;type=application/javascript" \
+            -F "data/chess.json=@data/chess.json;type=application/json" \
+            "https://neocities.org/api/upload"
