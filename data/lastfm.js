@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-18T04:40:35.999922Z",
+  "generatedAt": "2026-09-18T11:11:12.272939Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 26888,
+    "playcount": 26903,
     "artistCount": 381,
     "albumCount": 1022,
     "trackCount": 4938,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Glad Tidings",
-    "artist": "Van Morrison",
-    "album": "Moondance",
-    "url": "https://www.last.fm/music/Van+Morrison/_/Glad+Tidings",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
+    "name": "Asleep (2011 Remaster)",
+    "artist": "The Smiths",
+    "album": "Louder Than Bombs",
+    "url": "https://www.last.fm/music/The+Smiths/_/Asleep+(2011+Remaster)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-09-17T21:10:33Z"
+    "playedAt": "2026-09-18T10:14:01Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-09-18",
         "label": "18 September",
         "shortLabel": "18 Sep",
-        "count": 0
+        "count": 15
       }
     ]
   },
@@ -214,33 +214,27 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Van Morrison",
-          "playcount": 39,
-          "url": "https://www.last.fm/music/Van+Morrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Smiths",
-          "playcount": 30,
+          "playcount": 35,
           "url": "https://www.last.fm/music/The+Smiths",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Stranglers",
-          "playcount": 25,
-          "url": "https://www.last.fm/music/The+Stranglers",
+          "name": "Van Morrison",
+          "playcount": 34,
+          "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "George Harrison",
-          "playcount": 13,
+          "playcount": 23,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/The+Beatles",
+          "name": "The Stranglers",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/The+Stranglers",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -262,6 +256,12 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Beatles",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Amy Winehouse",
           "playcount": 4,
           "url": "https://www.last.fm/music/Amy+Winehouse",
@@ -278,21 +278,21 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Louder Than Bombs",
-          "playcount": 29,
+          "playcount": 34,
           "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
           "artist": "The Smiths"
         },
         {
           "name": "Moondance",
-          "playcount": 26,
+          "playcount": 21,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
           "artist": "Van Morrison"
         },
         {
           "name": "La Folie",
-          "playcount": 25,
+          "playcount": 17,
           "url": "https://www.last.fm/music/The+Stranglers/La+Folie",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/07b1740d7cfcc9286ebaf7c6fbdd09fb.png",
           "artist": "The Stranglers"
@@ -312,18 +312,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "George Harrison",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
+          "artist": "George Harrison"
+        },
+        {
           "name": "Workingman's Dead",
           "playcount": 7,
           "url": "https://www.last.fm/music/Grateful+Dead/Workingman%27s+Dead",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a953eb3d96f639d0580611862893145d.jpg",
           "artist": "Grateful Dead"
-        },
-        {
-          "name": "Rubber Soul (Remastered 2009)",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/01d7f40bb40cef0e86251d491542943b.png",
-          "artist": "The Beatles"
         },
         {
           "name": "Harvest Moon",
@@ -357,7 +357,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Half a Person (2011 Remaster)",
-          "playcount": 12,
+          "playcount": 14,
           "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
@@ -371,7 +371,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Back to the Old House (2011 Remaster)",
-          "playcount": 8,
+          "playcount": 9,
           "url": "https://www.last.fm/music/The+Smiths/_/Back+to+the+Old+House+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
@@ -392,17 +392,10 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "These Dreams of You",
-          "playcount": 7,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Van+Morrison/_/These+Dreams+of+You",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Van Morrison"
-        },
-        {
-          "name": "Golden Brown",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Stranglers/_/Golden+Brown",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Stranglers"
         },
         {
           "name": "Five Ways",
@@ -410,6 +403,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Five+Ways",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "Oscillate Wildly (2011 Remaster)",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Smiths/_/Oscillate+Wildly+(2011+Remaster)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Smiths"
         }
       ]
     },
@@ -417,7 +417,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 120,
+          "playcount": 130,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -447,7 +447,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Smiths",
-          "playcount": 31,
+          "playcount": 36,
           "url": "https://www.last.fm/music/The+Smiths",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -500,14 +500,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "George Harrison",
-          "playcount": 38,
+          "playcount": 48,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
         },
         {
           "name": "Louder Than Bombs",
-          "playcount": 30,
+          "playcount": 35,
           "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
           "artist": "The Smiths"
@@ -565,14 +565,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Half a Person (2011 Remaster)",
-          "playcount": 12,
+          "playcount": 14,
           "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
         },
         {
           "name": "Blow Away",
-          "playcount": 11,
+          "playcount": 13,
           "url": "https://www.last.fm/music/George+Harrison/_/Blow+Away",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -592,25 +592,25 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Faster",
-          "playcount": 9,
+          "playcount": 10,
           "url": "https://www.last.fm/music/George+Harrison/_/Faster",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "Back to the Old House (2011 Remaster)",
-          "playcount": 9,
+          "playcount": 10,
           "url": "https://www.last.fm/music/The+Smiths/_/Back+to+the+Old+House+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
+        },
+        {
+          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         },
         {
           "name": "These Dreams of You",
@@ -625,7 +625,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 544,
+          "playcount": 554,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -749,10 +749,10 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Van Morrison"
         },
         {
-          "name": "Living in the Material World",
+          "name": "George Harrison",
           "playcount": 48,
-          "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
+          "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
         }
       ],
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2213,
+          "playcount": 2223,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1041,7 +1041,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3900,
+          "playcount": 3910,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1095,7 +1095,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "John Lennon",
-          "playcount": 350,
+          "playcount": 349,
           "url": "https://www.last.fm/music/John+Lennon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -1249,7 +1249,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3932,
+          "playcount": 3942,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
