@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-18T11:11:12.272939Z",
+  "generatedAt": "2026-09-18T11:45:38.698847Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 26903,
+    "playcount": 26907,
     "artistCount": 381,
     "albumCount": 1022,
     "trackCount": 4938,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Asleep (2011 Remaster)",
-    "artist": "The Smiths",
-    "album": "Louder Than Bombs",
-    "url": "https://www.last.fm/music/The+Smiths/_/Asleep+(2011+Remaster)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
-    "nowPlaying": false,
-    "playedAt": "2026-09-18T10:14:01Z"
+    "name": "Frozen Jap (Remastered)",
+    "artist": "Paul McCartney",
+    "album": "McCartney II (Archive Edition)",
+    "url": "https://www.last.fm/music/Paul+McCartney/_/Frozen+Jap+(Remastered)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/472d995526712cbbc9635cae96a3a6f7.jpg",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-18",
         "label": "18 September",
         "shortLabel": "18 Sep",
-        "count": 15
+        "count": 19
       }
     ]
   },
@@ -233,7 +233,7 @@
         },
         {
           "name": "The Stranglers",
-          "playcount": 17,
+          "playcount": 12,
           "url": "https://www.last.fm/music/The+Stranglers",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -291,13 +291,6 @@
           "artist": "Van Morrison"
         },
         {
-          "name": "La Folie",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/The+Stranglers/La+Folie",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/07b1740d7cfcc9286ebaf7c6fbdd09fb.png",
-          "artist": "The Stranglers"
-        },
-        {
           "name": "Astral Weeks",
           "playcount": 13,
           "url": "https://www.last.fm/music/Van+Morrison/Astral+Weeks",
@@ -310,6 +303,13 @@
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
+        },
+        {
+          "name": "La Folie",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Stranglers/La+Folie",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/07b1740d7cfcc9286ebaf7c6fbdd09fb.png",
+          "artist": "The Stranglers"
         },
         {
           "name": "George Harrison",
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2223,
+          "playcount": 2214,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -909,7 +909,7 @@
         },
         {
           "name": "Living in the Material World",
-          "playcount": 308,
+          "playcount": 299,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
@@ -1009,7 +1009,7 @@
         },
         {
           "name": "Don't Let Me Wait Too Long",
-          "playcount": 67,
+          "playcount": 63,
           "url": "https://www.last.fm/music/George+Harrison/_/Don%27t+Let+Me+Wait+Too+Long",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
