@@ -1,6 +1,6 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-18T04:29:17.210537Z",
+  "generatedAt": "2026-09-18T11:03:44.108367Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -118,7 +118,7 @@ window.DEANDRO_CHESS_DATA = {
       "timeClass": "rapid",
       "timeControl": "900+10",
       "opening": "Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4",
-      "accuracy": 92.6,
+      "accuracy": 92.3,
       "fen": "3r3r/1p3ppp/k1N1pn2/Q2p4/3P4/4P3/PP3PPP/2R2RK1 b - - 6 20"
     },
     {
