@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-18T20:52:47.862632Z",
+  "generatedAt": "2026-09-18T23:16:53.692954Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-08-20",
-        "label": "20 August",
-        "shortLabel": "20 Aug",
-        "count": 8
-      },
       {
         "date": "2026-08-21",
         "label": "21 August",
@@ -201,6 +195,12 @@
         "label": "18 September",
         "shortLabel": "18 Sep",
         "count": 49
+      },
+      {
+        "date": "2026-09-19",
+        "label": "19 September",
+        "shortLabel": "19 Sep",
+        "count": 0
       }
     ]
   },
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2202,
+          "playcount": 2191,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,7 +857,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 441,
+          "playcount": 426,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
