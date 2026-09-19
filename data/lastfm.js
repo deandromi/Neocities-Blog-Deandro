@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-18T23:16:53.692954Z",
+  "generatedAt": "2026-09-19T04:35:01.431034Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -689,70 +689,70 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 448,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "image": "",
           "artist": "George Harrison"
         },
         {
           "name": "The Autumn Stone (Remastered 2025)",
           "playcount": 84,
           "url": "https://www.last.fm/music/Small+Faces/The+Autumn+Stone+(Remastered+2025)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bf44d98949d76e9740d38267a85d272c.png",
+          "image": "",
           "artist": "Small Faces"
         },
         {
           "name": "Something Else By The Kinks",
           "playcount": 76,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
+          "image": "",
           "artist": "The Kinks"
         },
         {
           "name": "Green Hills",
           "playcount": 74,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "image": "",
           "artist": "The Heavenly Bodes"
         },
         {
           "name": "The Gift",
           "playcount": 73,
           "url": "https://www.last.fm/music/The+Jam/The+Gift",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2bd4aaeec559435caf739de8c65d0be4.png",
+          "image": "",
           "artist": "The Jam"
         },
         {
           "name": "Friday on My Mind",
           "playcount": 71,
           "url": "https://www.last.fm/music/The+Easybeats/Friday+on+My+Mind",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3b8b3ad201b3778c9a03b42a8aa60d5b.jpg",
+          "image": "",
           "artist": "The Easybeats"
         },
         {
           "name": "Sunflower",
           "playcount": 66,
           "url": "https://www.last.fm/music/The+Beach+Boys/Sunflower",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png",
+          "image": "",
           "artist": "The Beach Boys"
         },
         {
           "name": "Between the Buttons",
           "playcount": 60,
           "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/77bba36a1bf17119e2ec268598524641.jpg",
+          "image": "",
           "artist": "The Rolling Stones"
         },
         {
           "name": "Moondance",
           "playcount": 51,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
+          "image": "",
           "artist": "Van Morrison"
         },
         {
           "name": "George Harrison",
           "playcount": 48,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
+          "image": "",
           "artist": "George Harrison"
         }
       ],
@@ -857,7 +857,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 426,
+          "playcount": 425,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
