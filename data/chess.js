@@ -1,6 +1,6 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-18T20:49:22.499278Z",
+  "generatedAt": "2026-09-19T04:26:09.060268Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
