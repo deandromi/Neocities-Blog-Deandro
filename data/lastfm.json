@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-20T04:51:33.647265Z",
+  "generatedAt": "2026-09-20T11:20:54.525550Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 26965,
+    "playcount": 26974,
     "artistCount": 381,
     "albumCount": 1025,
     "trackCount": 4951,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Revolution 9 (2018 Mix)",
-    "artist": "The Beatles",
-    "album": "The Beatles (White Album / Super Deluxe)",
-    "url": "https://www.last.fm/music/The+Beatles/_/Revolution+9+(2018+Mix)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-    "nowPlaying": false,
-    "playedAt": "2026-09-19T22:39:53Z"
+    "name": "Come Away with Me",
+    "artist": "Norah Jones",
+    "album": "Come Away with Me",
+    "url": "https://www.last.fm/music/Norah+Jones/_/Come+Away+with+Me",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-20",
         "label": "20 September",
         "shortLabel": "20 Sep",
-        "count": 2
+        "count": 11
       }
     ]
   },
@@ -209,7 +209,7 @@
       "artists": [
         {
           "name": "The Heavenly Bodes",
-          "playcount": 61,
+          "playcount": 52,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -238,6 +238,12 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Beatles",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Leonard Cohen",
           "playcount": 10,
           "url": "https://www.last.fm/music/Leonard+Cohen",
@@ -260,18 +266,12 @@
           "playcount": 7,
           "url": "https://www.last.fm/music/Grateful+Dead",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Neil Young",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Neil+Young",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
         {
           "name": "Green Hills",
-          "playcount": 57,
+          "playcount": 48,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
@@ -326,28 +326,21 @@
           "artist": "Talking Heads"
         },
         {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Workingman's Dead",
           "playcount": 7,
           "url": "https://www.last.fm/music/Grateful+Dead/Workingman%27s+Dead",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a953eb3d96f639d0580611862893145d.jpg",
           "artist": "Grateful Dead"
-        },
-        {
-          "name": "Easter",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Patti+Smith/Easter",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/876cdba510db7b9f2915ad3dd146abfa.jpg",
-          "artist": "Patti Smith"
         }
       ],
       "tracks": [
-        {
-          "name": "National Express",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
-        },
         {
           "name": "Half a Person (2011 Remaster)",
           "playcount": 15,
@@ -356,8 +349,15 @@
           "artist": "The Smiths"
         },
         {
-          "name": "Acting",
+          "name": "National Express",
           "playcount": 14,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "Acting",
+          "playcount": 12,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
@@ -370,13 +370,6 @@
           "artist": "The Smiths"
         },
         {
-          "name": "Faux Pillars",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Faux+Pillars",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
-        },
-        {
           "name": "De Groene Heuvels",
           "playcount": 8,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
@@ -384,9 +377,16 @@
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Sea Water",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Sea+Water",
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "Faux Pillars",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Faux+Pillars",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
         },
@@ -398,18 +398,18 @@
           "artist": "Van Morrison"
         },
         {
+          "name": "Sea Water",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Sea+Water",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
+        },
+        {
           "name": "Oscillate Wildly (2011 Remaster)",
           "playcount": 5,
           "url": "https://www.last.fm/music/The+Smiths/_/Oscillate+Wildly+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
-        },
-        {
-          "name": "Non Stop",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Stranglers/_/Non+Stop",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Stranglers"
         }
       ]
     },
@@ -447,7 +447,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 32,
+          "playcount": 38,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -631,7 +631,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 246,
+          "playcount": 252,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -643,7 +643,7 @@
         },
         {
           "name": "The Beach Boys",
-          "playcount": 143,
+          "playcount": 134,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -728,6 +728,13 @@
           "artist": "The Easybeats"
         },
         {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 51,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Moondance",
           "playcount": 51,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
@@ -747,13 +754,6 @@
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Debussy: Piano Works",
-          "playcount": 45,
-          "url": "https://www.last.fm/music/Claude+Debussy/Debussy:+Piano+Works",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcc8db8595deec43e3a6a3824b0a0b4a.jpg",
-          "artist": "Claude Debussy"
         }
       ],
       "tracks": [
@@ -857,7 +857,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 425,
+          "playcount": 431,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,7 +1053,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1548,
+          "playcount": 1554,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1159,7 +1159,7 @@
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 282,
+          "playcount": 288,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -1255,7 +1255,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 2489,
+          "playcount": 2495,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
