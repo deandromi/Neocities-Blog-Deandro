@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-20T16:03:06.450752Z",
+  "generatedAt": "2026-09-20T20:47:17.940732Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 26986,
+    "playcount": 26992,
     "artistCount": 381,
     "albumCount": 1025,
     "trackCount": 4958,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Do Right Woman, Do Right Man (Stereo Version)",
-    "artist": "Aretha Franklin",
-    "album": "I Never Loved a Man the Way I Love You",
-    "url": "https://www.last.fm/music/Aretha+Franklin/_/Do+Right+Woman,+Do+Right+Man+(Stereo+Version)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f1fd0db3f40147342799c56f0c72f118.jpg",
-    "nowPlaying": false,
-    "playedAt": "2026-09-20T12:04:42Z"
+    "name": "The Day the World Gets 'Round",
+    "artist": "George Harrison",
+    "album": "Living in the Material World",
+    "url": "https://www.last.fm/music/George+Harrison/_/The+Day+the+World+Gets+%27Round",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-20",
         "label": "20 September",
         "shortLabel": "20 Sep",
-        "count": 23
+        "count": 29
       }
     ]
   },
@@ -221,7 +221,7 @@
         },
         {
           "name": "George Harrison",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -232,15 +232,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Norah Jones",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Norah+Jones",
+          "name": "The Beatles",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/The+Beatles",
+          "name": "Norah Jones",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Norah+Jones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -298,6 +298,13 @@
           "artist": "Norah Jones"
         },
         {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 12,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
@@ -326,13 +333,6 @@
           "artist": "Talking Heads"
         },
         {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "Workingman's Dead",
           "playcount": 7,
           "url": "https://www.last.fm/music/Grateful+Dead/Workingman%27s+Dead",
@@ -347,6 +347,13 @@
           "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
+        },
+        {
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
         },
         {
           "name": "National Express",
@@ -368,13 +375,6 @@
           "url": "https://www.last.fm/music/The+Smiths/_/Back+to+the+Old+House+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
-        },
-        {
-          "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
         },
         {
           "name": "De Groene Heuvels",
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 126,
+          "playcount": 127,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -440,15 +440,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Smiths",
-          "playcount": 41,
-          "url": "https://www.last.fm/music/The+Smiths",
+          "name": "The Beatles",
+          "playcount": 43,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 38,
-          "url": "https://www.last.fm/music/The+Beatles",
+          "name": "The Smiths",
+          "playcount": 41,
+          "url": "https://www.last.fm/music/The+Smiths",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -578,6 +578,13 @@
           "artist": "George Harrison"
         },
         {
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Faux Pillars",
           "playcount": 11,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Faux+Pillars",
@@ -611,13 +618,6 @@
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
-        },
-        {
-          "name": "These Dreams of You",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Van+Morrison/_/These+Dreams+of+You",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Van Morrison"
         }
       ]
     },
@@ -625,13 +625,13 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 306,
+          "playcount": 307,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 252,
+          "playcount": 257,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -721,15 +721,8 @@
           "artist": "The Rolling Stones"
         },
         {
-          "name": "Friday on My Mind",
-          "playcount": 55,
-          "url": "https://www.last.fm/music/The+Easybeats/Friday+on+My+Mind",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3b8b3ad201b3778c9a03b42a8aa60d5b.jpg",
-          "artist": "The Easybeats"
-        },
-        {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 51,
+          "playcount": 56,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -742,6 +735,13 @@
           "artist": "Van Morrison"
         },
         {
+          "name": "Living in the Material World",
+          "playcount": 49,
+          "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
+          "artist": "George Harrison"
+        },
+        {
           "name": "George Harrison",
           "playcount": 48,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
@@ -749,17 +749,17 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Living in the Material World",
-          "playcount": 48,
-          "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
-          "artist": "George Harrison"
+          "name": "Debussy: Piano Works",
+          "playcount": 45,
+          "url": "https://www.last.fm/music/Claude+Debussy/Debussy:+Piano+Works",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcc8db8595deec43e3a6a3824b0a0b4a.jpg",
+          "artist": "Claude Debussy"
         }
       ],
       "tracks": [
         {
           "name": "Friday on My Mind",
-          "playcount": 48,
+          "playcount": 36,
           "url": "https://www.last.fm/music/The+Easybeats/_/Friday+on+My+Mind",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Easybeats"
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2175,
+          "playcount": 2147,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,7 +857,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 431,
+          "playcount": 436,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -895,7 +895,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 1186,
+          "playcount": 1176,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -909,7 +909,7 @@
         },
         {
           "name": "Living in the Material World",
-          "playcount": 281,
+          "playcount": 263,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
@@ -967,21 +967,21 @@
       "tracks": [
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 207,
+          "playcount": 206,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 125,
+          "playcount": 124,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "Run Of The Mill (2020 Mix)",
-          "playcount": 110,
+          "playcount": 109,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1002,29 +1002,29 @@
         },
         {
           "name": "I'd Have You Any Time (2020 Mix)",
-          "playcount": 74,
+          "playcount": 73,
           "url": "https://www.last.fm/music/George+Harrison/_/I%27d+Have+You+Any+Time+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "Apple Scruffs (2020 Mix)",
-          "playcount": 60,
+          "playcount": 59,
           "url": "https://www.last.fm/music/George+Harrison/_/Apple+Scruffs+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
-          "name": "Don't Let Me Wait Too Long",
-          "playcount": 60,
-          "url": "https://www.last.fm/music/George+Harrison/_/Don%27t+Let+Me+Wait+Too+Long",
+          "name": "All Things Must Pass (2020 Mix)",
+          "playcount": 58,
+          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
-          "name": "All Things Must Pass (2020 Mix)",
-          "playcount": 59,
-          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
+          "name": "Don't Let Me Wait Too Long",
+          "playcount": 57,
+          "url": "https://www.last.fm/music/George+Harrison/_/Don%27t+Let+Me+Wait+Too+Long",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
@@ -1041,7 +1041,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3910,
+          "playcount": 3911,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,7 +1053,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1554,
+          "playcount": 1547,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 1083,
+          "playcount": 1081,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1131,14 +1131,14 @@
         },
         {
           "name": "Stop Making Sense (Live)",
-          "playcount": 364,
+          "playcount": 362,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
         },
         {
           "name": "Living in the Material World",
-          "playcount": 345,
+          "playcount": 346,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
@@ -1159,7 +1159,7 @@
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 288,
+          "playcount": 293,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -1249,13 +1249,13 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3942,
+          "playcount": 3943,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 2495,
+          "playcount": 2500,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1367,7 +1367,7 @@
         },
         {
           "name": "Living in the Material World",
-          "playcount": 345,
+          "playcount": 346,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
