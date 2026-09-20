@@ -1,6 +1,6 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-20T11:10:23.927146Z",
+  "generatedAt": "2026-09-20T15:56:54.518163Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -26,14 +26,31 @@ window.DEANDRO_CHESS_DATA = {
       "draws": 0
     },
     "daily": {
-      "current": 853,
+      "current": 841,
       "best": 1200,
       "wins": 14,
-      "losses": 20,
+      "losses": 21,
       "draws": 1
     }
   },
   "recentGames": [
+    {
+      "id": "1025154614",
+      "url": "https://www.chess.com/game/daily/1025154614",
+      "date": "2026-09-20T11:45:46Z",
+      "player": "Deandro_M",
+      "opponent": "babaktaheri",
+      "color": "white",
+      "rating": 841,
+      "opponentRating": 952,
+      "result": "loss",
+      "termination": "resigned",
+      "timeClass": "daily",
+      "timeControl": "1/259200",
+      "opening": "Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6",
+      "accuracy": 67.5,
+      "fen": "r4rk1/2p3p1/3p3p/p1pPp1b1/P1P5/BP1Q2P1/5R1P/3q2K1 w - - 0 29"
+    },
     {
       "id": "174315484646",
       "url": "https://www.chess.com/game/live/174315484646",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Alekhines Defense Maroczy Variation",
       "accuracy": 61.4,
       "fen": "5bk1/1R3p1p/4p1p1/pp5q/4P3/1PP3P1/P4PK1/8 b - - 2 29"
-    },
-    {
-      "id": "174164170502",
-      "url": "https://www.chess.com/game/live/174164170502",
-      "date": "2026-09-08T08:32:05Z",
-      "player": "Deandro_M",
-      "opponent": "Mirelaonfire",
-      "color": "white",
-      "rating": 698,
-      "opponentRating": 658,
-      "result": "win",
-      "termination": "resigned",
-      "timeClass": "rapid",
-      "timeControl": "900+10",
-      "opening": "Queens Gambit Declined 3.e3",
-      "accuracy": 78.1,
-      "fen": "5rk1/p3qppp/1pQ2n2/1N6/8/BP2r3/P4PPP/R4RK1 w - - 0 20"
     }
   ],
   "featuredGames": [
