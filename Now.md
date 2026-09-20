@@ -5,7 +5,7 @@ I'm planning on putting stuff here like the songs I'm busy with, some thought fr
 
 
 ## Thought fragments
-*The world will only know peace if everyone and everything would accept everyone and everything.*
+*The world will only know peace if everyone and everything would accept everyone and everything.* See the **/writing** part of my site to view my full thoughts on this quote!
 
 
 ## Philosophy
