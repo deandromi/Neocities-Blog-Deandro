@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-21T04:52:33.567842Z",
+  "generatedAt": "2026-09-21T12:44:36.602275Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 26998,
+    "playcount": 27004,
     "artistCount": 381,
     "albumCount": 1025,
     "trackCount": 4958,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "All Things Must Pass (2020 Mix)",
-    "artist": "George Harrison",
-    "album": "All Things Must Pass (50th Anniversary Edition)",
-    "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+    "name": "Do Right Woman, Do Right Man (Stereo Version)",
+    "artist": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "url": "https://www.last.fm/music/Aretha+Franklin/_/Do+Right+Woman,+Do+Right+Man+(Stereo+Version)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f1fd0db3f40147342799c56f0c72f118.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-09-20T21:02:36Z"
+    "playedAt": "2026-09-21T09:44:58Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-21",
         "label": "21 September",
         "shortLabel": "21 Sep",
-        "count": 0
+        "count": 6
       }
     ]
   },
@@ -208,15 +208,15 @@
     "7day": {
       "artists": [
         {
-          "name": "The Heavenly Bodes",
-          "playcount": 40,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Smiths",
           "playcount": 40,
           "url": "https://www.last.fm/music/The+Smiths",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Heavenly Bodes",
+          "playcount": 34,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -226,14 +226,8 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Van Morrison",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/Van+Morrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Beatles",
-          "playcount": 15,
+          "playcount": 17,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -241,6 +235,12 @@
           "name": "Norah Jones",
           "playcount": 14,
           "url": "https://www.last.fm/music/Norah+Jones",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Van Morrison",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -262,20 +262,13 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Grateful Dead",
+          "name": "Neil Young",
           "playcount": 7,
-          "url": "https://www.last.fm/music/Grateful+Dead",
+          "url": "https://www.last.fm/music/Neil+Young",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
-        {
-          "name": "Green Hills",
-          "playcount": 40,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
-          "artist": "The Heavenly Bodes"
-        },
         {
           "name": "Louder Than Bombs",
           "playcount": 39,
@@ -284,11 +277,11 @@
           "artist": "The Smiths"
         },
         {
-          "name": "Moondance",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Van+Morrison/Moondance",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
-          "artist": "Van Morrison"
+          "name": "Green Hills",
+          "playcount": 34,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
@@ -298,18 +291,18 @@
           "artist": "George Harrison"
         },
         {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Come Away with Me",
           "playcount": 13,
           "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
           "artist": "Norah Jones"
-        },
-        {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
         },
         {
           "name": "George Harrison",
@@ -326,6 +319,13 @@
           "artist": "Leonard Cohen"
         },
         {
+          "name": "Moondance",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Van+Morrison/Moondance",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
+          "artist": "Van Morrison"
+        },
+        {
           "name": "Remain in Light",
           "playcount": 8,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
@@ -333,11 +333,11 @@
           "artist": "Talking Heads"
         },
         {
-          "name": "Workingman's Dead",
+          "name": "Easter",
           "playcount": 7,
-          "url": "https://www.last.fm/music/Grateful+Dead/Workingman%27s+Dead",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a953eb3d96f639d0580611862893145d.jpg",
-          "artist": "Grateful Dead"
+          "url": "https://www.last.fm/music/Patti+Smith/Easter",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/876cdba510db7b9f2915ad3dd146abfa.jpg",
+          "artist": "Patti Smith"
         }
       ],
       "tracks": [
@@ -350,17 +350,10 @@
         },
         {
           "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 12,
+          "playcount": 14,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
-        },
-        {
-          "name": "National Express",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
         },
         {
           "name": "Acting",
@@ -377,16 +370,16 @@
           "artist": "The Smiths"
         },
         {
-          "name": "De Groene Heuvels",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
+          "name": "National Express",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Faux Pillars",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Faux+Pillars",
+          "name": "De Groene Heuvels",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
         },
@@ -398,18 +391,25 @@
           "artist": "The Smiths"
         },
         {
-          "name": "These Dreams of You",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Van+Morrison/_/These+Dreams+of+You",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Van Morrison"
-        },
-        {
-          "name": "Sea Water",
+          "name": "Faux Pillars",
           "playcount": 4,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Sea+Water",
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Faux+Pillars",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "Non Stop",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Stranglers/_/Non+Stop",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Stranglers"
+        },
+        {
+          "name": "Blow Away",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/George+Harrison/_/Blow+Away",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         }
       ]
     },
@@ -423,7 +423,7 @@
         },
         {
           "name": "The Heavenly Bodes",
-          "playcount": 80,
+          "playcount": 83,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -441,7 +441,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 42,
+          "playcount": 43,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -479,7 +479,7 @@
       "albums": [
         {
           "name": "Green Hills",
-          "playcount": 76,
+          "playcount": 79,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
@@ -551,14 +551,14 @@
       "tracks": [
         {
           "name": "Acting",
-          "playcount": 20,
+          "playcount": 21,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
         },
         {
           "name": "National Express",
-          "playcount": 19,
+          "playcount": 20,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
@@ -571,6 +571,13 @@
           "artist": "The Smiths"
         },
         {
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Blow Away",
           "playcount": 13,
           "url": "https://www.last.fm/music/George+Harrison/_/Blow+Away",
@@ -578,18 +585,18 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "My Sweet Lord (2020 Mix)",
           "playcount": 11,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "De Groene Heuvels",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
         },
         {
           "name": "Faux Pillars",
@@ -611,13 +618,6 @@
           "url": "https://www.last.fm/music/George+Harrison/_/Faster",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "De Groene Heuvels",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
         }
       ]
     },
@@ -631,7 +631,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 257,
+          "playcount": 259,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -667,7 +667,7 @@
         },
         {
           "name": "The Heavenly Bodes",
-          "playcount": 85,
+          "playcount": 88,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -701,7 +701,7 @@
         },
         {
           "name": "Green Hills",
-          "playcount": 81,
+          "playcount": 84,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
@@ -715,7 +715,7 @@
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 56,
+          "playcount": 58,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -773,8 +773,15 @@
         },
         {
           "name": "Acting",
-          "playcount": 21,
+          "playcount": 22,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "National Express",
+          "playcount": 20,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
         },
@@ -786,18 +793,18 @@
           "artist": "George Harrison"
         },
         {
-          "name": "National Express",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
-        },
-        {
           "name": "House Of Ten",
           "playcount": 17,
           "url": "https://www.last.fm/music/The+Pretty+Things/_/House+Of+Ten",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Pretty Things"
+        },
+        {
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
         },
         {
           "name": "Yesterday's Papers",
@@ -819,13 +826,6 @@
           "url": "https://www.last.fm/music/Amy+Winehouse/_/You+Sent+Me+Flying+%2F+Cherry",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Amy Winehouse"
-        },
-        {
-          "name": "All Things Must Pass (2020 Mix)",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
         }
       ]
     },
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2150,
+          "playcount": 2147,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,7 +857,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 436,
+          "playcount": 438,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -909,7 +909,7 @@
         },
         {
           "name": "Living in the Material World",
-          "playcount": 261,
+          "playcount": 258,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
@@ -1053,19 +1053,19 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1547,
+          "playcount": 1549,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1336,
+          "playcount": 1331,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Talking Heads",
-          "playcount": 1080,
+          "playcount": 1077,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1095,7 +1095,7 @@
         },
         {
           "name": "John Lennon",
-          "playcount": 344,
+          "playcount": 343,
           "url": "https://www.last.fm/music/John+Lennon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -1131,7 +1131,7 @@
         },
         {
           "name": "Stop Making Sense (Live)",
-          "playcount": 361,
+          "playcount": 358,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
@@ -1159,7 +1159,7 @@
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 293,
+          "playcount": 295,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -1255,7 +1255,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 2500,
+          "playcount": 2502,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
