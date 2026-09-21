@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-21T12:44:36.602275Z",
+  "generatedAt": "2026-09-21T19:59:02.852413Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27004,
+    "playcount": 27027,
     "artistCount": 381,
     "albumCount": 1025,
-    "trackCount": 4958,
+    "trackCount": 4965,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Do Right Woman, Do Right Man (Stereo Version)",
-    "artist": "Aretha Franklin",
-    "album": "I Never Loved a Man the Way I Love You",
-    "url": "https://www.last.fm/music/Aretha+Franklin/_/Do+Right+Woman,+Do+Right+Man+(Stereo+Version)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f1fd0db3f40147342799c56f0c72f118.jpg",
+    "name": "King Harvest (Has Surely Come)",
+    "artist": "The Band",
+    "album": "The Band",
+    "url": "https://www.last.fm/music/The+Band/_/King+Harvest+(Has+Surely+Come)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fc0a599b522abafb7338f82f7f0a8b4e.png",
     "nowPlaying": false,
-    "playedAt": "2026-09-21T09:44:58Z"
+    "playedAt": "2026-09-21T17:51:30Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-09-21",
         "label": "21 September",
         "shortLabel": "21 Sep",
-        "count": 6
+        "count": 29
       }
     ]
   },
@@ -215,7 +215,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Heavenly Bodes",
-          "playcount": 34,
+          "playcount": 32,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -239,8 +239,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Van Morrison",
-          "playcount": 11,
+          "playcount": 14,
           "url": "https://www.last.fm/music/Van+Morrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Band",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Band",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -260,12 +266,6 @@ window.DEANDRO_LASTFM_DATA = {
           "playcount": 8,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Neil Young",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Neil+Young",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
@@ -278,7 +278,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Green Hills",
-          "playcount": 34,
+          "playcount": 32,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
@@ -305,6 +305,20 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Norah Jones"
         },
         {
+          "name": "The Band",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Band/The+Band",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fc0a599b522abafb7338f82f7f0a8b4e.png",
+          "artist": "The Band"
+        },
+        {
+          "name": "Moondance",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Van+Morrison/Moondance",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
+          "artist": "Van Morrison"
+        },
+        {
           "name": "George Harrison",
           "playcount": 11,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
@@ -319,25 +333,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Leonard Cohen"
         },
         {
-          "name": "Moondance",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Van+Morrison/Moondance",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
-          "artist": "Van Morrison"
-        },
-        {
           "name": "Remain in Light",
           "playcount": 8,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
-        },
-        {
-          "name": "Easter",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Patti+Smith/Easter",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/876cdba510db7b9f2915ad3dd146abfa.jpg",
-          "artist": "Patti Smith"
         }
       ],
       "tracks": [
@@ -356,13 +356,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Acting",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
-        },
-        {
           "name": "Back to the Old House (2011 Remaster)",
           "playcount": 10,
           "url": "https://www.last.fm/music/The+Smiths/_/Back+to+the+Old+House+(2011+Remaster)",
@@ -370,8 +363,15 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Smiths"
         },
         {
-          "name": "National Express",
+          "name": "Acting",
           "playcount": 9,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "National Express",
+          "playcount": 8,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
@@ -398,18 +398,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Non Stop",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/The+Stranglers/_/Non+Stop",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Stranglers"
-        },
-        {
           "name": "Blow Away",
           "playcount": 3,
           "url": "https://www.last.fm/music/George+Harrison/_/Blow+Away",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Sea Water",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Sea+Water",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
         }
       ]
     },
@@ -429,7 +429,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Van Morrison",
-          "playcount": 67,
+          "playcount": 71,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -493,7 +493,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Moondance",
-          "playcount": 50,
+          "playcount": 54,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
           "artist": "Van Morrison"
@@ -642,21 +642,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Small Faces",
-          "playcount": 116,
-          "url": "https://www.last.fm/music/Small+Faces",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Van Morrison",
-          "playcount": 105,
+          "playcount": 109,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beach Boys",
-          "playcount": 100,
-          "url": "https://www.last.fm/music/The+Beach+Boys",
+          "name": "Small Faces",
+          "playcount": 106,
+          "url": "https://www.last.fm/music/Small+Faces",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -669,6 +663,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Heavenly Bodes",
           "playcount": 88,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Beach Boys",
+          "playcount": 87,
+          "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -722,7 +722,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Moondance",
-          "playcount": 51,
+          "playcount": 55,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
           "artist": "Van Morrison"
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2147,
+          "playcount": 2134,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,7 +845,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Kinks",
-          "playcount": 628,
+          "playcount": 609,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -875,7 +875,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Who",
-          "playcount": 273,
+          "playcount": 259,
           "url": "https://www.last.fm/music/The+Who",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -902,7 +902,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Something Else By The Kinks",
-          "playcount": 413,
+          "playcount": 407,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
@@ -988,7 +988,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Waterloo Sunset",
-          "playcount": 94,
+          "playcount": 91,
           "url": "https://www.last.fm/music/The+Kinks/_/Waterloo+Sunset",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Kinks"
@@ -1053,19 +1053,19 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1549,
+          "playcount": 1544,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1331,
+          "playcount": 1330,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Talking Heads",
-          "playcount": 1077,
+          "playcount": 1052,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1089,13 +1089,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Pink Floyd",
-          "playcount": 371,
+          "playcount": 364,
           "url": "https://www.last.fm/music/Pink+Floyd",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "John Lennon",
-          "playcount": 343,
+          "playcount": 340,
           "url": "https://www.last.fm/music/John+Lennon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -1130,18 +1130,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Talking Heads"
         },
         {
-          "name": "Stop Making Sense (Live)",
-          "playcount": 358,
-          "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
-          "artist": "Talking Heads"
-        },
-        {
           "name": "Living in the Material World",
           "playcount": 347,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Stop Making Sense (Live)",
+          "playcount": 333,
+          "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
+          "artist": "Talking Heads"
         },
         {
           "name": "Pink Moon",
@@ -1159,7 +1159,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 295,
+          "playcount": 290,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
