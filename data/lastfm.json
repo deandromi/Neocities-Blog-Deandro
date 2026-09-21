@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-20T23:14:21.315884Z",
+  "generatedAt": "2026-09-21T04:52:33.567842Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 133,
+          "playcount": 132,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -486,7 +486,7 @@
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 65,
+          "playcount": 64,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -625,7 +625,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 304,
+          "playcount": 291,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -637,13 +637,13 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 130,
+          "playcount": 124,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Small Faces",
-          "playcount": 121,
+          "playcount": 116,
           "url": "https://www.last.fm/music/Small+Faces",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -687,7 +687,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 205,
+          "playcount": 203,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -772,13 +772,6 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Ghosts",
-          "playcount": 22,
-          "url": "https://www.last.fm/music/The+Jam/_/Ghosts",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Jam"
-        },
-        {
           "name": "Acting",
           "playcount": 21,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
@@ -791,13 +784,6 @@
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "In My Lonely Room",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/The+Action/_/In+My+Lonely+Room",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Action"
         },
         {
           "name": "National Express",
@@ -826,6 +812,20 @@
           "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
+        },
+        {
+          "name": "You Sent Me Flying / Cherry",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Amy+Winehouse/_/You+Sent+Me+Flying+%2F+Cherry",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Amy Winehouse"
+        },
+        {
+          "name": "All Things Must Pass (2020 Mix)",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         }
       ]
     },
