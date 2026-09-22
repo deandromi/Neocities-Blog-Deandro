@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-22T16:55:49.316386Z",
+  "generatedAt": "2026-09-22T21:16:51.318126Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -833,13 +833,13 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2134,
+          "playcount": 2125,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 639,
+          "playcount": 628,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -881,7 +881,7 @@
         },
         {
           "name": "The Who",
-          "playcount": 230,
+          "playcount": 218,
           "url": "https://www.last.fm/music/The+Who",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -950,18 +950,18 @@
           "artist": "Bob Dylan"
         },
         {
-          "name": "Extra Texture",
-          "playcount": 146,
-          "url": "https://www.last.fm/music/George+Harrison/Extra+Texture",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7135ca6f72d88db47de0213a8bd77854.jpg",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Pink Moon",
           "playcount": 140,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "Extra Texture",
+          "playcount": 137,
+          "url": "https://www.last.fm/music/George+Harrison/Extra+Texture",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7135ca6f72d88db47de0213a8bd77854.jpg",
+          "artist": "George Harrison"
         }
       ],
       "tracks": [
