@@ -9,7 +9,6 @@ I'm planning on putting stuff here like the songs I'm busy with, some thought fr
 
 
 ## Philosophy
-Currently busy with writing about my view on Natural State Philosophy and Jean-Jacques Rousseau his view on the subject. The text will also include my criticism on neo-communism as I call it. Which in my view, is a fake and extremely corrupt form of democracy that doesn't align with the founding fathers their perspectives on communism or socialism. Great examples of this are the current governing powers of China, Russia and the former Soviet-Union. In my opinion, communism was never even executed properly in any way, not even in the Soviet-Union, according to the traditional views of the subject. I'll also discover my view on how the Natural State Philosophy would be viewed when associated with either traditional sense communism, fascism, democracy or with no governing power whatsoever.
 
 
 
