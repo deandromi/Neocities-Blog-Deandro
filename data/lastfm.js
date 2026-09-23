@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-23T11:32:20.913761Z",
+  "generatedAt": "2026-09-23T16:55:28.499047Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27043,
+    "playcount": 27060,
     "artistCount": 381,
     "albumCount": 1025,
-    "trackCount": 4965,
+    "trackCount": 4969,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Sexy Sadie (2018 Mix)",
-    "artist": "The Beatles",
-    "album": "The Beatles (White Album / Super Deluxe)",
-    "url": "https://www.last.fm/music/The+Beatles/_/Sexy+Sadie+(2018+Mix)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-    "nowPlaying": true,
-    "playedAt": null
+    "name": "Cold Turkey (Live At The One To One Concert, Afternoon Show)",
+    "artist": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory",
+    "album": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
+    "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory/_/Cold+Turkey+(Live+At+The+One+To+One+Concert,+Afternoon+Show)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/98996ca89ffa3217a423a1998361de52.png",
+    "nowPlaying": false,
+    "playedAt": "2026-09-23T16:46:56Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-09-23",
         "label": "23 September",
         "shortLabel": "23 Sep",
-        "count": 16
+        "count": 33
       }
     ]
   },
@@ -209,7 +209,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "The Smiths",
-          "playcount": 38,
+          "playcount": 33,
           "url": "https://www.last.fm/music/The+Smiths",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -221,7 +221,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 23,
+          "playcount": 28,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -250,6 +250,12 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Talking Heads",
           "playcount": 8,
           "url": "https://www.last.fm/music/Talking+Heads",
@@ -260,25 +266,19 @@ window.DEANDRO_LASTFM_DATA = {
           "playcount": 7,
           "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Patti Smith",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Patti+Smith",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
         {
           "name": "Louder Than Bombs",
-          "playcount": 38,
+          "playcount": 33,
           "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
           "artist": "The Smiths"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 21,
+          "playcount": 26,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -326,38 +326,38 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory/Power+To+The+People+(Live+At+The+One+To+One+Concert+-+Afternoon+&+Evening+Shows)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/98996ca89ffa3217a423a1998361de52.png",
+          "artist": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory"
+        },
+        {
           "name": "Remain in Light",
           "playcount": 8,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
-        },
-        {
-          "name": "Songs of Leonard Cohen",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
-          "artist": "Leonard Cohen"
         }
       ],
       "tracks": [
         {
-          "name": "Half a Person (2011 Remaster)",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Smiths"
-        },
-        {
           "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 14,
+          "playcount": 15,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
         },
         {
+          "name": "Half a Person (2011 Remaster)",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Smiths"
+        },
+        {
           "name": "Back to the Old House (2011 Remaster)",
-          "playcount": 9,
+          "playcount": 8,
           "url": "https://www.last.fm/music/The+Smiths/_/Back+to+the+Old+House+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
@@ -377,18 +377,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Oscillate Wildly (2011 Remaster)",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Smiths/_/Oscillate+Wildly+(2011+Remaster)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Smiths"
-        },
-        {
           "name": "De Groene Heuvels",
           "playcount": 5,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "Oscillate Wildly (2011 Remaster)",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Smiths/_/Oscillate+Wildly+(2011+Remaster)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Smiths"
         },
         {
           "name": "Seven Years",
@@ -434,33 +434,33 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Beatles",
+          "playcount": 54,
+          "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Bob Dylan",
           "playcount": 49,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 49,
-          "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Smiths",
-          "playcount": 41,
+          "playcount": 45,
           "url": "https://www.last.fm/music/The+Smiths",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Leonard Cohen",
-          "playcount": 30,
-          "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Stranglers",
           "playcount": 30,
           "url": "https://www.last.fm/music/The+Stranglers",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Leonard Cohen",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -507,7 +507,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Louder Than Bombs",
-          "playcount": 40,
+          "playcount": 44,
           "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
           "artist": "The Smiths"
@@ -527,6 +527,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Norah Jones"
         },
         {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "New Morning",
           "playcount": 24,
           "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
@@ -535,17 +542,10 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Songs of Leonard Cohen",
-          "playcount": 22,
+          "playcount": 21,
           "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
           "artist": "Leonard Cohen"
-        },
-        {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
         }
       ],
       "tracks": [
@@ -565,14 +565,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Half a Person (2011 Remaster)",
-          "playcount": 16,
+          "playcount": 17,
           "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Smiths"
         },
         {
           "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 14,
+          "playcount": 15,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -631,7 +631,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 265,
+          "playcount": 185,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -707,13 +707,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 64,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "Between the Buttons",
           "playcount": 61,
           "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
@@ -735,6 +728,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "Louder Than Bombs",
+          "playcount": 46,
+          "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
+          "artist": "The Smiths"
+        },
+        {
           "name": "Debussy: Piano Works",
           "playcount": 45,
           "url": "https://www.last.fm/music/Claude+Debussy/Debussy:+Piano+Works",
@@ -749,11 +749,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Ten Years After"
         },
         {
-          "name": "Louder Than Bombs",
-          "playcount": 42,
-          "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
-          "artist": "The Smiths"
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 39,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
         }
       ],
       "tracks": [
@@ -793,6 +793,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "Half a Person (2011 Remaster)",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Smiths"
+        },
+        {
           "name": "Long, Long, Long (2018 Mix)",
           "playcount": 16,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
@@ -805,13 +812,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Rolling+Stones/_/Yesterday%27s+Papers",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Rolling Stones"
-        },
-        {
-          "name": "Half a Person (2011 Remaster)",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Smiths"
         },
         {
           "name": "House Of Ten",
@@ -845,7 +845,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Kinks",
-          "playcount": 609,
+          "playcount": 607,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,7 +857,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 443,
+          "playcount": 447,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -869,7 +869,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beach Boys",
-          "playcount": 335,
+          "playcount": 334,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -902,7 +902,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Something Else By The Kinks",
-          "playcount": 407,
+          "playcount": 406,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
@@ -1053,7 +1053,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1547,
+          "playcount": 1552,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1151,18 +1151,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Nick Drake"
         },
         {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 300,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Blonde on Blonde",
           "playcount": 298,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
-        },
-        {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 295,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
         },
         {
           "name": "The Basement Tapes",
@@ -1255,7 +1255,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 2508,
+          "playcount": 2513,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1374,7 +1374,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 335,
+          "playcount": 340,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
