@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-23T04:42:38.899484Z",
+  "generatedAt": "2026-09-23T11:32:20.913761Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27027,
+    "playcount": 27043,
     "artistCount": 381,
     "albumCount": 1025,
     "trackCount": 4965,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "King Harvest (Has Surely Come)",
-    "artist": "The Band",
-    "album": "The Band",
-    "url": "https://www.last.fm/music/The+Band/_/King+Harvest+(Has+Surely+Come)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fc0a599b522abafb7338f82f7f0a8b4e.png",
-    "nowPlaying": false,
-    "playedAt": "2026-09-21T17:51:30Z"
+    "name": "Sexy Sadie (2018 Mix)",
+    "artist": "The Beatles",
+    "album": "The Beatles (White Album / Super Deluxe)",
+    "url": "https://www.last.fm/music/The+Beatles/_/Sexy+Sadie+(2018+Mix)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-09-23",
         "label": "23 September",
         "shortLabel": "23 Sep",
-        "count": 0
+        "count": 16
       }
     ]
   },
@@ -220,20 +220,20 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Heavenly Bodes",
-          "playcount": 26,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Beatles",
-          "playcount": 17,
+          "playcount": 23,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Heavenly Bodes",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Norah Jones",
-          "playcount": 14,
+          "playcount": 20,
           "url": "https://www.last.fm/music/Norah+Jones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -277,11 +277,25 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Smiths"
         },
         {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Green Hills",
-          "playcount": 26,
+          "playcount": 21,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "Come Away with Me",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
+          "artist": "Norah Jones"
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
@@ -289,20 +303,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
-        },
-        {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Come Away with Me",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
-          "artist": "Norah Jones"
         },
         {
           "name": "The Band",
@@ -364,22 +364,15 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Acting",
-          "playcount": 8,
+          "playcount": 7,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
         },
         {
           "name": "National Express",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
-        },
-        {
-          "name": "De Groene Heuvels",
           "playcount": 6,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
         },
@@ -391,11 +384,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Smiths"
         },
         {
-          "name": "Faux Pillars",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Faux+Pillars",
+          "name": "De Groene Heuvels",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "Seven Years",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Norah+Jones/_/Seven+Years",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Norah Jones"
         },
         {
           "name": "Non Stop",
@@ -441,7 +441,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 43,
+          "playcount": 49,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -464,15 +464,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Rolling Stones",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/The+Rolling+Stones",
+          "name": "Norah Jones",
+          "playcount": 27,
+          "url": "https://www.last.fm/music/Norah+Jones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Norah Jones",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Norah+Jones",
+          "name": "The Rolling Stones",
+          "playcount": 23,
+          "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -520,6 +520,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Stranglers"
         },
         {
+          "name": "Come Away with Me",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
+          "artist": "Norah Jones"
+        },
+        {
           "name": "New Morning",
           "playcount": 24,
           "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
@@ -534,18 +541,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Leonard Cohen"
         },
         {
-          "name": "Come Away with Me",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
-          "artist": "Norah Jones"
-        },
-        {
-          "name": "Between the Buttons",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/77bba36a1bf17119e2ec268598524641.jpg",
-          "artist": "The Rolling Stones"
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
         }
       ],
       "tracks": [
@@ -631,13 +631,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 259,
+          "playcount": 265,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 124,
+          "playcount": 113,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -707,18 +707,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Between the Buttons",
-          "playcount": 61,
-          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/77bba36a1bf17119e2ec268598524641.jpg",
-          "artist": "The Rolling Stones"
-        },
-        {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 58,
+          "playcount": 64,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
+        },
+        {
+          "name": "Between the Buttons",
+          "playcount": 61,
+          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
+          "artist": "The Rolling Stones"
         },
         {
           "name": "Moondance",
@@ -793,13 +793,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "House Of Ten",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/The+Pretty+Things/_/House+Of+Ten",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Pretty Things"
-        },
-        {
           "name": "Long, Long, Long (2018 Mix)",
           "playcount": 16,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
@@ -821,6 +814,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Smiths"
         },
         {
+          "name": "House Of Ten",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/The+Pretty+Things/_/House+Of+Ten",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Pretty Things"
+        },
+        {
           "name": "You Sent Me Flying / Cherry",
           "playcount": 14,
           "url": "https://www.last.fm/music/Amy+Winehouse/_/You+Sent+Me+Flying+%2F+Cherry",
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2125,
+          "playcount": 2124,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,7 +857,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 438,
+          "playcount": 443,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,7 +1053,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1541,
+          "playcount": 1547,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1159,7 +1159,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 289,
+          "playcount": 295,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -1255,7 +1255,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 2502,
+          "playcount": 2508,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1373,11 +1373,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Pink Moon",
-          "playcount": 333,
-          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
-          "artist": "Nick Drake"
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 335,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
         }
       ],
       "tracks": [
