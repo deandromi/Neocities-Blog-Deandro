@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-25T04:54:48.347555Z",
+  "generatedAt": "2026-09-25T11:48:17.868944Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27095,
+    "playcount": 27112,
     "artistCount": 381,
     "albumCount": 1025,
-    "trackCount": 4975,
+    "trackCount": 4976,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Sisters of Mercy",
-    "artist": "Leonard Cohen",
-    "album": "Songs of Leonard Cohen",
-    "url": "https://www.last.fm/music/Leonard+Cohen/_/Sisters+of+Mercy",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
+    "name": "When I See That Girl of Mine",
+    "artist": "The Kinks",
+    "album": "The Kink Kontroversy",
+    "url": "https://www.last.fm/music/The+Kinks/_/When+I+See+That+Girl+of+Mine",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/aaf44354b3ede22e9fd6795da57181b9.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-09-24T18:56:05Z"
+    "playedAt": "2026-09-25T09:50:38Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-25",
         "label": "25 September",
         "shortLabel": "25 Sep",
-        "count": 0
+        "count": 17
       }
     ]
   },
@@ -209,14 +209,8 @@
       "artists": [
         {
           "name": "The Beatles",
-          "playcount": 32,
+          "playcount": 38,
           "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "George Harrison",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -226,9 +220,9 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Smiths",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/The+Smiths",
+          "name": "Talking Heads",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -250,15 +244,21 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory",
+          "name": "George Harrison",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Talking Heads",
+          "name": "The Smiths",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/The+Smiths",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory",
           "playcount": 8,
-          "url": "https://www.last.fm/music/Talking+Heads",
+          "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -284,18 +284,18 @@
           "artist": "Norah Jones"
         },
         {
-          "name": "Louder Than Bombs",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
-          "artist": "The Smiths"
-        },
-        {
           "name": "Songs of Leonard Cohen",
           "playcount": 12,
           "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
           "artist": "Leonard Cohen"
+        },
+        {
+          "name": "Remain in Light",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+          "artist": "Talking Heads"
         },
         {
           "name": "The Band",
@@ -305,18 +305,18 @@
           "artist": "The Band"
         },
         {
-          "name": "George Harrison",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Green Hills",
           "playcount": 10,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "Louder Than Bombs",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
+          "artist": "The Smiths"
         },
         {
           "name": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
@@ -326,18 +326,18 @@
           "artist": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory"
         },
         {
-          "name": "Remain in Light",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
-          "artist": "Talking Heads"
-        },
-        {
           "name": "Charm",
           "playcount": 7,
           "url": "https://www.last.fm/music/Clairo/Charm",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
           "artist": "Clairo"
+        },
+        {
+          "name": "All Things Must Pass (50th Anniversary Edition)",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "artist": "George Harrison"
         }
       ],
       "tracks": [
@@ -349,11 +349,11 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Half a Person (2011 Remaster)",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Smiths"
+          "artist": "The Beatles"
         },
         {
           "name": "Acting",
@@ -377,6 +377,13 @@
           "artist": "The Heavenly Bodes"
         },
         {
+          "name": "Half a Person (2011 Remaster)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Smiths/_/Half+a+Person+(2011+Remaster)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Smiths"
+        },
+        {
           "name": "Oscillate Wildly (2011 Remaster)",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Smiths/_/Oscillate+Wildly+(2011+Remaster)",
@@ -398,13 +405,6 @@
           "artist": "Aretha Franklin"
         },
         {
-          "name": "Blow Away",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/George+Harrison/_/Blow+Away",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Run Of The Mill (2020 Mix)",
           "playcount": 2,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 127,
+          "playcount": 124,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -429,26 +429,26 @@
         },
         {
           "name": "Van Morrison",
-          "playcount": 71,
+          "playcount": 72,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 55,
+          "playcount": 61,
           "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bob Dylan",
-          "playcount": 45,
-          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Smiths",
           "playcount": 45,
           "url": "https://www.last.fm/music/The+Smiths",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bob Dylan",
+          "playcount": 42,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -470,9 +470,9 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/Nick+Drake",
+          "name": "Carole King",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Carole+King",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -486,7 +486,7 @@
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 59,
+          "playcount": 56,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -631,7 +631,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 151,
+          "playcount": 157,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -643,7 +643,7 @@
         },
         {
           "name": "Van Morrison",
-          "playcount": 109,
+          "playcount": 110,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -679,7 +679,7 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 64,
+          "playcount": 68,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -839,7 +839,7 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 607,
+          "playcount": 611,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,7 +857,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 453,
+          "playcount": 459,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1047,13 +1047,13 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 1625,
+          "playcount": 1629,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 1558,
+          "playcount": 1564,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 1042,
+          "playcount": 1047,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1124,7 +1124,7 @@
         },
         {
           "name": "Remain in Light",
-          "playcount": 395,
+          "playcount": 399,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -1145,7 +1145,7 @@
         },
         {
           "name": "Stop Making Sense (Live)",
-          "playcount": 326,
+          "playcount": 327,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
@@ -1255,13 +1255,13 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 2519,
+          "playcount": 2525,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Kinks",
-          "playcount": 1630,
+          "playcount": 1634,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1285,7 +1285,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 1108,
+          "playcount": 1113,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1346,14 +1346,14 @@
         },
         {
           "name": "Remain in Light",
-          "playcount": 395,
+          "playcount": 399,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
         },
         {
           "name": "Stop Making Sense (Live)",
-          "playcount": 379,
+          "playcount": 380,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
