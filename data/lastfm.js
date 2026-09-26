@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-26T21:07:33.587577Z",
+  "generatedAt": "2026-09-26T23:36:35.610182Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-08-28",
-        "label": "28 August",
-        "shortLabel": "28 Aug",
-        "count": 5
-      },
       {
         "date": "2026-08-29",
         "label": "29 August",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "26 September",
         "shortLabel": "26 Sep",
         "count": 39
+      },
+      {
+        "date": "2026-09-27",
+        "label": "27 September",
+        "shortLabel": "27 Sep",
+        "count": 0
       }
     ]
   },
@@ -209,7 +209,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "The Beatles",
-          "playcount": 40,
+          "playcount": 38,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -271,7 +271,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 26,
+          "playcount": 24,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -343,7 +343,7 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 15,
+          "playcount": 14,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2127,
+          "playcount": 2126,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -851,7 +851,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 467,
+          "playcount": 465,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -875,7 +875,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Billy Joel",
-          "playcount": 239,
+          "playcount": 237,
           "url": "https://www.last.fm/music/Billy+Joel",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -916,7 +916,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Stranger",
-          "playcount": 231,
+          "playcount": 229,
           "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
           "artist": "Billy Joel"
@@ -937,7 +937,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Making Movies",
-          "playcount": 178,
+          "playcount": 177,
           "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
           "artist": "Dire Straits"
@@ -1313,70 +1313,70 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 2592,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
         },
         {
           "name": "Something Else By The Kinks",
           "playcount": 768,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
         },
         {
           "name": "The Wall",
           "playcount": 585,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6af6a9a0d246464f976bef5193823322.png",
           "artist": "Pink Floyd"
         },
         {
           "name": "The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]",
           "playcount": 413,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Dark+Side+Of+The+Moon+(50th+Anniversary)+%5B2023+Remaster%5D",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/db02657c7803723c2f8588f83756403a.jpg",
           "artist": "Pink Floyd"
         },
         {
           "name": "The Kinks Are the Village Green Preservation Society",
           "playcount": 403,
           "url": "https://www.last.fm/music/The+Kinks/The+Kinks+Are+the+Village+Green+Preservation+Society",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f53795b2b0c428ea599dd9a8b337382a.jpg",
           "artist": "The Kinks"
         },
         {
           "name": "Remain in Light",
           "playcount": 399,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
         },
         {
           "name": "Stop Making Sense (Live)",
           "playcount": 380,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
         },
         {
           "name": "Dire Straits",
           "playcount": 373,
           "url": "https://www.last.fm/music/Dire+Straits/Dire+Straits",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b00d5abfbb9eb96a4c11491005a06694.png",
           "artist": "Dire Straits"
         },
         {
           "name": "Living in the Material World",
           "playcount": 347,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
           "playcount": 340,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
         }
       ],
