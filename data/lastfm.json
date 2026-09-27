@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-27T11:59:17.670832Z",
+  "generatedAt": "2026-09-27T16:56:29.948839Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27164,
-    "artistCount": 382,
-    "albumCount": 1027,
-    "trackCount": 4999,
+    "playcount": 27191,
+    "artistCount": 386,
+    "albumCount": 1033,
+    "trackCount": 5018,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Where Love Has Died",
-    "artist": "Scott Walker",
-    "album": "Stretch",
-    "url": "https://www.last.fm/music/Scott+Walker/_/Where+Love+Has+Died",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/548133af5f9891b5e217846023c46f63.jpg",
-    "nowPlaying": true,
-    "playedAt": null
+    "name": "Going Down to Golders Green [Day 1 Demo] [Take 1]",
+    "artist": "George Harrison",
+    "album": "All Things Must Pass (50th Anniversary Edition)",
+    "url": "https://www.last.fm/music/George+Harrison/_/Going+Down+to+Golders+Green+%5BDay+1+Demo%5D+%5BTake+1%5D",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+    "nowPlaying": false,
+    "playedAt": "2026-09-27T15:43:34Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-27",
         "label": "27 September",
         "shortLabel": "27 Sep",
-        "count": 6
+        "count": 33
       }
     ]
   },
@@ -227,13 +227,13 @@
         },
         {
           "name": "George Harrison",
-          "playcount": 12,
+          "playcount": 13,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Scott Walker",
-          "playcount": 12,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -250,21 +250,21 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Nick Drake",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Norah Jones",
           "playcount": 8,
           "url": "https://www.last.fm/music/Norah+Jones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Leonard Cohen",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Leonard+Cohen",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Nick+Drake",
+          "name": "The Mahavishnu Orchestra with John Mclaughlin",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -306,7 +306,7 @@
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 10,
+          "playcount": 11,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -333,11 +333,11 @@
           "artist": "Norah Jones"
         },
         {
-          "name": "Songs of Leonard Cohen",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
-          "artist": "Leonard Cohen"
+          "name": "The Inner Mounting Flame",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
+          "artist": "The Mahavishnu Orchestra with John Mclaughlin"
         }
       ],
       "tracks": [
@@ -361,13 +361,6 @@
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Do Right Woman, Do Right Man (Stereo Version)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Aretha+Franklin/_/Do+Right+Woman,+Do+Right+Man+(Stereo+Version)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Aretha Franklin"
         },
         {
           "name": "All Things Must Pass (2020 Mix)",
@@ -410,6 +403,13 @@
           "url": "https://www.last.fm/music/Norah+Jones/_/Seven+Years",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Norah Jones"
+        },
+        {
+          "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
         }
       ]
     },
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 124,
+          "playcount": 125,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -429,7 +429,7 @@
         },
         {
           "name": "Van Morrison",
-          "playcount": 72,
+          "playcount": 73,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -465,7 +465,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 27,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -486,7 +486,7 @@
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 59,
+          "playcount": 60,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -625,7 +625,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 264,
+          "playcount": 265,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -637,26 +637,26 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 113,
+          "playcount": 114,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Van Morrison",
-          "playcount": 110,
+          "playcount": 111,
           "url": "https://www.last.fm/music/Van+Morrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 100,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Small Faces",
           "playcount": 100,
           "url": "https://www.last.fm/music/Small+Faces",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 98,
-          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -673,7 +673,7 @@
         },
         {
           "name": "The Rolling Stones",
-          "playcount": 83,
+          "playcount": 84,
           "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -687,7 +687,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 183,
+          "playcount": 184,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -708,7 +708,7 @@
         },
         {
           "name": "Between the Buttons",
-          "playcount": 61,
+          "playcount": 62,
           "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
           "artist": "The Rolling Stones"
@@ -845,7 +845,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 586,
+          "playcount": 587,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -863,7 +863,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 388,
+          "playcount": 390,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -875,7 +875,7 @@
         },
         {
           "name": "Billy Joel",
-          "playcount": 237,
+          "playcount": 236,
           "url": "https://www.last.fm/music/Billy+Joel",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -916,7 +916,7 @@
         },
         {
           "name": "The Stranger",
-          "playcount": 229,
+          "playcount": 228,
           "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
           "artist": "Billy Joel"
@@ -1002,7 +1002,7 @@
         },
         {
           "name": "I'd Have You Any Time (2020 Mix)",
-          "playcount": 74,
+          "playcount": 73,
           "url": "https://www.last.fm/music/George+Harrison/_/I%27d+Have+You+Any+Time+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1030,7 +1030,7 @@
         },
         {
           "name": "The Stranger",
-          "playcount": 54,
+          "playcount": 53,
           "url": "https://www.last.fm/music/Billy+Joel/_/The+Stranger",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Billy Joel"
@@ -1041,7 +1041,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3922,
+          "playcount": 3923,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1059,7 +1059,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1317,
+          "playcount": 1318,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1071,7 +1071,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 670,
+          "playcount": 672,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1103,7 +1103,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 2592,
+          "playcount": 2593,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -1249,7 +1249,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3954,
+          "playcount": 3955,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1279,7 +1279,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1365,
+          "playcount": 1366,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1297,7 +1297,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 789,
+          "playcount": 791,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1311,7 +1311,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 2592,
+          "playcount": 2593,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
