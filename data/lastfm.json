@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-27T05:15:59.144451Z",
+  "generatedAt": "2026-09-27T11:59:17.670832Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27158,
+    "playcount": 27164,
     "artistCount": 382,
-    "albumCount": 1026,
-    "trackCount": 4997,
+    "albumCount": 1027,
+    "trackCount": 4999,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Rhymes of Goodbye",
+    "name": "Where Love Has Died",
     "artist": "Scott Walker",
-    "album": "Scott 4",
-    "url": "https://www.last.fm/music/Scott+Walker/_/Rhymes+of+Goodbye",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
-    "nowPlaying": false,
-    "playedAt": "2026-09-26T20:49:18Z"
+    "album": "Stretch",
+    "url": "https://www.last.fm/music/Scott+Walker/_/Where+Love+Has+Died",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/548133af5f9891b5e217846023c46f63.jpg",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-27",
         "label": "27 September",
         "shortLabel": "27 Sep",
-        "count": 0
+        "count": 6
       }
     ]
   },
@@ -209,19 +209,13 @@
       "artists": [
         {
           "name": "The Beatles",
-          "playcount": 38,
+          "playcount": 32,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Norah Jones",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Norah+Jones",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Fleetwood Mac",
-          "playcount": 18,
+          "playcount": 19,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -238,15 +232,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Band",
+          "name": "Scott Walker",
           "playcount": 12,
-          "url": "https://www.last.fm/music/The+Band",
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Scott Walker",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Scott+Walker",
+          "name": "The Band",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Band",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -256,33 +250,25 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Norah Jones",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Norah+Jones",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Leonard Cohen",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Leonard+Cohen",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Nick Drake",
           "playcount": 6,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Smiths",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Smiths",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
-        {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 24,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Come Away with Me",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
-          "artist": "Norah Jones"
-        },
         {
           "name": "Then Play On (2013 Remaster) [Expanded Edition]",
           "playcount": 18,
@@ -291,11 +277,25 @@
           "artist": "Fleetwood Mac"
         },
         {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Charm",
           "playcount": 16,
           "url": "https://www.last.fm/music/Clairo/Charm",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
           "artist": "Clairo"
+        },
+        {
+          "name": "Scott 4",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+          "artist": "Scott Walker"
         },
         {
           "name": "The Band",
@@ -312,13 +312,6 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Scott 4",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
-          "artist": "Scott Walker"
-        },
-        {
           "name": "Yellow Submarine (Remastered)",
           "playcount": 9,
           "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
@@ -333,21 +326,21 @@
           "artist": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory"
         },
         {
-          "name": "Pink Moon",
+          "name": "Come Away with Me",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
+          "artist": "Norah Jones"
+        },
+        {
+          "name": "Songs of Leonard Cohen",
           "playcount": 6,
-          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
-          "artist": "Nick Drake"
+          "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
+          "artist": "Leonard Cohen"
         }
       ],
       "tracks": [
-        {
-          "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
         {
           "name": "Glory of the Snow",
           "playcount": 10,
@@ -363,18 +356,11 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Cold Cold Heart",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Norah+Jones/_/Cold+Cold+Heart",
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Norah Jones"
-        },
-        {
-          "name": "Seven Years",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Norah+Jones/_/Seven+Years",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Norah Jones"
+          "artist": "The Beatles"
         },
         {
           "name": "Do Right Woman, Do Right Man (Stereo Version)",
@@ -405,9 +391,23 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Feelin’ the Same Way",
+          "name": "Sisters of Mercy",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Norah+Jones/_/Feelin%E2%80%99+the+Same+Way",
+          "url": "https://www.last.fm/music/Leonard+Cohen/_/Sisters+of+Mercy",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Leonard Cohen"
+        },
+        {
+          "name": "Cold Cold Heart",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Norah+Jones/_/Cold+Cold+Heart",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Norah Jones"
+        },
+        {
+          "name": "Seven Years",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Norah+Jones/_/Seven+Years",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Norah Jones"
         }
@@ -447,7 +447,7 @@
         },
         {
           "name": "Leonard Cohen",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -471,7 +471,7 @@
         },
         {
           "name": "Fleetwood Mac",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -528,7 +528,7 @@
         },
         {
           "name": "Songs of Leonard Cohen",
-          "playcount": 26,
+          "playcount": 27,
           "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
           "artist": "Leonard Cohen"
@@ -679,7 +679,7 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 68,
+          "playcount": 69,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -839,7 +839,7 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 595,
+          "playcount": 596,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -863,7 +863,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 390,
+          "playcount": 388,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -951,7 +951,7 @@
         },
         {
           "name": "Pink Moon",
-          "playcount": 146,
+          "playcount": 144,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
@@ -1047,7 +1047,7 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 1629,
+          "playcount": 1630,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1261,7 +1261,7 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 1634,
+          "playcount": 1635,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1273,7 +1273,7 @@
         },
         {
           "name": "Fleetwood Mac",
-          "playcount": 1462,
+          "playcount": 1463,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
