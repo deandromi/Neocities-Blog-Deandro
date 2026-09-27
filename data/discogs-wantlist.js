@@ -1,11 +1,55 @@
 window.DEANDRO_DISCOGS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-27T17:18:31.747981Z",
+  "generatedAt": "2026-09-27T21:38:42.878042Z",
   "username": "Deandro",
   "profileUrl": "https://www.discogs.com/user/Deandro",
   "wantlistUrl": "https://www.discogs.com/wantlist?user=Deandro",
-  "total": 1,
+  "total": 5,
   "releases": [
+    {
+      "id": 21259798,
+      "artist": "Scott Walker",
+      "title": "Fresh World Of Scott Walker",
+      "year": 2021,
+      "format": "Vinyl · LP · Compilation · Limited Edition · Stereo",
+      "formatCategory": "lp",
+      "image": "https://i.discogs.com/MlFOXAhxYu7H6-f8RmqqG52ADnwFCU58UhRcwAx1txw/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU5/Nzk4LTE2Mzg4NzE0/OTAtNDQwNC5qcGVn.jpeg",
+      "dateAdded": "2026-09-27T14:36:02-07:00",
+      "url": "https://www.discogs.com/release/21259798"
+    },
+    {
+      "id": 6265359,
+      "artist": "Scott Walker",
+      "title": "Scott 2",
+      "year": 2014,
+      "format": "Vinyl · LP · Album · Reissue · Remastered · Stereo",
+      "formatCategory": "lp",
+      "image": "https://i.discogs.com/J1EZoRYyEILO-JNOZPSEep4ybrjXRGqVVO6xCLaZn1c/rs:fit/g:sm/q:90/h:344/w:339/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjUz/NTktMTQxNTEyNDky/Mi0yMjk1LmpwZWc.jpeg",
+      "dateAdded": "2026-09-27T14:01:39-07:00",
+      "url": "https://www.discogs.com/release/6265359"
+    },
+    {
+      "id": 5758295,
+      "artist": "Scott Walker",
+      "title": "Scott 4",
+      "year": 2014,
+      "format": "Vinyl · LP · Album · Reissue · Remastered",
+      "formatCategory": "lp",
+      "image": "https://i.discogs.com/WEd29xw355gdae4TJcg-8MyEWJTQakfjBFT5IMwvBSA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTgy/OTUtMTc2NjgwNjYw/OC03NTAzLmpwZWc.jpeg",
+      "dateAdded": "2026-09-27T13:59:47-07:00",
+      "url": "https://www.discogs.com/release/5758295"
+    },
+    {
+      "id": 14143711,
+      "artist": "Scott Walker",
+      "title": "Scott 4",
+      "year": 2019,
+      "format": "Vinyl · LP · Album · Reissue · Remastered · Stereo",
+      "formatCategory": "lp",
+      "image": "https://i.discogs.com/Zov7-7OCQmiif4_fMKgem5kLdYlAPYo4bCE1Z6eaohQ/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQz/NzExLTE1Njk0MzA4/MDAtMjY5OS5qcGVn.jpeg",
+      "dateAdded": "2026-09-27T13:58:25-07:00",
+      "url": "https://www.discogs.com/release/14143711"
+    },
     {
       "id": 37848201,
       "artist": "The Heavenly Bodes",
