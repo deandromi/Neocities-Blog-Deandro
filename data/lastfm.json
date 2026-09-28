@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-28T13:50:14.178615Z",
+  "generatedAt": "2026-09-28T21:13:40.846110Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27240,
+    "playcount": 27250,
     "artistCount": 386,
     "albumCount": 1034,
-    "trackCount": 5031,
+    "trackCount": 5032,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Black Sheep Boy",
+    "name": "Plastic Palace People",
     "artist": "Scott Walker",
     "album": "Scott 2",
-    "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
+    "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
     "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
     "nowPlaying": false,
-    "playedAt": "2026-09-28T13:40:30Z"
+    "playedAt": "2026-09-28T18:09:20Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-28",
         "label": "28 September",
         "shortLabel": "28 Sep",
-        "count": 34
+        "count": 44
       }
     ]
   },
@@ -209,7 +209,7 @@
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 55,
+          "playcount": 64,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -238,9 +238,9 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Band",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/The+Band",
+          "name": "The Mahavishnu Orchestra with John Mclaughlin",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -256,15 +256,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Mahavishnu Orchestra with John Mclaughlin",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "George Harrison",
           "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Leonard Cohen",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -277,6 +277,13 @@
           "artist": "Scott Walker"
         },
         {
+          "name": "Scott 2",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "Then Play On (2013 Remaster) [Expanded Edition]",
           "playcount": 18,
           "url": "https://www.last.fm/music/Fleetwood+Mac/Then+Play+On+(2013+Remaster)+%5BExpanded+Edition%5D",
@@ -284,25 +291,11 @@
           "artist": "Fleetwood Mac"
         },
         {
-          "name": "Scott 2",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
-        },
-        {
           "name": "Charm",
           "playcount": 16,
           "url": "https://www.last.fm/music/Clairo/Charm",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
           "artist": "Clairo"
-        },
-        {
-          "name": "The Band",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/The+Band/The+Band",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fc0a599b522abafb7338f82f7f0a8b4e.png",
-          "artist": "The Band"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
@@ -319,6 +312,13 @@
           "artist": "The Beatles"
         },
         {
+          "name": "The Inner Mounting Flame",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
+          "artist": "The Mahavishnu Orchestra with John Mclaughlin"
+        },
+        {
           "name": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
           "playcount": 8,
           "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory/Power+To+The+People+(Live+At+The+One+To+One+Concert+-+Afternoon+&+Evening+Shows)",
@@ -333,11 +333,11 @@
           "artist": "Norah Jones"
         },
         {
-          "name": "The Inner Mounting Flame",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
-          "artist": "The Mahavishnu Orchestra with John Mclaughlin"
+          "name": "All Things Must Pass (50th Anniversary Edition)",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "artist": "George Harrison"
         }
       ],
       "tracks": [
@@ -364,15 +364,22 @@
         },
         {
           "name": "Black Sheep Boy",
-          "playcount": 4,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
         {
           "name": "Plastic Palace People",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Jackie",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Jackie",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
@@ -380,6 +387,13 @@
           "name": "Angels of Ashes",
           "playcount": 3,
           "url": "https://www.last.fm/music/Scott+Walker/_/Angels+of+Ashes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Best of Both Worlds",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Best+of+Both+Worlds",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
@@ -396,20 +410,6 @@
           "url": "https://www.last.fm/music/Scott+Walker/_/Rhymes+of+Goodbye",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
-        },
-        {
-          "name": "Sisters of Mercy",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Leonard+Cohen/_/Sisters+of+Mercy",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Leonard Cohen"
-        },
-        {
-          "name": "One of These Things First",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Nick+Drake/_/One+of+These+Things+First",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Nick Drake"
         }
       ]
     },
@@ -434,15 +434,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 63,
-          "url": "https://www.last.fm/music/The+Beatles",
+          "name": "Scott Walker",
+          "playcount": 64,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Scott Walker",
-          "playcount": 55,
-          "url": "https://www.last.fm/music/Scott+Walker",
+          "name": "The Beatles",
+          "playcount": 63,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -541,11 +541,11 @@
           "artist": "Leonard Cohen"
         },
         {
-          "name": "The Beatles (White Album / Super Deluxe)",
+          "name": "Scott 2",
           "playcount": 26,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
         }
       ],
       "tracks": [
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2116,
+          "playcount": 2097,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,20 +845,20 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 587,
+          "playcount": 573,
           "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Dire Straits",
-          "playcount": 467,
-          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
           "playcount": 461,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Dire Straits",
+          "playcount": 458,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -875,7 +875,7 @@
         },
         {
           "name": "Billy Joel",
-          "playcount": 236,
+          "playcount": 218,
           "url": "https://www.last.fm/music/Billy+Joel",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -915,13 +915,6 @@
           "artist": "George Harrison"
         },
         {
-          "name": "The Stranger",
-          "playcount": 228,
-          "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
-          "artist": "Billy Joel"
-        },
-        {
           "name": "Sunflower",
           "playcount": 212,
           "url": "https://www.last.fm/music/The+Beach+Boys/Sunflower",
@@ -929,15 +922,22 @@
           "artist": "The Beach Boys"
         },
         {
+          "name": "The Stranger",
+          "playcount": 210,
+          "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
+          "artist": "Billy Joel"
+        },
+        {
           "name": "Blonde on Blonde",
-          "playcount": 182,
+          "playcount": 173,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
         },
         {
           "name": "Making Movies",
-          "playcount": 177,
+          "playcount": 168,
           "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
           "artist": "Dire Straits"
@@ -1023,17 +1023,17 @@
         },
         {
           "name": "Scenes from an Italian Restaurant",
-          "playcount": 54,
+          "playcount": 52,
           "url": "https://www.last.fm/music/Billy+Joel/_/Scenes+from+an+Italian+Restaurant",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Billy Joel"
         },
         {
-          "name": "The Stranger",
-          "playcount": 53,
-          "url": "https://www.last.fm/music/Billy+Joel/_/The+Stranger",
+          "name": "Don't Let Me Wait Too Long",
+          "playcount": 52,
+          "url": "https://www.last.fm/music/George+Harrison/_/Don%27t+Let+Me+Wait+Too+Long",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Billy Joel"
+          "artist": "George Harrison"
         }
       ]
     },
@@ -1105,70 +1105,70 @@
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 2593,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
         },
         {
           "name": "Something Else By The Kinks",
           "playcount": 768,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
         },
         {
           "name": "The Kinks Are the Village Green Preservation Society",
           "playcount": 403,
           "url": "https://www.last.fm/music/The+Kinks/The+Kinks+Are+the+Village+Green+Preservation+Society",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f53795b2b0c428ea599dd9a8b337382a.jpg",
           "artist": "The Kinks"
         },
         {
           "name": "Remain in Light",
           "playcount": 397,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
         },
         {
           "name": "Living in the Material World",
           "playcount": 347,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
         },
         {
           "name": "Pink Moon",
           "playcount": 327,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
         },
         {
           "name": "Stop Making Sense (Live)",
           "playcount": 324,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
           "playcount": 300,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
         },
         {
           "name": "Blonde on Blonde",
           "playcount": 298,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
         },
         {
           "name": "The Basement Tapes",
           "playcount": 270,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
         }
       ],
