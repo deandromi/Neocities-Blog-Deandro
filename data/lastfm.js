@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-28T05:20:28.908419Z",
+  "generatedAt": "2026-09-28T13:50:14.178615Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27216,
+    "playcount": 27240,
     "artistCount": 386,
     "albumCount": 1034,
-    "trackCount": 5029,
+    "trackCount": 5031,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
+    "name": "Black Sheep Boy",
     "artist": "Scott Walker",
-    "album": "Scott 4",
-    "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+    "album": "Scott 2",
+    "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
     "nowPlaying": false,
-    "playedAt": "2026-09-27T23:14:09Z"
+    "playedAt": "2026-09-28T13:40:30Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-09-28",
         "label": "28 September",
         "shortLabel": "28 Sep",
-        "count": 10
+        "count": 34
       }
     ]
   },
@@ -209,13 +209,13 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 38,
+          "playcount": 55,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 27,
+          "playcount": 25,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -232,6 +232,12 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Nick Drake",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "The Band",
           "playcount": 12,
           "url": "https://www.last.fm/music/The+Band",
@@ -241,12 +247,6 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory",
           "playcount": 8,
           "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -271,7 +271,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "Scott 4",
-          "playcount": 28,
+          "playcount": 37,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
@@ -284,18 +284,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Fleetwood Mac"
         },
         {
+          "name": "Scott 2",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "Charm",
           "playcount": 16,
           "url": "https://www.last.fm/music/Clairo/Charm",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
           "artist": "Clairo"
-        },
-        {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
         },
         {
           "name": "The Band",
@@ -305,11 +305,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Band"
         },
         {
-          "name": "Scott 2",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
         },
         {
           "name": "Yellow Submarine (Remastered)",
@@ -343,7 +343,7 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
-          "playcount": 11,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
@@ -363,11 +363,39 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "name": "Black Sheep Boy",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Plastic Palace People",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Angels of Ashes",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Angels+of+Ashes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "On Your Own Again",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Rhymes of Goodbye",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Rhymes+of+Goodbye",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
         },
         {
           "name": "Sisters of Mercy",
@@ -377,39 +405,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Leonard Cohen"
         },
         {
-          "name": "Cold Cold Heart",
+          "name": "One of These Things First",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Norah+Jones/_/Cold+Cold+Heart",
+          "url": "https://www.last.fm/music/Nick+Drake/_/One+of+These+Things+First",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Norah Jones"
-        },
-        {
-          "name": "Seven Years",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Norah+Jones/_/Seven+Years",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Norah Jones"
-        },
-        {
-          "name": "Angels of Ashes",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Angels+of+Ashes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Boy Child",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Boy+Child",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Hero of the War",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Hero+of+the+War",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
+          "artist": "Nick Drake"
         }
       ]
     },
@@ -440,15 +440,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Smiths",
-          "playcount": 45,
-          "url": "https://www.last.fm/music/The+Smiths",
+          "name": "Scott Walker",
+          "playcount": 55,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Scott Walker",
-          "playcount": 38,
-          "url": "https://www.last.fm/music/Scott+Walker",
+          "name": "The Smiths",
+          "playcount": 45,
+          "url": "https://www.last.fm/music/The+Smiths",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -459,7 +459,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Stranglers",
-          "playcount": 30,
+          "playcount": 31,
           "url": "https://www.last.fm/music/The+Stranglers",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -513,8 +513,15 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Smiths"
         },
         {
+          "name": "Scott 4",
+          "playcount": 37,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "La Folie",
-          "playcount": 30,
+          "playcount": 31,
           "url": "https://www.last.fm/music/The+Stranglers/La+Folie",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/07b1740d7cfcc9286ebaf7c6fbdd09fb.png",
           "artist": "The Stranglers"
@@ -525,13 +532,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
           "artist": "Norah Jones"
-        },
-        {
-          "name": "Scott 4",
-          "playcount": 28,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "Songs of Leonard Cohen",
@@ -586,7 +586,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
-          "playcount": 11,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
@@ -649,7 +649,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 97,
+          "playcount": 101,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -839,7 +839,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Kinks",
-          "playcount": 596,
+          "playcount": 595,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -851,7 +851,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 465,
+          "playcount": 467,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -863,13 +863,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 390,
+          "playcount": 394,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beach Boys",
-          "playcount": 334,
+          "playcount": 327,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -902,7 +902,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Something Else By The Kinks",
-          "playcount": 404,
+          "playcount": 403,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
@@ -957,11 +957,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Nick Drake"
         },
         {
-          "name": "Extra Texture",
-          "playcount": 137,
-          "url": "https://www.last.fm/music/George+Harrison/Extra+Texture",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7135ca6f72d88db47de0213a8bd77854.jpg",
-          "artist": "George Harrison"
+          "name": "Bryter Layter",
+          "playcount": 139,
+          "url": "https://www.last.fm/music/Nick+Drake/Bryter+Layter",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ad656836a06e4267858d105ddd13fe04.png",
+          "artist": "Nick Drake"
         }
       ],
       "tracks": [
@@ -1071,13 +1071,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 672,
+          "playcount": 676,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Dire Straits",
-          "playcount": 581,
+          "playcount": 583,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1105,70 +1105,70 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 2593,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "image": "",
           "artist": "George Harrison"
         },
         {
           "name": "Something Else By The Kinks",
           "playcount": 768,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
+          "image": "",
           "artist": "The Kinks"
         },
         {
           "name": "The Kinks Are the Village Green Preservation Society",
           "playcount": 403,
           "url": "https://www.last.fm/music/The+Kinks/The+Kinks+Are+the+Village+Green+Preservation+Society",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f53795b2b0c428ea599dd9a8b337382a.jpg",
+          "image": "",
           "artist": "The Kinks"
         },
         {
           "name": "Remain in Light",
           "playcount": 397,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+          "image": "",
           "artist": "Talking Heads"
         },
         {
           "name": "Living in the Material World",
           "playcount": 347,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
+          "image": "",
           "artist": "George Harrison"
         },
         {
           "name": "Pink Moon",
           "playcount": 327,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
+          "image": "",
           "artist": "Nick Drake"
         },
         {
           "name": "Stop Making Sense (Live)",
           "playcount": 324,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
+          "image": "",
           "artist": "Talking Heads"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
           "playcount": 300,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "image": "",
           "artist": "The Beatles"
         },
         {
           "name": "Blonde on Blonde",
           "playcount": 298,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
+          "image": "",
           "artist": "Bob Dylan"
         },
         {
           "name": "The Basement Tapes",
           "playcount": 270,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
+          "image": "",
           "artist": "Bob Dylan"
         }
       ],
@@ -1291,13 +1291,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 980,
+          "playcount": 982,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 791,
+          "playcount": 795,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1360,7 +1360,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 373,
+          "playcount": 375,
           "url": "https://www.last.fm/music/Dire+Straits/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b00d5abfbb9eb96a4c11491005a06694.png",
           "artist": "Dire Straits"
