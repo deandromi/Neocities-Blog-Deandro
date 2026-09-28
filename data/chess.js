@@ -1,6 +1,6 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-28T05:11:14.371841Z",
+  "generatedAt": "2026-09-28T13:41:51.146270Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -26,14 +26,31 @@ window.DEANDRO_CHESS_DATA = {
       "draws": 0
     },
     "daily": {
-      "current": 841,
+      "current": 860,
       "best": 1200,
-      "wins": 14,
+      "wins": 15,
       "losses": 21,
       "draws": 1
     }
   },
   "recentGames": [
+    {
+      "id": "1025158744",
+      "url": "https://www.chess.com/game/daily/1025158744",
+      "date": "2026-09-28T12:13:50Z",
+      "player": "Deandro_M",
+      "opponent": "Cardiff",
+      "color": "white",
+      "rating": 860,
+      "opponentRating": 888,
+      "result": "win",
+      "termination": "resigned",
+      "timeClass": "daily",
+      "timeControl": "1/259200",
+      "opening": "Nimzo Indian Defense 4.Bd2 O O 5.Nf3",
+      "accuracy": 71.2,
+      "fen": "r1b5/3n1k2/p1p1p1p1/PpPpPpB1/1P1Pr3/1R1Q1P1P/6P1/5RK1 b - - 0 31"
+    },
     {
       "id": "1025154614",
       "url": "https://www.chess.com/game/daily/1025154614",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Queens Gambit Declined Albin Countergambit",
       "accuracy": 58.6,
       "fen": "8/1p1kP3/n2r4/P7/5K2/8/P7/8 b - - 4 47"
-    },
-    {
-      "id": "174164680538",
-      "url": "https://www.chess.com/game/live/174164680538",
-      "date": "2026-09-08T08:49:29Z",
-      "player": "Deandro_M",
-      "opponent": "Mirelaonfire",
-      "color": "white",
-      "rating": 705,
-      "opponentRating": 640,
-      "result": "win",
-      "termination": "abandoned",
-      "timeClass": "rapid",
-      "timeControl": "900+10",
-      "opening": "Alekhines Defense Maroczy Variation",
-      "accuracy": 61.4,
-      "fen": "5bk1/1R3p1p/4p1p1/pp5q/4P3/1PP3P1/P4PK1/8 b - - 2 29"
     }
   ],
   "featuredGames": [
