@@ -1,13 +1,13 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-29T05:33:43.294661Z",
+  "generatedAt": "2026-09-29T12:39:43.395195Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
     "rapid": {
-      "current": 721,
+      "current": 730,
       "best": 951,
-      "wins": 75,
+      "wins": 76,
       "losses": 70,
       "draws": 5
     },
@@ -34,6 +34,23 @@ window.DEANDRO_CHESS_DATA = {
     }
   },
   "recentGames": [
+    {
+      "id": "184541473078",
+      "url": "https://www.chess.com/game/live/184541473078",
+      "date": "2026-09-29T08:25:27Z",
+      "player": "Deandro_M",
+      "opponent": "qabbarielbadri",
+      "color": "black",
+      "rating": 730,
+      "opponentRating": 714,
+      "result": "win",
+      "termination": "checkmated",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "French Defense Kings Indian Attack 2...c5",
+      "accuracy": 78.2,
+      "fen": "r1b3k1/pp1p3p/4p1p1/2p3N1/P1P3nP/3P4/3QKrP1/q4B1R w - - 0 21"
+    },
     {
       "id": "1025158744",
       "url": "https://www.chess.com/game/daily/1025158744",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Modern Defense with 1 d4 2.c4 Bg7",
       "accuracy": 64.5,
       "fen": "rn1R4/1b3k2/3Np3/p7/1p3n2/8/PP3P1P/R5K1 b - - 3 30"
-    },
-    {
-      "id": "174311669732",
-      "url": "https://www.chess.com/game/live/174311669732",
-      "date": "2026-09-11T09:45:36Z",
-      "player": "Deandro_M",
-      "opponent": "Trizzygillepsie",
-      "color": "white",
-      "rating": 713,
-      "opponentRating": 706,
-      "result": "win",
-      "termination": "timeout",
-      "timeClass": "rapid",
-      "timeControl": "600",
-      "opening": "Queens Gambit Declined Albin Countergambit",
-      "accuracy": 58.6,
-      "fen": "8/1p1kP3/n2r4/P7/5K2/8/P7/8 b - - 4 47"
     }
   ],
   "featuredGames": [
