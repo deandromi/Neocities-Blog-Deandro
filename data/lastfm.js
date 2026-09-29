@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-29T00:59:28.639047Z",
+  "generatedAt": "2026-09-29T09:46:59.881092Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27250,
+    "playcount": 27264,
     "artistCount": 386,
     "albumCount": 1034,
-    "trackCount": 5032,
+    "trackCount": 5033,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Plastic Palace People",
-    "artist": "Scott Walker",
-    "album": "Scott 2",
-    "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+    "name": "Freedom of Choice",
+    "artist": "Devo",
+    "album": "Oh No It's Devo / Freedom of Choice",
+    "url": "https://www.last.fm/music/Devo/_/Freedom+of+Choice",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-09-28T18:09:20Z"
+    "playedAt": "2026-09-29T08:27:41Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-09-29",
         "label": "29 September",
         "shortLabel": "29 Sep",
-        "count": 0
+        "count": 14
       }
     ]
   },
@@ -209,7 +209,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 64,
+          "playcount": 74,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -271,14 +271,14 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "Scott 4",
-          "playcount": 37,
+          "playcount": 45,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
         },
         {
           "name": "Scott 2",
-          "playcount": 26,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
           "artist": "Scott Walker"
@@ -356,6 +356,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Clairo"
         },
         {
+          "name": "Black Sheep Boy",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "Hey Bulldog (Remastered 2009)",
           "playcount": 9,
           "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
@@ -363,16 +370,23 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Black Sheep Boy",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
+          "name": "Plastic Palace People",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
         {
-          "name": "Plastic Palace People",
+          "name": "On Your Own Again",
           "playcount": 5,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
+          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Angels of Ashes",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Angels+of+Ashes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
@@ -384,30 +398,16 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Scott Walker"
         },
         {
-          "name": "Angels of Ashes",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Angels+of+Ashes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Best of Both Worlds",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Best+of+Both+Worlds",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "On Your Own Again",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
-        },
-        {
           "name": "Rhymes of Goodbye",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Scott+Walker/_/Rhymes+of+Goodbye",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "The Seventh Seal",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Scott+Walker/_/The+Seventh+Seal",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         }
@@ -417,7 +417,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 120,
+          "playcount": 115,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -428,15 +428,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Van Morrison",
-          "playcount": 73,
-          "url": "https://www.last.fm/music/Van+Morrison",
+          "name": "Scott Walker",
+          "playcount": 74,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Scott Walker",
-          "playcount": 64,
-          "url": "https://www.last.fm/music/Scott+Walker",
+          "name": "Van Morrison",
+          "playcount": 73,
+          "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -485,18 +485,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 55,
-          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Moondance",
           "playcount": 54,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
           "artist": "Van Morrison"
+        },
+        {
+          "name": "All Things Must Pass (50th Anniversary Edition)",
+          "playcount": 50,
+          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "artist": "George Harrison"
         },
         {
           "name": "George Harrison",
@@ -506,18 +506,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "Scott 4",
+          "playcount": 45,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "Louder Than Bombs",
           "playcount": 44,
           "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
           "artist": "The Smiths"
-        },
-        {
-          "name": "Scott 4",
-          "playcount": 37,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "La Folie",
@@ -534,18 +534,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Norah Jones"
         },
         {
+          "name": "Scott 2",
+          "playcount": 28,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "Songs of Leonard Cohen",
           "playcount": 27,
           "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
           "artist": "Leonard Cohen"
-        },
-        {
-          "name": "Scott 2",
-          "playcount": 26,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
         }
       ],
       "tracks": [
@@ -678,9 +678,9 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Kinks",
-          "playcount": 67,
-          "url": "https://www.last.fm/music/The+Kinks",
+          "name": "Scott Walker",
+          "playcount": 74,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -735,6 +735,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Claude Debussy"
         },
         {
+          "name": "Scott 4",
+          "playcount": 45,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "Louder Than Bombs",
           "playcount": 45,
           "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
@@ -747,13 +754,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Frank",
-          "playcount": 38,
-          "url": "https://www.last.fm/music/Amy+Winehouse/Frank",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d5d8b5ea0b1b4542b4e0249e94d81387.jpg",
-          "artist": "Amy Winehouse"
         }
       ],
       "tracks": [
@@ -850,20 +850,20 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Dire Straits",
+          "playcount": 461,
+          "url": "https://www.last.fm/music/Dire+Straits",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "The Beatles",
           "playcount": 461,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Dire Straits",
-          "playcount": 458,
-          "url": "https://www.last.fm/music/Dire+Straits",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Nick Drake",
-          "playcount": 394,
+          "playcount": 387,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -937,7 +937,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Making Movies",
-          "playcount": 168,
+          "playcount": 171,
           "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
           "artist": "Dire Straits"
@@ -957,11 +957,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Nick Drake"
         },
         {
-          "name": "Bryter Layter",
-          "playcount": 139,
-          "url": "https://www.last.fm/music/Nick+Drake/Bryter+Layter",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ad656836a06e4267858d105ddd13fe04.png",
-          "artist": "Nick Drake"
+          "name": "Friday on My Mind",
+          "playcount": 133,
+          "url": "https://www.last.fm/music/The+Easybeats/Friday+on+My+Mind",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3b8b3ad201b3778c9a03b42a8aa60d5b.jpg",
+          "artist": "The Easybeats"
         }
       ],
       "tracks": [
@@ -1053,13 +1053,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1484,
+          "playcount": 1478,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1318,
+          "playcount": 1315,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1077,7 +1077,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 583,
+          "playcount": 586,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1291,7 +1291,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 982,
+          "playcount": 985,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
