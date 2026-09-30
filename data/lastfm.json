@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-30T05:29:40.390347Z",
+  "generatedAt": "2026-09-30T12:31:29.329361Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27278,
+    "playcount": 27289,
     "artistCount": 386,
     "albumCount": 1034,
     "trackCount": 5034,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "World's Strongest Man",
-    "artist": "Scott Walker",
-    "album": "Scott 4",
-    "url": "https://www.last.fm/music/+noredirect/Scott+Walker/_/World%27s+Strongest+Man",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+    "name": "Saturday Sun",
+    "artist": "Nick Drake",
+    "album": "Five Leaves Left",
+    "url": "https://www.last.fm/music/Nick+Drake/_/Saturday+Sun",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
     "nowPlaying": false,
-    "playedAt": "2026-09-29T17:38:07Z"
+    "playedAt": "2026-09-30T10:38:51Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-30",
         "label": "30 September",
         "shortLabel": "30 Sep",
-        "count": 0
+        "count": 11
       }
     ]
   },
@@ -209,14 +209,14 @@
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 87,
+          "playcount": 90,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 25,
-          "url": "https://www.last.fm/music/The+Beatles",
+          "name": "Nick Drake",
+          "playcount": 20,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -232,9 +232,9 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Nick+Drake",
+          "name": "The Beatles",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -250,12 +250,6 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Norah Jones",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Norah+Jones",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "George Harrison",
           "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison",
@@ -266,12 +260,18 @@
           "playcount": 6,
           "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Dire Straits",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Dire+Straits",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
         {
           "name": "Scott 4",
-          "playcount": 48,
+          "playcount": 51,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
@@ -298,11 +298,11 @@
           "artist": "Clairo"
         },
         {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
+          "name": "Five Leaves Left",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+          "artist": "Nick Drake"
         },
         {
           "name": "Yellow Submarine (Remastered)",
@@ -326,18 +326,18 @@
           "artist": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory"
         },
         {
-          "name": "Come Away with Me",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
-          "artist": "Norah Jones"
-        },
-        {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Songs of Leonard Cohen",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
+          "artist": "Leonard Cohen"
         }
       ],
       "tracks": [
@@ -370,16 +370,16 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Plastic Palace People",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
+          "name": "On Your Own Again",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
         {
-          "name": "On Your Own Again",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
+          "name": "Plastic Palace People",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
@@ -417,13 +417,13 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 115,
+          "playcount": 113,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Scott Walker",
-          "playcount": 87,
+          "playcount": 90,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -435,7 +435,7 @@
         },
         {
           "name": "Van Morrison",
-          "playcount": 72,
+          "playcount": 69,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -452,15 +452,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Leonard Cohen",
-          "playcount": 34,
-          "url": "https://www.last.fm/music/Leonard+Cohen",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Stranglers",
           "playcount": 32,
           "url": "https://www.last.fm/music/The+Stranglers",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Leonard Cohen",
+          "playcount": 31,
+          "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -492,8 +492,15 @@
           "artist": "Van Morrison"
         },
         {
+          "name": "Scott 4",
+          "playcount": 51,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 50,
+          "playcount": 48,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -504,13 +511,6 @@
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Scott 4",
-          "playcount": 48,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "Louder Than Bombs",
@@ -649,8 +649,14 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 92,
+          "playcount": 100,
           "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Scott Walker",
+          "playcount": 90,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -663,12 +669,6 @@
           "name": "The Heavenly Bodes",
           "playcount": 88,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Scott Walker",
-          "playcount": 87,
-          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -721,18 +721,18 @@
           "artist": "Van Morrison"
         },
         {
+          "name": "Scott 4",
+          "playcount": 51,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "George Harrison",
           "playcount": 48,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Scott 4",
-          "playcount": 48,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "Debussy: Piano Works",
@@ -857,13 +857,13 @@
         },
         {
           "name": "Dire Straits",
-          "playcount": 453,
+          "playcount": 452,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 383,
+          "playcount": 391,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -875,7 +875,7 @@
         },
         {
           "name": "Billy Joel",
-          "playcount": 200,
+          "playcount": 199,
           "url": "https://www.last.fm/music/Billy+Joel",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -887,7 +887,7 @@
         },
         {
           "name": "Creedence Clearwater Revival",
-          "playcount": 166,
+          "playcount": 165,
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -923,7 +923,7 @@
         },
         {
           "name": "The Stranger",
-          "playcount": 192,
+          "playcount": 191,
           "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
           "artist": "Billy Joel"
@@ -1071,7 +1071,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 676,
+          "playcount": 684,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1297,7 +1297,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 795,
+          "playcount": 803,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
