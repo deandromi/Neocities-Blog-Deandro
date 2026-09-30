@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-30T12:25:39.816477Z",
+  "generatedAt": "2026-09-30T22:09:24.734093Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -48,7 +48,7 @@
       "timeClass": "rapid",
       "timeControl": "900+10",
       "opening": "Sicilian Defense Bowdler Attack 2...Nc6",
-      "accuracy": 83.6,
+      "accuracy": 85.4,
       "fen": "3rr1k1/pb1p1p1p/1p3bp1/2p2p2/2P2B2/PBRQ4/6qP/1R4K1 w - - 0 26"
     },
     {
