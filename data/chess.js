@@ -1,13 +1,13 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-09-30T05:21:59.388243Z",
+  "generatedAt": "2026-09-30T12:25:39.816477Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
     "rapid": {
-      "current": 730,
+      "current": 740,
       "best": 951,
-      "wins": 76,
+      "wins": 77,
       "losses": 70,
       "draws": 5
     },
@@ -34,6 +34,23 @@ window.DEANDRO_CHESS_DATA = {
     }
   },
   "recentGames": [
+    {
+      "id": "184596483000",
+      "url": "https://www.chess.com/game/live/184596483000",
+      "date": "2026-09-30T10:29:53Z",
+      "player": "Deandro_M",
+      "opponent": "Kazys12345",
+      "color": "black",
+      "rating": 740,
+      "opponentRating": 750,
+      "result": "win",
+      "termination": "checkmated",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Sicilian Defense Bowdler Attack 2...Nc6",
+      "accuracy": 83.6,
+      "fen": "3rr1k1/pb1p1p1p/1p3bp1/2p2p2/2P2B2/PBRQ4/6qP/1R4K1 w - - 0 26"
+    },
     {
       "id": "184541473078",
       "url": "https://www.chess.com/game/live/184541473078",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6",
       "accuracy": 67.5,
       "fen": "r4rk1/2p3p1/3p3p/p1pPp1b1/P1P5/BP1Q2P1/5R1P/3q2K1 w - - 0 29"
-    },
-    {
-      "id": "174315484646",
-      "url": "https://www.chess.com/game/live/174315484646",
-      "date": "2026-09-11T11:30:41Z",
-      "player": "Deandro_M",
-      "opponent": "ezaroel",
-      "color": "white",
-      "rating": 721,
-      "opponentRating": 704,
-      "result": "win",
-      "termination": "timeout",
-      "timeClass": "rapid",
-      "timeControl": "600",
-      "opening": "Modern Defense with 1 d4 2.c4 Bg7",
-      "accuracy": 64.5,
-      "fen": "rn1R4/1b3k2/3Np3/p7/1p3n2/8/PP3P1P/R5K1 b - - 3 30"
     }
   ],
   "featuredGames": [
