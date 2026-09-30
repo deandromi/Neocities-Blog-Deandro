@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-09-30T12:31:29.329361Z",
+  "generatedAt": "2026-09-30T20:00:27.904086Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27289,
+    "playcount": 27292,
     "artistCount": 386,
     "albumCount": 1034,
-    "trackCount": 5034,
+    "trackCount": 5035,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Saturday Sun",
-    "artist": "Nick Drake",
-    "album": "Five Leaves Left",
-    "url": "https://www.last.fm/music/Nick+Drake/_/Saturday+Sun",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+    "name": "I Don't Want To Spoil The Party (Remastered 2009)",
+    "artist": "The Beatles",
+    "album": "Beatles For Sale (Remastered)",
+    "url": "https://www.last.fm/music/The+Beatles/_/I+Don%27t+Want+To+Spoil+The+Party+(Remastered+2009)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f8fb9c7e2327c3119b4212672a912ab7.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-09-30T10:38:51Z"
+    "playedAt": "2026-09-30T12:51:09Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-09-30",
         "label": "30 September",
         "shortLabel": "30 Sep",
-        "count": 11
+        "count": 14
       }
     ]
   },
@@ -233,7 +233,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 14,
+          "playcount": 15,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -241,12 +241,6 @@
           "name": "The Mahavishnu Orchestra with John Mclaughlin",
           "playcount": 9,
           "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -265,6 +259,12 @@
           "name": "Dire Straits",
           "playcount": 5,
           "url": "https://www.last.fm/music/Dire+Straits",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Talking Heads",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -319,13 +319,6 @@
           "artist": "The Mahavishnu Orchestra with John Mclaughlin"
         },
         {
-          "name": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/John+Lennon,+Yoko+Ono,+The+Plastic+Ono+Band,+Elephant%27s+Memory/Power+To+The+People+(Live+At+The+One+To+One+Concert+-+Afternoon+&+Evening+Shows)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/98996ca89ffa3217a423a1998361de52.png",
-          "artist": "John Lennon, Yoko Ono, The Plastic Ono Band, Elephant's Memory"
-        },
-        {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
@@ -338,6 +331,13 @@
           "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
           "artist": "Leonard Cohen"
+        },
+        {
+          "name": "Pink Moon",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
+          "artist": "Nick Drake"
         }
       ],
       "tracks": [
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 113,
+          "playcount": 102,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -506,13 +506,6 @@
           "artist": "George Harrison"
         },
         {
-          "name": "George Harrison",
-          "playcount": 48,
-          "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Louder Than Bombs",
           "playcount": 43,
           "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
@@ -525,6 +518,13 @@
           "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
           "artist": "Scott Walker"
+        },
+        {
+          "name": "George Harrison",
+          "playcount": 37,
+          "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
+          "artist": "George Harrison"
         },
         {
           "name": "La Folie",
@@ -578,18 +578,18 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Blow Away",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/George+Harrison/_/Blow+Away",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
           "playcount": 13,
           "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
+        },
+        {
+          "name": "Blow Away",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/George+Harrison/_/Blow+Away",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         },
         {
           "name": "Black Sheep Boy",
@@ -631,13 +631,13 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 156,
+          "playcount": 157,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 111,
+          "playcount": 112,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2074,
+          "playcount": 2061,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,25 +845,25 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 568,
+          "playcount": 569,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 461,
+          "playcount": 462,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Dire Straits",
-          "playcount": 452,
+          "playcount": 445,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 391,
+          "playcount": 385,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -874,15 +874,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Billy Joel",
-          "playcount": 199,
-          "url": "https://www.last.fm/music/Billy+Joel",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Small Faces",
           "playcount": 194,
           "url": "https://www.last.fm/music/Small+Faces",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Billy Joel",
+          "playcount": 181,
+          "url": "https://www.last.fm/music/Billy+Joel",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -923,7 +923,7 @@
         },
         {
           "name": "The Stranger",
-          "playcount": 191,
+          "playcount": 173,
           "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
           "artist": "Billy Joel"
@@ -944,7 +944,7 @@
         },
         {
           "name": "Making Movies",
-          "playcount": 164,
+          "playcount": 157,
           "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
           "artist": "Dire Straits"
@@ -1030,7 +1030,7 @@
         },
         {
           "name": "Scenes from an Italian Restaurant",
-          "playcount": 50,
+          "playcount": 48,
           "url": "https://www.last.fm/music/Billy+Joel/_/Scenes+from+an+Italian+Restaurant",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Billy Joel"
@@ -1053,13 +1053,13 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1476,
+          "playcount": 1477,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1315,
+          "playcount": 1316,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1255,7 +1255,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 2527,
+          "playcount": 2528,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1279,7 +1279,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1366,
+          "playcount": 1367,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
