@@ -1,43 +1,54 @@
 window.DEANDRO_DISCOGS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-01T00:51:22.438534Z",
+  "generatedAt": "2026-10-01T10:28:30.134463Z",
   "username": "Deandro",
   "profileUrl": "https://www.discogs.com/user/Deandro",
   "wantlistUrl": "https://www.discogs.com/wantlist?user=Deandro",
-  "total": 5,
+  "total": 6,
   "releases": [
     {
-      "id": 21259798,
-      "artist": "Scott Walker",
-      "title": "Fresh World Of Scott Walker",
-      "year": 2021,
-      "format": "Vinyl · LP · Compilation · Limited Edition · Stereo",
+      "id": 36403522,
+      "artist": "Pentangle",
+      "title": "Basket Of Light",
+      "year": 2026,
+      "format": "Vinyl · LP · Album · Limited Edition · Numbered · Reissue · Remastered",
       "formatCategory": "lp",
-      "image": "https://i.discogs.com/MlFOXAhxYu7H6-f8RmqqG52ADnwFCU58UhRcwAx1txw/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU5/Nzk4LTE2Mzg4NzE0/OTAtNDQwNC5qcGVn.jpeg",
-      "dateAdded": "2026-09-27T14:36:02-07:00",
-      "url": "https://www.discogs.com/release/21259798"
+      "image": "https://i.discogs.com/r7ebWLuMfPcqz9WHsYgIrsureCn5W0e4ZJXkW0gZpBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDAz/NTIyLTE3NzAyMTA2/MTItNDAxOC5qcGVn.jpeg",
+      "dateAdded": "2026-10-01T03:10:09-07:00",
+      "url": "https://www.discogs.com/release/36403522"
     },
     {
-      "id": 6265359,
-      "artist": "Scott Walker",
-      "title": "Scott 2",
-      "year": 2014,
-      "format": "Vinyl · LP · Album · Reissue · Remastered · Stereo",
-      "formatCategory": "lp",
-      "image": "https://i.discogs.com/J1EZoRYyEILO-JNOZPSEep4ybrjXRGqVVO6xCLaZn1c/rs:fit/g:sm/q:90/h:344/w:339/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjUz/NTktMTQxNTEyNDky/Mi0yMjk1LmpwZWc.jpeg",
-      "dateAdded": "2026-09-27T14:01:39-07:00",
-      "url": "https://www.discogs.com/release/6265359"
-    },
-    {
-      "id": 5758295,
-      "artist": "Scott Walker",
-      "title": "Scott 4",
-      "year": 2014,
+      "id": 9485353,
+      "artist": "Mahavishnu Orchestra, John McLaughlin",
+      "title": "The Inner Mounting Flame",
+      "year": 2015,
       "format": "Vinyl · LP · Album · Reissue · Remastered",
       "formatCategory": "lp",
-      "image": "https://i.discogs.com/WEd29xw355gdae4TJcg-8MyEWJTQakfjBFT5IMwvBSA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTgy/OTUtMTc2NjgwNjYw/OC03NTAzLmpwZWc.jpeg",
-      "dateAdded": "2026-09-27T13:59:47-07:00",
-      "url": "https://www.discogs.com/release/5758295"
+      "image": "https://i.discogs.com/XXgdH9YcQ73JeYA9bByP_m2OfH5jY2k7I99buqS8iVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODUz/NTMtMTQ4MTM5NjEy/MC0yNTQ5LmpwZWc.jpeg",
+      "dateAdded": "2026-10-01T02:49:23-07:00",
+      "url": "https://www.discogs.com/release/9485353"
+    },
+    {
+      "id": 9939590,
+      "artist": "George Harrison",
+      "title": "George Harrison",
+      "year": 2017,
+      "format": "CD · Album · Limited Edition · Reissue · Remastered · Stereo",
+      "formatCategory": "cd",
+      "image": "https://i.discogs.com/d-0Ria17h4UR6Hpo6gWJpWraN4MN7VgtfQA68s8MNDI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mzk1/OTAtMTQ5MDk2MjIw/NS04Mjc3LmpwZWc.jpeg",
+      "dateAdded": "2026-10-01T02:46:49-07:00",
+      "url": "https://www.discogs.com/release/9939590"
+    },
+    {
+      "id": 9108323,
+      "artist": "Bert Jansch",
+      "title": "Bert Jansch",
+      "year": 2016,
+      "format": "Vinyl · LP · Album · Reissue",
+      "formatCategory": "lp",
+      "image": "https://i.discogs.com/6DhUyoXC_CPKQEn9lXg3ob7DOSpqUAiwRKmbZluWnDs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDgz/MjMtMTQ3NDkxMjI4/NC04NDE1LmpwZWc.jpeg",
+      "dateAdded": "2026-10-01T02:45:13-07:00",
+      "url": "https://www.discogs.com/release/9108323"
     },
     {
       "id": 14143711,
