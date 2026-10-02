@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-02T00:45:57.240024Z",
+  "generatedAt": "2026-10-02T09:43:04.531556Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -256,15 +256,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Dire Straits",
           "playcount": 5,
           "url": "https://www.last.fm/music/Dire+Straits",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Ravi Shankar",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Ravi+Shankar",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -377,13 +377,6 @@
           "artist": "Scott Walker"
         },
         {
-          "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "Jackie",
           "playcount": 6,
           "url": "https://www.last.fm/music/Scott+Walker/_/Jackie",
@@ -408,6 +401,13 @@
           "name": "Rhymes of Goodbye",
           "playcount": 4,
           "url": "https://www.last.fm/music/Scott+Walker/_/Rhymes+of+Goodbye",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "The Seventh Seal",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Scott+Walker/_/The+Seventh+Seal",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         }
@@ -441,7 +441,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 63,
+          "playcount": 58,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -839,25 +839,25 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 595,
+          "playcount": 593,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 559,
+          "playcount": 556,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 462,
+          "playcount": 459,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Dire Straits",
-          "playcount": 438,
+          "playcount": 437,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -869,7 +869,7 @@
         },
         {
           "name": "The Beach Boys",
-          "playcount": 327,
+          "playcount": 326,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -923,7 +923,7 @@
         },
         {
           "name": "Blonde on Blonde",
-          "playcount": 173,
+          "playcount": 172,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
