@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-01T18:24:39.609561Z",
+  "generatedAt": "2026-10-02T00:45:57.240024Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-02",
-        "label": "2 September",
-        "shortLabel": "2 Sep",
-        "count": 9
-      },
       {
         "date": "2026-09-03",
         "label": "3 September",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "1 October",
         "shortLabel": "1 Oct",
         "count": 71
+      },
+      {
+        "date": "2026-10-02",
+        "label": "2 October",
+        "shortLabel": "2 Oct",
+        "count": 0
       }
     ]
   },
@@ -244,15 +244,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Clairo",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Clairo",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Pentangle",
           "playcount": 11,
           "url": "https://www.last.fm/music/The+Pentangle",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Clairo",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Clairo",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -262,9 +262,9 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Leonard Cohen",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Leonard+Cohen",
+          "name": "Dire Straits",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -312,13 +312,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Mahavishnu Orchestra with John Mclaughlin"
         },
         {
-          "name": "Charm",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Clairo/Charm",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
-          "artist": "Clairo"
-        },
-        {
           "name": "Scott 3",
           "playcount": 12,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
@@ -331,6 +324,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Pentangle/Basket+Of+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f73f02219a424d1197a56d613f324fc8.jpg",
           "artist": "The Pentangle"
+        },
+        {
+          "name": "Charm",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Clairo/Charm",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
+          "artist": "Clairo"
         },
         {
           "name": "Five Leaves Left",
@@ -357,7 +357,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Glory of the Snow",
-          "playcount": 10,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Clairo/_/Glory+of+the+Snow",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Clairo"
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2052,
+          "playcount": 2033,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,7 +845,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 564,
+          "playcount": 559,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,7 +857,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 445,
+          "playcount": 438,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -880,15 +880,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Billy Joel",
-          "playcount": 180,
-          "url": "https://www.last.fm/music/Billy+Joel",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Creedence Clearwater Revival",
           "playcount": 165,
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Billy Joel",
+          "playcount": 162,
+          "url": "https://www.last.fm/music/Billy+Joel",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -929,13 +929,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
-          "name": "The Stranger",
-          "playcount": 172,
-          "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
-          "artist": "Billy Joel"
-        },
-        {
           "name": "The Basement Tapes",
           "playcount": 165,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
@@ -943,8 +936,15 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
+          "name": "The Stranger",
+          "playcount": 154,
+          "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
+          "artist": "Billy Joel"
+        },
+        {
           "name": "Making Movies",
-          "playcount": 157,
+          "playcount": 150,
           "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
           "artist": "Dire Straits"
@@ -1030,7 +1030,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Scenes from an Italian Restaurant",
-          "playcount": 48,
+          "playcount": 46,
           "url": "https://www.last.fm/music/Billy+Joel/_/Scenes+from+an+Italian+Restaurant",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Billy Joel"
