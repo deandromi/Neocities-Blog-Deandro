@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-03T16:15:31.546310Z",
+  "generatedAt": "2026-10-03T21:12:19.819881Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -209,7 +209,7 @@
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 110,
+          "playcount": 100,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -270,17 +270,17 @@
       ],
       "albums": [
         {
-          "name": "Scott 4",
-          "playcount": 51,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
-          "artist": "Scott Walker"
-        },
-        {
           "name": "Scott 2",
           "playcount": 46,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Scott 4",
+          "playcount": 41,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
         },
         {
@@ -356,16 +356,16 @@
           "artist": "Scott Walker"
         },
         {
-          "name": "On Your Own Again",
+          "name": "Plastic Palace People",
           "playcount": 8,
-          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
+          "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
         {
-          "name": "Plastic Palace People",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
+          "name": "On Your Own Again",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
@@ -399,14 +399,14 @@
         },
         {
           "name": "Angels of Ashes",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Scott+Walker/_/Angels+of+Ashes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
         {
           "name": "Rhymes of Goodbye",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Scott+Walker/_/Rhymes+of+Goodbye",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
@@ -625,13 +625,13 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 261,
+          "playcount": 260,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 153,
+          "playcount": 152,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -655,13 +655,13 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 96,
+          "playcount": 95,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Small Faces",
-          "playcount": 90,
+          "playcount": 88,
           "url": "https://www.last.fm/music/Small+Faces",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -673,13 +673,13 @@
         },
         {
           "name": "The Rolling Stones",
-          "playcount": 73,
+          "playcount": 72,
           "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beach Boys",
-          "playcount": 67,
+          "playcount": 66,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -857,7 +857,7 @@
         },
         {
           "name": "Dire Straits",
-          "playcount": 430,
+          "playcount": 423,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -944,7 +944,7 @@
         },
         {
           "name": "Making Movies",
-          "playcount": 143,
+          "playcount": 136,
           "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
           "artist": "Dire Straits"
@@ -957,11 +957,11 @@
           "artist": "Nick Drake"
         },
         {
-          "name": "The Stranger",
+          "name": "Friday on My Mind",
           "playcount": 133,
-          "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
-          "artist": "Billy Joel"
+          "url": "https://www.last.fm/music/The+Easybeats/Friday+on+My+Mind",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3b8b3ad201b3778c9a03b42a8aa60d5b.jpg",
+          "artist": "The Easybeats"
         }
       ],
       "tracks": [
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 1012,
+          "playcount": 1010,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1124,7 +1124,7 @@
         },
         {
           "name": "Remain in Light",
-          "playcount": 385,
+          "playcount": 383,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
