@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-03T11:38:14.185474Z",
+  "generatedAt": "2026-10-03T16:15:31.546310Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -220,12 +220,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Fleetwood Mac",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/Fleetwood+Mac",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Bert Jansch",
           "playcount": 15,
           "url": "https://www.last.fm/music/Bert+Jansch",
@@ -256,15 +250,21 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Clairo",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Clairo",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Dire Straits",
           "playcount": 5,
           "url": "https://www.last.fm/music/Dire+Straits",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Ravi Shankar",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Ravi+Shankar",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Joni Mitchell",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Joni+Mitchell",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -282,13 +282,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
           "artist": "Scott Walker"
-        },
-        {
-          "name": "Then Play On (2013 Remaster) [Expanded Edition]",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Fleetwood+Mac/Then+Play+On+(2013+Remaster)+%5BExpanded+Edition%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcf75e6077125c3b5c44c14323c7cebe.jpg",
-          "artist": "Fleetwood Mac"
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
@@ -338,6 +331,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
+        },
+        {
+          "name": "Five Leaves Left",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+          "artist": "Nick Drake"
         }
       ],
       "tracks": [
@@ -354,13 +354,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
-        },
-        {
-          "name": "Glory of the Snow",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Clairo/_/Glory+of+the+Snow",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Clairo"
         },
         {
           "name": "On Your Own Again",
@@ -408,6 +401,13 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Angels of Ashes",
           "playcount": 4,
           "url": "https://www.last.fm/music/Scott+Walker/_/Angels+of+Ashes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Rhymes of Goodbye",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Rhymes+of+Goodbye",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         }
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 2034,
+          "playcount": 2017,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -909,7 +909,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Living in the Material World",
-          "playcount": 249,
+          "playcount": 243,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
@@ -950,18 +950,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Dire Straits"
         },
         {
-          "name": "The Stranger",
-          "playcount": 136,
-          "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
-          "artist": "Billy Joel"
-        },
-        {
           "name": "Pink Moon",
           "playcount": 135,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "The Stranger",
+          "playcount": 133,
+          "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
+          "artist": "Billy Joel"
         }
       ],
       "tracks": [
