@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-07T13:19:07.109286Z",
+  "generatedAt": "2026-10-07T20:36:00.503821Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27466,
+    "playcount": 27502,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5105,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Time Has Told Me (1st Sound Techniques Session, March / 1968)",
-    "artist": "Nick Drake",
-    "album": "The Making Of Five Leaves Left",
-    "url": "https://www.last.fm/music/Nick+Drake/_/Time+Has+Told+Me+(1st+Sound+Techniques+Session,+March+%2F+1968)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
+    "name": "Perpetual Change",
+    "artist": "Yes",
+    "album": "The Yes Album",
+    "url": "https://www.last.fm/music/Yes/_/Perpetual+Change",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-10-07T13:03:20Z"
+    "playedAt": "2026-10-07T16:17:38Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-10-07",
         "label": "7 October",
         "shortLabel": "7 Oct",
-        "count": 9
+        "count": 45
       }
     ]
   },
@@ -217,6 +217,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Bert Jansch",
           "playcount": 41,
           "url": "https://www.last.fm/music/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -250,21 +256,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Yes",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Yes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Ravi Shankar",
           "playcount": 5,
           "url": "https://www.last.fm/music/Ravi+Shankar",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Mahavishnu Orchestra with John Mclaughlin",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -275,6 +275,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
+        },
+        {
+          "name": "The Making Of Five Leaves Left",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
+          "artist": "Nick Drake"
         },
         {
           "name": "Bert Jansch",
@@ -330,13 +337,6 @@ window.DEANDRO_LASTFM_DATA = {
           "playcount": 8,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Scott 4",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
         }
       ],
@@ -440,6 +440,12 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Nick Drake",
+          "playcount": 52,
+          "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Van Morrison",
           "playcount": 48,
           "url": "https://www.last.fm/music/Van+Morrison",
@@ -467,12 +473,6 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Leonard Cohen",
           "playcount": 24,
           "url": "https://www.last.fm/music/Leonard+Cohen",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Fleetwood Mac",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -520,6 +520,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Van Morrison"
         },
         {
+          "name": "The Making Of Five Leaves Left",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
+          "artist": "Nick Drake"
+        },
+        {
           "name": "La Folie",
           "playcount": 31,
           "url": "https://www.last.fm/music/The+Stranglers/La+Folie",
@@ -539,13 +546,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Songs of Leonard Cohen",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/Leonard+Cohen/Songs+of+Leonard+Cohen",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg",
-          "artist": "Leonard Cohen"
         }
       ],
       "tracks": [
@@ -636,6 +636,12 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Nick Drake",
+          "playcount": 125,
+          "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Scott Walker",
           "playcount": 118,
           "url": "https://www.last.fm/music/Scott+Walker",
@@ -651,12 +657,6 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Van Morrison",
           "playcount": 109,
           "url": "https://www.last.fm/music/Van+Morrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 95,
-          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1968,
+          "playcount": 1947,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,32 +845,32 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 522,
+          "playcount": 498,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 461,
+          "playcount": 447,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Dire Straits",
-          "playcount": 379,
+          "playcount": 361,
           "url": "https://www.last.fm/music/Dire+Straits",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 339,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beach Boys",
           "playcount": 334,
           "url": "https://www.last.fm/music/The+Beach+Boys",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 309,
-          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -909,7 +909,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Living in the Material World",
-          "playcount": 236,
+          "playcount": 225,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
@@ -950,18 +950,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Easybeats"
         },
         {
-          "name": "The Basement Tapes",
-          "playcount": 128,
-          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "The Gift",
           "playcount": 124,
           "url": "https://www.last.fm/music/The+Jam/The+Gift",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2bd4aaeec559435caf739de8c65d0be4.png",
           "artist": "The Jam"
+        },
+        {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 116,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
         }
       ],
       "tracks": [
@@ -1022,18 +1022,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Don't Let Me Wait Too Long",
-          "playcount": 48,
-          "url": "https://www.last.fm/music/George+Harrison/_/Don%27t+Let+Me+Wait+Too+Long",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "If Not For You (2020 Mix)",
           "playcount": 48,
           "url": "https://www.last.fm/music/George+Harrison/_/If+Not+For+You+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "This Whole World",
+          "playcount": 47,
+          "url": "https://www.last.fm/music/The+Beach+Boys/_/This+Whole+World",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beach Boys"
         }
       ]
     },
@@ -1071,7 +1071,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 676,
+          "playcount": 706,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1297,7 +1297,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 805,
+          "playcount": 835,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
