@@ -1,14 +1,14 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-06T18:16:57.743349Z",
+  "generatedAt": "2026-10-07T05:42:27.172974Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
     "rapid": {
-      "current": 740,
+      "current": 731,
       "best": 951,
       "wins": 77,
-      "losses": 70,
+      "losses": 71,
       "draws": 5
     },
     "blitz": {
@@ -34,6 +34,23 @@ window.DEANDRO_CHESS_DATA = {
     }
   },
   "recentGames": [
+    {
+      "id": "184919284914",
+      "url": "https://www.chess.com/game/live/184919284914",
+      "date": "2026-10-06T18:55:53Z",
+      "player": "Deandro_M",
+      "opponent": "khubly6",
+      "color": "white",
+      "rating": 731,
+      "opponentRating": 774,
+      "result": "loss",
+      "termination": "checkmated",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Queens Pawn Opening 1...d5 2.e3 Nf6 3.c4",
+      "accuracy": 66.3,
+      "fen": "6k1/2p2ppp/p7/8/1np1N3/4P1Pb/PP3P1P/R1Br2K1 w - - 2 18"
+    },
     {
       "id": "184596483000",
       "url": "https://www.chess.com/game/live/184596483000",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Nimzo Indian Defense 4.Bd2 O O 5.Nf3",
       "accuracy": 71.2,
       "fen": "r1b5/3n1k2/p1p1p1p1/PpPpPpB1/1P1Pr3/1R1Q1P1P/6P1/5RK1 b - - 0 31"
-    },
-    {
-      "id": "1025154614",
-      "url": "https://www.chess.com/game/daily/1025154614",
-      "date": "2026-09-20T11:45:46Z",
-      "player": "Deandro_M",
-      "opponent": "babaktaheri",
-      "color": "white",
-      "rating": 841,
-      "opponentRating": 952,
-      "result": "loss",
-      "termination": "resigned",
-      "timeClass": "daily",
-      "timeControl": "1/259200",
-      "opening": "Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6",
-      "accuracy": 67.5,
-      "fen": "r4rk1/2p3p1/3p3p/p1pPp1b1/P1P5/BP1Q2P1/5R1P/3q2K1 w - - 0 29"
     }
   ],
   "featuredGames": [
