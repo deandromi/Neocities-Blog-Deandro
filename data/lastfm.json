@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-08T00:58:33.231855Z",
+  "generatedAt": "2026-10-08T10:31:41.980394Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -214,33 +214,21 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 41,
-          "url": "https://www.last.fm/music/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Nick Drake",
           "playcount": 32,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Scott Walker",
-          "playcount": 28,
-          "url": "https://www.last.fm/music/Scott+Walker",
+          "name": "Bert Jansch",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
           "playcount": 12,
           "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Pentangle",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/The+Pentangle",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -256,6 +244,12 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Scott Walker",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Scott+Walker",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Yes",
           "playcount": 6,
           "url": "https://www.last.fm/music/Yes",
@@ -265,6 +259,12 @@
           "name": "Ravi Shankar",
           "playcount": 5,
           "url": "https://www.last.fm/music/Ravi+Shankar",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Mahavishnu Orchestra with John Mclaughlin",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -284,18 +284,18 @@
           "artist": "Nick Drake"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
-          "artist": "Bert Jansch"
-        },
-        {
           "name": "Wonderwall Music",
           "playcount": 16,
           "url": "https://www.last.fm/music/George+Harrison/Wonderwall+Music",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Bert Jansch",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
+          "artist": "Bert Jansch"
         },
         {
           "name": "Santa Barbara Honeymoon",
@@ -312,20 +312,6 @@
           "artist": "Bob Dylan"
         },
         {
-          "name": "Scott 3",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Basket Of Light",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/The+Pentangle/Basket+Of+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f73f02219a424d1197a56d613f324fc8.jpg",
-          "artist": "The Pentangle"
-        },
-        {
           "name": "Rubber Soul (Super Deluxe)",
           "playcount": 10,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
@@ -333,11 +319,25 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Scott 2",
+          "name": "Scott 4",
           "playcount": 8,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
+        },
+        {
+          "name": "Sunflower",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/The+Beach+Boys/Sunflower",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png",
+          "artist": "The Beach Boys"
+        },
+        {
+          "name": "The Yes Album",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Yes/The+Yes+Album",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg",
+          "artist": "Yes"
         }
       ],
       "tracks": [
@@ -363,20 +363,6 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Smokey River",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/Smokey+River",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bert Jansch"
-        },
-        {
-          "name": "Strolling Down the Highway",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/Strolling+Down+the+Highway",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bert Jansch"
-        },
-        {
           "name": "If Not For You (2020 Mix)",
           "playcount": 3,
           "url": "https://www.last.fm/music/George+Harrison/_/If+Not+For+You+(2020+Mix)",
@@ -398,18 +384,32 @@
           "artist": "The Beach Boys"
         },
         {
-          "name": "Alice's Wonderland",
+          "name": "Smokey River",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/Alice%27s+Wonderland",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Smokey+River",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bert Jansch"
         },
         {
-          "name": "Courting Blues",
+          "name": "Strolling Down the Highway",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/Courting+Blues",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Strolling+Down+the+Highway",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bert Jansch"
+        },
+        {
+          "name": "All Things Must Pass (2020 Mix)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
+        },
+        {
+          "name": "Ballad Of Sir Frankie Crisp (Let It Roll) (2020 Mix)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+Of+Sir+Frankie+Crisp+(Let+It+Roll)+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         }
       ]
     },
@@ -423,7 +423,7 @@
         },
         {
           "name": "George Harrison",
-          "playcount": 102,
+          "playcount": 87,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -667,7 +667,7 @@
         },
         {
           "name": "Small Faces",
-          "playcount": 78,
+          "playcount": 76,
           "url": "https://www.last.fm/music/Small+Faces",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -701,7 +701,7 @@
         },
         {
           "name": "The Autumn Stone (Remastered 2025)",
-          "playcount": 76,
+          "playcount": 74,
           "url": "https://www.last.fm/music/Small+Faces/The+Autumn+Stone+(Remastered+2025)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bf44d98949d76e9740d38267a85d272c.png",
           "artist": "Small Faces"
