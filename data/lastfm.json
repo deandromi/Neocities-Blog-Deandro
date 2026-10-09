@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-09T10:30:01.128868Z",
+  "generatedAt": "2026-10-09T18:20:35.041006Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1935,
+          "playcount": 1908,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,7 +845,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 495,
+          "playcount": 477,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -862,15 +862,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 334,
-          "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Beach Boys",
           "playcount": 334,
           "url": "https://www.last.fm/music/The+Beach+Boys",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 329,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -923,21 +923,21 @@
         },
         {
           "name": "Blonde on Blonde",
-          "playcount": 165,
+          "playcount": 159,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
         },
         {
           "name": "Wonderwall Music",
-          "playcount": 145,
+          "playcount": 134,
           "url": "https://www.last.fm/music/George+Harrison/Wonderwall+Music",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png",
           "artist": "George Harrison"
         },
         {
           "name": "Pink Moon",
-          "playcount": 134,
+          "playcount": 133,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 984,
+          "playcount": 976,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1124,7 +1124,7 @@
         },
         {
           "name": "Remain in Light",
-          "playcount": 367,
+          "playcount": 359,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
