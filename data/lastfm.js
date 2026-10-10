@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-09T18:20:35.041006Z",
+  "generatedAt": "2026-10-10T00:48:16.502053Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-10",
-        "label": "10 September",
-        "shortLabel": "10 Sep",
-        "count": 0
-      },
       {
         "date": "2026-09-11",
         "label": "11 September",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "9 October",
         "shortLabel": "9 Oct",
         "count": 0
+      },
+      {
+        "date": "2026-10-10",
+        "label": "10 October",
+        "shortLabel": "10 Oct",
+        "count": 0
       }
     ]
   },
@@ -208,15 +208,15 @@ window.DEANDRO_LASTFM_DATA = {
     "7day": {
       "artists": [
         {
-          "name": "George Harrison",
-          "playcount": 35,
-          "url": "https://www.last.fm/music/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Nick Drake",
           "playcount": 32,
           "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "George Harrison",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -270,18 +270,18 @@ window.DEANDRO_LASTFM_DATA = {
       ],
       "albums": [
         {
-          "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 35,
-          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
-          "artist": "George Harrison"
-        },
-        {
           "name": "The Making Of Five Leaves Left",
           "playcount": 32,
           "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "All Things Must Pass (50th Anniversary Edition)",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "artist": "George Harrison"
         },
         {
           "name": "Bert Jansch",
@@ -343,15 +343,8 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 11,
+          "playcount": 9,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
@@ -398,18 +391,25 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bert Jansch"
         },
         {
-          "name": "All Things Must Pass (2020 Mix)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Ballad Of Sir Frankie Crisp (Let It Roll) (2020 Mix)",
           "playcount": 2,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+Of+Sir+Frankie+Crisp+(Let+It+Roll)+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Beware Of Darkness (2020 Mix)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/George+Harrison/_/Beware+Of+Darkness+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
+        },
+        {
+          "name": "Instrumental (Cambridge, Lent Term / 1968)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Nick+Drake/_/Instrumental+(Cambridge,+Lent+Term+%2F+1968)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Nick Drake"
         }
       ]
     },
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1908,
+          "playcount": 1894,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,7 +845,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 477,
+          "playcount": 468,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,7 +857,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 356,
+          "playcount": 353,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -869,7 +869,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 329,
+          "playcount": 322,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -923,17 +923,10 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Blonde on Blonde",
-          "playcount": 159,
+          "playcount": 153,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
-        },
-        {
-          "name": "Wonderwall Music",
-          "playcount": 134,
-          "url": "https://www.last.fm/music/George+Harrison/Wonderwall+Music",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png",
-          "artist": "George Harrison"
         },
         {
           "name": "Pink Moon",
@@ -948,6 +941,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Easybeats/Friday+on+My+Mind",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3b8b3ad201b3778c9a03b42a8aa60d5b.jpg",
           "artist": "The Easybeats"
+        },
+        {
+          "name": "Wonderwall Music",
+          "playcount": 126,
+          "url": "https://www.last.fm/music/George+Harrison/Wonderwall+Music",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png",
+          "artist": "George Harrison"
         },
         {
           "name": "The Gift",
@@ -1053,7 +1053,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1430,
+          "playcount": 1429,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
