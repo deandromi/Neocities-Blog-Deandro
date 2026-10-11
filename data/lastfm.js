@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-11T12:45:49.336931Z",
+  "generatedAt": "2026-10-11T19:32:45.881892Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27511,
+    "playcount": 27529,
     "artistCount": 387,
     "albumCount": 1040,
-    "trackCount": 5105,
+    "trackCount": 5109,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "You Know You Know",
-    "artist": "The Mahavishnu Orchestra with John Mclaughlin",
-    "album": "The Inner Mounting Flame",
-    "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/_/You+Know+You+Know",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
+    "name": "I Want You",
+    "artist": "Bob Dylan",
+    "album": "Blonde on Blonde",
+    "url": "https://www.last.fm/music/Bob+Dylan/_/I+Want+You",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
     "nowPlaying": false,
-    "playedAt": "2026-10-08T18:35:13Z"
+    "playedAt": "2026-10-11T15:55:52Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-10-11",
         "label": "11 October",
         "shortLabel": "11 Oct",
-        "count": 0
+        "count": 18
       }
     ]
   },
@@ -220,21 +220,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Beatles",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "The Beach Boys",
           "playcount": 9,
           "url": "https://www.last.fm/music/The+Beach+Boys",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Scott Walker",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Scott+Walker",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bob Dylan",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -256,15 +250,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bert+Jansch",
+          "name": "Bob Dylan",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Simon and Garfunkel",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/+noredirect/Simon+and+Garfunkel",
+          "name": "Bert Jansch",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -284,18 +278,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Scott 4",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "New Morning",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
-          "artist": "Bob Dylan"
+          "name": "Rubber Soul (Super Deluxe)",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+          "artist": "The Beatles"
         },
         {
           "name": "Sunflower",
@@ -324,6 +311,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
           "artist": "The Mahavishnu Orchestra with John Mclaughlin"
+        },
+        {
+          "name": "Blonde on Blonde",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
+          "artist": "Bob Dylan"
         },
         {
           "name": "Surf's Up (Remastered 2009)",
@@ -435,7 +429,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 56,
+          "playcount": 71,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -459,20 +453,20 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Van Morrison",
-          "playcount": 34,
+          "playcount": 32,
           "url": "https://www.last.fm/music/Van+Morrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bob Dylan",
+          "playcount": 25,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Fleetwood Mac",
           "playcount": 23,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bob Dylan",
-          "playcount": 22,
-          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -534,18 +528,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
+          "name": "Rubber Soul (Super Deluxe)",
+          "playcount": 25,
+          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Moondance",
           "playcount": 25,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
           "artist": "Van Morrison"
-        },
-        {
-          "name": "Then Play On (2013 Remaster) [Expanded Edition]",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Fleetwood+Mac/Then+Play+On+(2013+Remaster)+%5BExpanded+Edition%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcf75e6077125c3b5c44c14323c7cebe.jpg",
-          "artist": "Fleetwood Mac"
         }
       ],
       "tracks": [
@@ -631,7 +625,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 150,
+          "playcount": 165,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -655,7 +649,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 93,
+          "playcount": 96,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -833,7 +827,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1840,
+          "playcount": 1806,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,26 +839,26 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 447,
+          "playcount": 462,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 440,
+          "playcount": 443,
           "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Dire Straits",
-          "playcount": 340,
-          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beach Boys",
           "playcount": 334,
           "url": "https://www.last.fm/music/The+Beach+Boys",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Dire Straits",
+          "playcount": 313,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -923,7 +917,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Blonde on Blonde",
-          "playcount": 139,
+          "playcount": 142,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
@@ -1053,19 +1047,19 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1404,
+          "playcount": 1408,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1326,
+          "playcount": 1329,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Talking Heads",
-          "playcount": 957,
+          "playcount": 954,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1131,7 +1125,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 346,
+          "playcount": 343,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -1145,7 +1139,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Blonde on Blonde",
-          "playcount": 298,
+          "playcount": 301,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
@@ -1166,7 +1160,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 246,
+          "playcount": 244,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -1255,7 +1249,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 2538,
+          "playcount": 2553,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1279,7 +1273,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1379,
+          "playcount": 1382,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1327,7 +1321,7 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Wall",
           "playcount": 585,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c095ad5803f440dc49a7a98a28fa699.png",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e996384ffa76e555dca7c352c7631633.jpg",
           "artist": "Pink Floyd"
         },
         {
