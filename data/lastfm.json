@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-10T21:41:43.264713Z",
+  "generatedAt": "2026-10-11T05:43:06.430408Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-11",
-        "label": "11 September",
-        "shortLabel": "11 Sep",
-        "count": 38
-      },
       {
         "date": "2026-09-12",
         "label": "12 September",
@@ -200,6 +194,12 @@
         "date": "2026-10-10",
         "label": "10 October",
         "shortLabel": "10 Oct",
+        "count": 0
+      },
+      {
+        "date": "2026-10-11",
+        "label": "11 October",
+        "shortLabel": "11 Oct",
         "count": 0
       }
     ]
@@ -833,26 +833,26 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1859,
+          "playcount": 1851,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Kinks",
-          "playcount": 589,
+          "playcount": 579,
           "url": "https://www.last.fm/music/The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bob Dylan",
-          "playcount": 448,
-          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
           "playcount": 447,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bob Dylan",
+          "playcount": 444,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -869,7 +869,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 313,
+          "playcount": 311,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -895,7 +895,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 1163,
+          "playcount": 1155,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -937,7 +937,7 @@
         },
         {
           "name": "Pink Moon",
-          "playcount": 132,
+          "playcount": 131,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
@@ -1053,7 +1053,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1409,
+          "playcount": 1404,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 976,
+          "playcount": 958,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1123,18 +1123,18 @@
           "artist": "The Kinks"
         },
         {
-          "name": "Remain in Light",
-          "playcount": 359,
-          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
-          "artist": "Talking Heads"
-        },
-        {
           "name": "Living in the Material World",
           "playcount": 347,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Remain in Light",
+          "playcount": 347,
+          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+          "artist": "Talking Heads"
         },
         {
           "name": "Pink Moon",
@@ -1152,7 +1152,7 @@
         },
         {
           "name": "Stop Making Sense (Live)",
-          "playcount": 296,
+          "playcount": 290,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
@@ -1166,7 +1166,7 @@
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 251,
+          "playcount": 246,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -1327,7 +1327,7 @@
           "name": "The Wall",
           "playcount": 585,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6af6a9a0d246464f976bef5193823322.png",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9df683f1e084692ef7764076323ad3f8.png",
           "artist": "Pink Floyd"
         },
         {
