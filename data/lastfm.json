@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-12T00:31:11.888801Z",
+  "generatedAt": "2026-10-12T10:44:42.993012Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -619,7 +619,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 269,
+          "playcount": 266,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -681,7 +681,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 179,
+          "playcount": 176,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -753,7 +753,7 @@
       "tracks": [
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 34,
+          "playcount": 33,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -845,7 +845,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 431,
+          "playcount": 422,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,13 +857,13 @@
         },
         {
           "name": "Dire Straits",
-          "playcount": 312,
+          "playcount": 310,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 301,
+          "playcount": 296,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -924,7 +924,7 @@
         },
         {
           "name": "Blonde on Blonde",
-          "playcount": 130,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
@@ -945,7 +945,7 @@
         },
         {
           "name": "Pink Moon",
-          "playcount": 121,
+          "playcount": 119,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
