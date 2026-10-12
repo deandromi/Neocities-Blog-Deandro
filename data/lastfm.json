@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-11T19:32:45.881892Z",
+  "generatedAt": "2026-10-12T00:31:11.888801Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-12",
-        "label": "12 September",
-        "shortLabel": "12 Sep",
-        "count": 12
-      },
       {
         "date": "2026-09-13",
         "label": "13 September",
@@ -201,6 +195,12 @@
         "label": "11 October",
         "shortLabel": "11 Oct",
         "count": 18
+      },
+      {
+        "date": "2026-10-12",
+        "label": "12 October",
+        "shortLabel": "12 Oct",
+        "count": 0
       }
     ]
   },
@@ -619,7 +619,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 271,
+          "playcount": 269,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -649,7 +649,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 96,
+          "playcount": 95,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -681,7 +681,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 181,
+          "playcount": 179,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -760,7 +760,7 @@
         },
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 25,
+          "playcount": 24,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -781,7 +781,7 @@
         },
         {
           "name": "Run Of The Mill (2020 Mix)",
-          "playcount": 18,
+          "playcount": 17,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -827,7 +827,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1806,
+          "playcount": 1805,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,7 +845,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 443,
+          "playcount": 431,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,13 +857,13 @@
         },
         {
           "name": "Dire Straits",
-          "playcount": 313,
+          "playcount": 312,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 311,
+          "playcount": 301,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -910,17 +910,10 @@
         },
         {
           "name": "Living in the Material World",
-          "playcount": 214,
+          "playcount": 213,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Blonde on Blonde",
-          "playcount": 142,
-          "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
-          "artist": "Bob Dylan"
         },
         {
           "name": "Friday on My Mind",
@@ -930,11 +923,11 @@
           "artist": "The Easybeats"
         },
         {
-          "name": "Pink Moon",
-          "playcount": 131,
-          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
-          "artist": "Nick Drake"
+          "name": "Blonde on Blonde",
+          "playcount": 130,
+          "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
+          "artist": "Bob Dylan"
         },
         {
           "name": "Wonderwall Music",
@@ -949,6 +942,13 @@
           "url": "https://www.last.fm/music/The+Jam/The+Gift",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2bd4aaeec559435caf739de8c65d0be4.png",
           "artist": "The Jam"
+        },
+        {
+          "name": "Pink Moon",
+          "playcount": 121,
+          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
+          "artist": "Nick Drake"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
