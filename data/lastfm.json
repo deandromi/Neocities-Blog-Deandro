@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-14T17:07:58.070041Z",
+  "generatedAt": "2026-10-14T21:39:09.853515Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -774,7 +774,7 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 566,
+          "playcount": 555,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -804,7 +804,7 @@
         },
         {
           "name": "Dire Straits",
-          "playcount": 243,
+          "playcount": 218,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -816,7 +816,7 @@
         },
         {
           "name": "Creedence Clearwater Revival",
-          "playcount": 162,
+          "playcount": 152,
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -837,7 +837,7 @@
         },
         {
           "name": "Something Else By The Kinks",
-          "playcount": 389,
+          "playcount": 378,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
@@ -923,7 +923,7 @@
         },
         {
           "name": "Waterloo Sunset",
-          "playcount": 89,
+          "playcount": 88,
           "url": "https://www.last.fm/music/The+Kinks/_/Waterloo+Sunset",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Kinks"
