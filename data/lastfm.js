@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-13T19:15:05.725226Z",
+  "generatedAt": "2026-10-14T00:16:43.915452Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-14",
-        "label": "14 September",
-        "shortLabel": "14 Sep",
-        "count": 34
-      },
       {
         "date": "2026-09-15",
         "label": "15 September",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "13 October",
         "shortLabel": "13 Oct",
         "count": 0
+      },
+      {
+        "date": "2026-10-14",
+        "label": "14 October",
+        "shortLabel": "14 Oct",
+        "count": 0
       }
     ]
   },
@@ -220,21 +220,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beach Boys",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/The+Beach+Boys",
+          "name": "Yes",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Yes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "George Harrison",
-          "playcount": 7,
+          "playcount": 5,
           "url": "https://www.last.fm/music/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Yes",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Yes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -278,25 +272,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
-          "artist": "George Harrison"
-        },
-        {
-          "name": "Sunflower",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Beach+Boys/Sunflower",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png",
-          "artist": "The Beach Boys"
-        },
-        {
           "name": "The Yes Album",
           "playcount": 6,
           "url": "https://www.last.fm/music/Yes/The+Yes+Album",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg",
           "artist": "Yes"
+        },
+        {
+          "name": "All Things Must Pass (50th Anniversary Edition)",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "artist": "George Harrison"
         },
         {
           "name": "Green Hills",
@@ -320,13 +307,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
-          "name": "Surf's Up (Remastered 2009)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beach+Boys/Surf%27s+Up+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fdc213bc5bc7a9c50c9fe988bae65fd8.jpg",
-          "artist": "The Beach Boys"
-        },
-        {
           "name": "Bert Jansch",
           "playcount": 2,
           "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
@@ -335,20 +315,6 @@ window.DEANDRO_LASTFM_DATA = {
         }
       ],
       "tracks": [
-        {
-          "name": "All I Wanna Do",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beach Boys"
-        },
-        {
-          "name": "Run Of The Mill (2020 Mix)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
         {
           "name": "Instrumental (Cambridge, Lent Term / 1968)",
           "playcount": 2,
@@ -404,6 +370,20 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+Of+Sir+Frankie+Crisp+(Let+It+Roll)+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Beware Of Darkness (2020 Mix)",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/George+Harrison/_/Beware+Of+Darkness+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
+        },
+        {
+          "name": "My Sweet Lord (2020 Mix)",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         }
       ]
     },
@@ -423,7 +403,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 71,
+          "playcount": 68,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -630,15 +610,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 125,
-          "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Scott Walker",
           "playcount": 118,
           "url": "https://www.last.fm/music/Scott+Walker",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 116,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -845,7 +825,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 410,
+          "playcount": 406,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -857,13 +837,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 292,
+          "playcount": 281,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Dire Straits",
-          "playcount": 253,
+          "playcount": 244,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -937,13 +917,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
-          "name": "Pink Moon",
-          "playcount": 119,
-          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
-          "artist": "Nick Drake"
-        },
-        {
           "name": "The Beatles (White Album / Super Deluxe)",
           "playcount": 116,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
@@ -956,6 +929,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "Pink Moon",
+          "playcount": 109,
+          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
+          "artist": "Nick Drake"
         }
       ],
       "tracks": [
@@ -1047,7 +1027,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1405,
+          "playcount": 1403,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
