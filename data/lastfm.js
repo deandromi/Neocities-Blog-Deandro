@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-15T16:58:19.173734Z",
+  "generatedAt": "2026-10-15T21:20:21.428609Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -220,18 +220,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Heavenly Bodes",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Mahavishnu Orchestra with John Mclaughlin",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Bob Dylan",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bob+Dylan",
@@ -252,20 +240,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Green Hills",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
-          "artist": "The Heavenly Bodes"
-        },
-        {
-          "name": "The Inner Mounting Flame",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
-          "artist": "The Mahavishnu Orchestra with John Mclaughlin"
         },
         {
           "name": "Blonde on Blonde",
@@ -768,7 +742,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1707,
+          "playcount": 1674,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -803,27 +777,27 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Dire Straits",
-          "playcount": 218,
-          "url": "https://www.last.fm/music/Dire+Straits",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Small Faces",
           "playcount": 194,
           "url": "https://www.last.fm/music/Small+Faces",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Creedence Clearwater Revival",
-          "playcount": 152,
-          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
+          "name": "Dire Straits",
+          "playcount": 191,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Easybeats",
           "playcount": 145,
           "url": "https://www.last.fm/music/The+Easybeats",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "playcount": 142,
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -893,7 +867,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Wonderwall Music",
-          "playcount": 107,
+          "playcount": 95,
           "url": "https://www.last.fm/music/George+Harrison/Wonderwall+Music",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png",
           "artist": "George Harrison"
@@ -988,7 +962,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1389,
+          "playcount": 1386,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
