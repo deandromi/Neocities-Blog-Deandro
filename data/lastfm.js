@@ -1,13 +1,13 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-17T10:40:00.906038Z",
+  "generatedAt": "2026-10-17T15:31:07.412380Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27546,
-    "artistCount": 387,
-    "albumCount": 1040,
-    "trackCount": 5109,
+    "playcount": 0,
+    "artistCount": 0,
+    "albumCount": 0,
+    "trackCount": 0,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
