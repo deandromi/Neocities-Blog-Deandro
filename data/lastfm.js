@@ -1,33 +1,27 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-17T20:34:17.638575Z",
+  "generatedAt": "2026-10-17T23:06:45.697951Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27546,
+    "playcount": 27556,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5109,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Hear Me Lord (2020 Mix)",
-    "artist": "George Harrison",
-    "album": "All Things Must Pass (50th Anniversary Edition)",
-    "url": "https://www.last.fm/music/George+Harrison/_/Hear+Me+Lord+(2020+Mix)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+    "name": "Being for the Benefit of Mr. Kite! (2017 Mix)",
+    "artist": "The Beatles",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
+    "url": "https://www.last.fm/music/The+Beatles/_/Being+for+the+Benefit+of+Mr.+Kite!+(2017+Mix)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cfa99610a82d1b8a9c7ff2a3b878981d.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-10-14T12:19:15Z"
+    "playedAt": "2026-10-17T23:00:16Z"
   },
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-18",
-        "label": "18 September",
-        "shortLabel": "18 Sep",
-        "count": 49
-      },
       {
         "date": "2026-09-19",
         "label": "19 September",
@@ -200,7 +194,13 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-10-17",
         "label": "17 October",
         "shortLabel": "17 Oct",
-        "count": 0
+        "count": 4
+      },
+      {
+        "date": "2026-10-18",
+        "label": "18 October",
+        "shortLabel": "18 Oct",
+        "count": 6
       }
     ]
   },
@@ -208,21 +208,27 @@ window.DEANDRO_LASTFM_DATA = {
     "7day": {
       "artists": [
         {
+          "name": "The Beatles",
+          "playcount": 23,
+          "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "George Harrison",
           "playcount": 17,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Bob Dylan",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Beach House",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Beach+House",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -247,9 +253,65 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "Yellow Submarine (Remastered)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "Thank Your Lucky Stars",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Beach+House/Thank+Your+Lucky+Stars",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9658367e59317cbec12a4151714bfa76.png",
+          "artist": "Beach House"
+        },
+        {
+          "name": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Beatles/Sgt.+Pepper%27s+Lonely+Hearts+Club+Band+(Super+Deluxe+Edition)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cfa99610a82d1b8a9c7ff2a3b878981d.jpg",
+          "artist": "The Beatles"
         }
       ],
       "tracks": [
+        {
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "Rough Song",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Beach+House/_/Rough+Song",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Beach House"
+        },
+        {
+          "name": "Being for the Benefit of Mr. Kite! (2017 Mix)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Beatles/_/Being+for+the+Benefit+of+Mr.+Kite!+(2017+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
         {
           "name": "I Want You",
           "playcount": 1,
@@ -291,34 +353,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/_/Art+Of+Dying+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Awaiting On You All (2020 Mix)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/Awaiting+On+You+All+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
-          "name": "Behind That Locked Door (2020 Mix)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/Behind+That+Locked+Door+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
-          "name": "Beware Of Darkness (2020 Mix)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/Beware+Of+Darkness+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
         }
       ]
     },
@@ -338,7 +372,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 66,
+          "playcount": 74,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -356,7 +390,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Norah Jones",
-          "playcount": 22,
+          "playcount": 21,
           "url": "https://www.last.fm/music/Norah+Jones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -390,77 +424,77 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 63,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
         },
         {
           "name": "Scott 4",
           "playcount": 59,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
         },
         {
           "name": "Scott 2",
           "playcount": 46,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
           "artist": "Scott Walker"
         },
         {
           "name": "The Making Of Five Leaves Left",
           "playcount": 32,
           "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
           "artist": "Nick Drake"
         },
         {
           "name": "Bert Jansch",
           "playcount": 29,
           "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
           "artist": "Bert Jansch"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 26,
+          "playcount": 29,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
         },
         {
           "name": "Rubber Soul (Super Deluxe)",
           "playcount": 25,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
         },
         {
           "name": "Come Away with Me",
-          "playcount": 21,
+          "playcount": 20,
           "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
           "artist": "Norah Jones"
         },
         {
           "name": "Then Play On (2013 Remaster) [Expanded Edition]",
           "playcount": 18,
           "url": "https://www.last.fm/music/Fleetwood+Mac/Then+Play+On+(2013+Remaster)+%5BExpanded+Edition%5D",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcf75e6077125c3b5c44c14323c7cebe.jpg",
           "artist": "Fleetwood Mac"
         },
         {
           "name": "The Inner Mounting Flame",
           "playcount": 17,
           "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
-          "image": "",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
           "artist": "The Mahavishnu Orchestra with John Mclaughlin"
         }
       ],
       "tracks": [
         {
           "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 15,
+          "playcount": 18,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -487,6 +521,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Scott Walker"
         },
         {
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Glory of the Snow",
           "playcount": 10,
           "url": "https://www.last.fm/music/Clairo/_/Glory+of+the+Snow",
@@ -499,13 +540,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
-        },
-        {
-          "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
         },
         {
           "name": "Plastic Palace People",
@@ -540,7 +574,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 165,
+          "playcount": 173,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -695,6 +729,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Run Of The Mill (2020 Mix)",
           "playcount": 17,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
@@ -714,13 +755,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Rolling+Stones/_/Yesterday%27s+Papers",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Rolling Stones"
-        },
-        {
-          "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
         },
         {
           "name": "You Sent Me Flying / Cherry",
@@ -747,20 +781,20 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Kinks",
-          "playcount": 540,
-          "url": "https://www.last.fm/music/The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Beatles",
-          "playcount": 434,
+          "playcount": 442,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Kinks",
+          "playcount": 369,
+          "url": "https://www.last.fm/music/The+Kinks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Bob Dylan",
-          "playcount": 365,
+          "playcount": 348,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -811,7 +845,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Something Else By The Kinks",
-          "playcount": 365,
+          "playcount": 219,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
@@ -853,17 +887,10 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 109,
+          "playcount": 112,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Blonde on Blonde",
-          "playcount": 94,
-          "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
-          "artist": "Bob Dylan"
         },
         {
           "name": "Pink Moon",
@@ -871,6 +898,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "Green Hills",
+          "playcount": 89,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
         }
       ],
       "tracks": [
@@ -896,18 +930,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Waterloo Sunset",
-          "playcount": 87,
-          "url": "https://www.last.fm/music/The+Kinks/_/Waterloo+Sunset",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Kinks"
-        },
-        {
           "name": "Friday on My Mind",
           "playcount": 86,
           "url": "https://www.last.fm/music/The+Easybeats/_/Friday+on+My+Mind",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Easybeats"
+        },
+        {
+          "name": "Waterloo Sunset",
+          "playcount": 86,
+          "url": "https://www.last.fm/music/The+Kinks/_/Waterloo+Sunset",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Kinks"
         },
         {
           "name": "I'd Have You Any Time (2020 Mix)",
@@ -962,7 +996,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1381,
+          "playcount": 1389,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1164,7 +1198,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 2553,
+          "playcount": 2561,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1283,7 +1317,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 340,
+          "playcount": 343,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
