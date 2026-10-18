@@ -1,33 +1,27 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-18T20:39:22.268261Z",
+  "generatedAt": "2026-10-18T23:09:40.229541Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27568,
+    "playcount": 27610,
     "artistCount": 387,
     "albumCount": 1040,
-    "trackCount": 5109,
+    "trackCount": 5119,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Saturday Sun",
-    "artist": "Nick Drake",
-    "album": "Five Leaves Left",
-    "url": "https://www.last.fm/music/Nick+Drake/_/Saturday+Sun",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
-    "nowPlaying": false,
-    "playedAt": "2026-10-18T16:03:32Z"
+    "name": "What Goes On (Mono)",
+    "artist": "The Beatles",
+    "album": "Rubber Soul (Super Deluxe)",
+    "url": "https://www.last.fm/music/The+Beatles/_/What+Goes+On+(Mono)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-19",
-        "label": "19 September",
-        "shortLabel": "19 Sep",
-        "count": 26
-      },
       {
         "date": "2026-09-20",
         "label": "20 September",
@@ -200,7 +194,13 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-10-18",
         "label": "18 October",
         "shortLabel": "18 Oct",
-        "count": 18
+        "count": 35
+      },
+      {
+        "date": "2026-10-19",
+        "label": "19 October",
+        "shortLabel": "19 Oct",
+        "count": 25
       }
     ]
   },
@@ -208,21 +208,27 @@ window.DEANDRO_LASTFM_DATA = {
     "7day": {
       "artists": [
         {
+          "name": "The Beatles",
+          "playcount": 31,
+          "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "George Harrison",
           "playcount": 19,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Nick+Drake",
+          "name": "Scott Walker",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/The+Beatles",
+          "name": "Nick Drake",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -234,6 +240,13 @@ window.DEANDRO_LASTFM_DATA = {
       ],
       "albums": [
         {
+          "name": "Rubber Soul (Super Deluxe)",
+          "playcount": 23,
+          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+          "artist": "The Beatles"
+        },
+        {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 19,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
@@ -241,11 +254,25 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "Scott 3",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "Five Leaves Left",
           "playcount": 10,
           "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "Scott 2",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
@@ -353,20 +380,20 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 118,
+          "playcount": 137,
           "url": "https://www.last.fm/music/Scott+Walker",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Beatles",
+          "playcount": 97,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "George Harrison",
           "playcount": 83,
           "url": "https://www.last.fm/music/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Beatles",
-          "playcount": 74,
-          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -429,10 +456,17 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Scott 2",
-          "playcount": 46,
+          "playcount": 52,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
           "artist": "Scott Walker"
+        },
+        {
+          "name": "Rubber Soul (Super Deluxe)",
+          "playcount": 48,
+          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+          "artist": "The Beatles"
         },
         {
           "name": "The Making Of Five Leaves Left",
@@ -456,11 +490,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Rubber Soul (Super Deluxe)",
+          "name": "Scott 3",
           "playcount": 25,
-          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
-          "artist": "The Beatles"
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg",
+          "artist": "Scott Walker"
         },
         {
           "name": "Come Away with Me",
@@ -475,13 +509,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
           "artist": "Nick Drake"
-        },
-        {
-          "name": "Then Play On (2013 Remaster) [Expanded Edition]",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Fleetwood+Mac/Then+Play+On+(2013+Remaster)+%5BExpanded+Edition%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcf75e6077125c3b5c44c14323c7cebe.jpg",
-          "artist": "Fleetwood Mac"
         }
       ],
       "tracks": [
@@ -536,7 +563,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Plastic Palace People",
-          "playcount": 8,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
@@ -567,20 +594,20 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 173,
+          "playcount": 196,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Scott Walker",
+          "playcount": 137,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
           "playcount": 126,
           "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Scott Walker",
-          "playcount": 118,
-          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -664,6 +691,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Van Morrison"
         },
         {
+          "name": "Scott 2",
+          "playcount": 52,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "George Harrison",
           "playcount": 48,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
@@ -671,11 +705,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Scott 2",
-          "playcount": 46,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
+          "name": "Rubber Soul (Super Deluxe)",
+          "playcount": 48,
+          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+          "artist": "The Beatles"
         },
         {
           "name": "Debussy: Piano Works",
@@ -683,13 +717,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Claude+Debussy/Debussy:+Piano+Works",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcc8db8595deec43e3a6a3824b0a0b4a.jpg",
           "artist": "Claude Debussy"
-        },
-        {
-          "name": "Louder Than Bombs",
-          "playcount": 44,
-          "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f431ff5eb377cef2177845147837492f.jpg",
-          "artist": "The Smiths"
         }
       ],
       "tracks": [
@@ -775,7 +802,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 442,
+          "playcount": 465,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -816,15 +843,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Jam",
-          "playcount": 127,
-          "url": "https://www.last.fm/music/The+Jam",
+          "name": "Scott Walker",
+          "playcount": 137,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Rolling Stones",
-          "playcount": 125,
-          "url": "https://www.last.fm/music/The+Rolling+Stones",
+          "name": "The Jam",
+          "playcount": 127,
+          "url": "https://www.last.fm/music/The+Jam",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -989,7 +1016,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1388,
+          "playcount": 1411,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1191,7 +1218,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 2561,
+          "playcount": 2584,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
