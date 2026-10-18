@@ -1,6 +1,6 @@
 window.DEANDRO_DISCOGS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-18T05:10:50.987858Z",
+  "generatedAt": "2026-10-18T11:45:15.944416Z",
   "username": "Deandro",
   "profileUrl": "https://www.discogs.com/user/Deandro",
   "wantlistUrl": "https://www.discogs.com/wantlist?user=Deandro",
