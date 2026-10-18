@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-18T11:00:55.086768Z",
+  "generatedAt": "2026-10-18T15:49:57.895177Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27556,
+    "playcount": 27563,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5109,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Being for the Benefit of Mr. Kite! (2017 Mix)",
-    "artist": "The Beatles",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
-    "url": "https://www.last.fm/music/The+Beatles/_/Being+for+the+Benefit+of+Mr.+Kite!+(2017+Mix)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cfa99610a82d1b8a9c7ff2a3b878981d.jpg",
-    "nowPlaying": false,
-    "playedAt": "2026-10-17T23:00:16Z"
+    "name": "'Cello Song",
+    "artist": "Nick Drake",
+    "album": "Five Leaves Left",
+    "url": "https://www.last.fm/music/Nick+Drake/_/%27Cello+Song",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-10-18",
         "label": "18 October",
         "shortLabel": "18 Oct",
-        "count": 6
+        "count": 13
       }
     ]
   },
@@ -208,21 +208,21 @@
     "7day": {
       "artists": [
         {
-          "name": "The Beatles",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "George Harrison",
-          "playcount": 17,
+          "playcount": 19,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bob+Dylan",
+          "name": "The Beatles",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -230,29 +230,28 @@
           "playcount": 2,
           "url": "https://www.last.fm/music/Beach+House",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bob Dylan",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 17,
+          "playcount": 19,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
         },
         {
-          "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Blonde on Blonde",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
-          "artist": "Bob Dylan"
+          "name": "Five Leaves Left",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+          "artist": "Nick Drake"
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
@@ -276,6 +275,13 @@
           "artist": "Beach House"
         },
         {
+          "name": "Blonde on Blonde",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
+          "artist": "Bob Dylan"
+        },
+        {
           "name": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
           "playcount": 2,
           "url": "https://www.last.fm/music/The+Beatles/Sgt.+Pepper%27s+Lonely+Hearts+Club+Band+(Super+Deluxe+Edition)",
@@ -284,6 +290,13 @@
         }
       ],
       "tracks": [
+        {
+          "name": "My Sweet Lord (2020 Mix)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
+        },
         {
           "name": "Hey Bulldog (Remastered 2009)",
           "playcount": 3,
@@ -327,13 +340,6 @@
           "artist": "Bob Dylan"
         },
         {
-          "name": "Visions of Johanna",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Visions+of+Johanna",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "All Things Must Pass (2020 Mix)",
           "playcount": 1,
           "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
@@ -366,7 +372,7 @@
         },
         {
           "name": "George Harrison",
-          "playcount": 81,
+          "playcount": 83,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -378,7 +384,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 52,
+          "playcount": 57,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -422,7 +428,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 63,
+          "playcount": 65,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -500,18 +506,18 @@
           "artist": "The Beatles"
         },
         {
+          "name": "My Sweet Lord (2020 Mix)",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
+        },
+        {
           "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
           "playcount": 14,
           "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
-        },
-        {
-          "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
         },
         {
           "name": "Black Sheep Boy",
@@ -568,7 +574,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 273,
+          "playcount": 275,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -579,15 +585,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Scott Walker",
-          "playcount": 118,
-          "url": "https://www.last.fm/music/Scott+Walker",
+          "name": "Nick Drake",
+          "playcount": 121,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 116,
-          "url": "https://www.last.fm/music/Nick+Drake",
+          "name": "Scott Walker",
+          "playcount": 118,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -630,7 +636,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 185,
+          "playcount": 187,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -702,7 +708,7 @@
       "tracks": [
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 34,
+          "playcount": 36,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -776,7 +782,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1399,
+          "playcount": 1401,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -800,13 +806,13 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 313,
+          "playcount": 307,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 264,
+          "playcount": 269,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -838,7 +844,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 1037,
+          "playcount": 1039,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -852,7 +858,7 @@
         },
         {
           "name": "Something Else By The Kinks",
-          "playcount": 163,
+          "playcount": 157,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
@@ -917,7 +923,7 @@
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 119,
+          "playcount": 121,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -984,7 +990,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3986,
+          "playcount": 3988,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1014,7 +1020,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 706,
+          "playcount": 711,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1046,7 +1052,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 2645,
+          "playcount": 2647,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -1125,7 +1131,7 @@
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 232,
+          "playcount": 234,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1192,7 +1198,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 4023,
+          "playcount": 4025,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1240,7 +1246,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 835,
+          "playcount": 840,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1254,7 +1260,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 2645,
+          "playcount": 2647,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -1333,7 +1339,7 @@
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 232,
+          "playcount": 234,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
