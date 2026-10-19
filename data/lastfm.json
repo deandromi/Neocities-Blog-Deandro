@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-18T23:09:40.229541Z",
+  "generatedAt": "2026-10-19T04:36:47.504997Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27610,
+    "playcount": 27651,
     "artistCount": 387,
     "albumCount": 1040,
-    "trackCount": 5119,
+    "trackCount": 5126,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "What Goes On (Mono)",
-    "artist": "The Beatles",
-    "album": "Rubber Soul (Super Deluxe)",
-    "url": "https://www.last.fm/music/The+Beatles/_/What+Goes+On+(Mono)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
-    "nowPlaying": true,
-    "playedAt": null
+    "name": "River Man (Take 2, April 1969)",
+    "artist": "Nick Drake",
+    "album": "The Making Of Five Leaves Left",
+    "url": "https://www.last.fm/music/Nick+Drake/_/River+Man+(Take+2,+April+1969)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
+    "nowPlaying": false,
+    "playedAt": "2026-10-19T01:27:31Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-10-19",
         "label": "19 October",
         "shortLabel": "19 Oct",
-        "count": 25
+        "count": 66
       }
     ]
   },
@@ -208,8 +208,14 @@
     "7day": {
       "artists": [
         {
+          "name": "Nick Drake",
+          "playcount": 44,
+          "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "The Beatles",
-          "playcount": 31,
+          "playcount": 38,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -226,12 +232,6 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Beach House",
           "playcount": 2,
           "url": "https://www.last.fm/music/Beach+House",
@@ -240,8 +240,15 @@
       ],
       "albums": [
         {
+          "name": "The Making Of Five Leaves Left",
+          "playcount": 34,
+          "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
+          "artist": "Nick Drake"
+        },
+        {
           "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 23,
+          "playcount": 30,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
@@ -333,6 +340,20 @@
           "artist": "Beach House"
         },
         {
+          "name": "Instrumental (Cambridge, Lent Term / 1968)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Nick+Drake/_/Instrumental+(Cambridge,+Lent+Term+%2F+1968)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Nick Drake"
+        },
+        {
+          "name": "Made To Love Magic (Cambridge, Lent Term / 1968)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Nick+Drake/_/Made+To+Love+Magic+(Cambridge,+Lent+Term+%2F+1968)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Nick Drake"
+        },
+        {
           "name": "Being for the Benefit of Mr. Kite! (2017 Mix)",
           "playcount": 2,
           "url": "https://www.last.fm/music/The+Beatles/_/Being+for+the+Benefit+of+Mr.+Kite!+(2017+Mix)",
@@ -359,20 +380,6 @@
           "url": "https://www.last.fm/music/George+Harrison/_/Art+Of+Dying+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Awaiting On You All (2020 Mix)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/Awaiting+On+You+All+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
         }
       ]
     },
@@ -386,20 +393,20 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 97,
+          "playcount": 104,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 96,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "George Harrison",
           "playcount": 83,
           "url": "https://www.last.fm/music/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 62,
-          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -441,6 +448,13 @@
       ],
       "albums": [
         {
+          "name": "The Making Of Five Leaves Left",
+          "playcount": 66,
+          "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
+          "artist": "Nick Drake"
+        },
+        {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 65,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
@@ -455,25 +469,18 @@
           "artist": "Scott Walker"
         },
         {
-          "name": "Scott 2",
-          "playcount": 52,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
-        },
-        {
           "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 48,
+          "playcount": 55,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
         },
         {
-          "name": "The Making Of Five Leaves Left",
-          "playcount": 32,
-          "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
-          "artist": "Nick Drake"
+          "name": "Scott 2",
+          "playcount": 52,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
         },
         {
           "name": "Bert Jansch",
@@ -594,20 +601,20 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 196,
+          "playcount": 203,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 160,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Scott Walker",
           "playcount": 137,
           "url": "https://www.last.fm/music/Scott+Walker",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 126,
-          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -670,6 +677,13 @@
           "artist": "Small Faces"
         },
         {
+          "name": "The Making Of Five Leaves Left",
+          "playcount": 72,
+          "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
+          "artist": "Nick Drake"
+        },
+        {
           "name": "Scott 4",
           "playcount": 59,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
@@ -682,6 +696,13 @@
           "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
           "artist": "The Rolling Stones"
+        },
+        {
+          "name": "Rubber Soul (Super Deluxe)",
+          "playcount": 55,
+          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+          "artist": "The Beatles"
         },
         {
           "name": "Moondance",
@@ -703,20 +724,6 @@
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 48,
-          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Debussy: Piano Works",
-          "playcount": 45,
-          "url": "https://www.last.fm/music/Claude+Debussy/Debussy:+Piano+Works",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcc8db8595deec43e3a6a3824b0a0b4a.jpg",
-          "artist": "Claude Debussy"
         }
       ],
       "tracks": [
@@ -802,7 +809,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 465,
+          "playcount": 472,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -819,15 +826,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Kinks",
-          "playcount": 294,
-          "url": "https://www.last.fm/music/The+Kinks",
+          "name": "Nick Drake",
+          "playcount": 308,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 274,
-          "url": "https://www.last.fm/music/Nick+Drake",
+          "name": "The Kinks",
+          "playcount": 294,
+          "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -1016,7 +1023,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1411,
+          "playcount": 1418,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1034,7 +1041,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 716,
+          "playcount": 750,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1218,7 +1225,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 2584,
+          "playcount": 2591,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1260,7 +1267,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 845,
+          "playcount": 879,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
