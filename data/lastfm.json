@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-20T00:18:41.710931Z",
+  "generatedAt": "2026-10-20T08:28:55.279783Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27653,
+    "playcount": 27656,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5126,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Hare Krsna Mantra (Remastered 2010)",
-    "artist": "The Radha Krsna Temple",
-    "album": "The Radha Krsna Temple (Remastered 2010)",
-    "url": "https://www.last.fm/music/The+Radha+Krsna+Temple/_/Hare+Krsna+Mantra+(Remastered+2010)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/25700603c28b6f0f5273542284fcfd60.jpg",
-    "nowPlaying": false,
-    "playedAt": "2026-10-19T23:01:30Z"
+    "name": "You're Gonna Make Me Lonesome When You Go",
+    "artist": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "url": "https://www.last.fm/music/Bob+Dylan/_/You%27re+Gonna+Make+Me+Lonesome+When+You+Go",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ebde64dfd4aa4e00ce17769ce314153e.png",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-10-20",
         "label": "20 October",
         "shortLabel": "20 Oct",
-        "count": 2
+        "count": 5
       }
     ]
   },
@@ -229,6 +229,12 @@
           "name": "Scott Walker",
           "playcount": 19,
           "url": "https://www.last.fm/music/Scott+Walker",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bob Dylan",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -309,11 +315,11 @@
           "artist": "Beach House"
         },
         {
-          "name": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
+          "name": "Blood on the Tracks",
           "playcount": 2,
-          "url": "https://www.last.fm/music/The+Beatles/Sgt.+Pepper%27s+Lonely+Hearts+Club+Band+(Super+Deluxe+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cfa99610a82d1b8a9c7ff2a3b878981d.jpg",
-          "artist": "The Beatles"
+          "url": "https://www.last.fm/music/Bob+Dylan/Blood+on+the+Tracks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ebde64dfd4aa4e00ce17769ce314153e.png",
+          "artist": "Bob Dylan"
         }
       ],
       "tracks": [
@@ -374,18 +380,18 @@
           "artist": "The Beatles"
         },
         {
-          "name": "All Things Must Pass (2020 Mix)",
+          "name": "It's All Over Now, Baby Blue",
           "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
+          "url": "https://www.last.fm/music/Bob+Dylan/_/It%27s+All+Over+Now,+Baby+Blue",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
+          "artist": "Bob Dylan"
         },
         {
-          "name": "Apple Scruffs (2020 Mix)",
+          "name": "Simple Twist of Fate",
           "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/Apple+Scruffs+(2020+Mix)",
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Simple+Twist+of+Fate",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
+          "artist": "Bob Dylan"
         }
       ]
     },
@@ -422,6 +428,12 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Bob Dylan",
+          "playcount": 20,
+          "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Norah Jones",
           "playcount": 20,
           "url": "https://www.last.fm/music/Norah+Jones",
@@ -431,12 +443,6 @@
           "name": "Fleetwood Mac",
           "playcount": 19,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bob Dylan",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -631,7 +637,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 93,
+          "playcount": 96,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -821,7 +827,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 348,
+          "playcount": 351,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1035,7 +1041,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1326,
+          "playcount": 1329,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1255,7 +1261,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1382,
+          "playcount": 1385,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
