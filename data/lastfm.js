@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-20T08:28:55.279783Z",
+  "generatedAt": "2026-10-20T14:17:29.521419Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27656,
+    "playcount": 27663,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5126,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "You're Gonna Make Me Lonesome When You Go",
-    "artist": "Bob Dylan",
-    "album": "Blood on the Tracks",
-    "url": "https://www.last.fm/music/Bob+Dylan/_/You%27re+Gonna+Make+Me+Lonesome+When+You+Go",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ebde64dfd4aa4e00ce17769ce314153e.png",
-    "nowPlaying": true,
-    "playedAt": null
+    "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
+    "artist": "George Harrison",
+    "album": "All Things Must Pass (50th Anniversary Edition)",
+    "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+    "nowPlaying": false,
+    "playedAt": "2026-10-20T11:04:03Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-10-20",
         "label": "20 October",
         "shortLabel": "20 Oct",
-        "count": 5
+        "count": 12
       }
     ]
   },
@@ -221,7 +221,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "George Harrison",
-          "playcount": 19,
+          "playcount": 23,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -233,7 +233,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 3,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -267,7 +267,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 19,
+          "playcount": 23,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -294,6 +294,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Scott Walker"
         },
         {
+          "name": "Blood on the Tracks",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Bob+Dylan/Blood+on+the+Tracks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ebde64dfd4aa4e00ce17769ce314153e.png",
+          "artist": "Bob Dylan"
+        },
+        {
           "name": "The Beatles (White Album / Super Deluxe)",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
@@ -313,19 +320,19 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Beach+House/Thank+Your+Lucky+Stars",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9658367e59317cbec12a4151714bfa76.png",
           "artist": "Beach House"
-        },
-        {
-          "name": "Blood on the Tracks",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/Blood+on+the+Tracks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ebde64dfd4aa4e00ce17769ce314153e.png",
-          "artist": "Bob Dylan"
         }
       ],
       "tracks": [
         {
+          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
+        },
+        {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -380,16 +387,9 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "It's All Over Now, Baby Blue",
+          "name": "If You See Her, Say Hello",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/It%27s+All+Over+Now,+Baby+Blue",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
-        },
-        {
-          "name": "Simple Twist of Fate",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Simple+Twist+of+Fate",
+          "url": "https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
         }
@@ -405,7 +405,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 103,
+          "playcount": 97,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -417,7 +417,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "George Harrison",
-          "playcount": 83,
+          "playcount": 87,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -429,14 +429,8 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 20,
+          "playcount": 23,
           "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Norah Jones",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Norah+Jones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -456,22 +450,28 @@ window.DEANDRO_LASTFM_DATA = {
           "playcount": 16,
           "url": "https://www.last.fm/music/Clairo",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Band",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Band",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
+        {
+          "name": "All Things Must Pass (50th Anniversary Edition)",
+          "playcount": 69,
+          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "artist": "George Harrison"
+        },
         {
           "name": "The Making Of Five Leaves Left",
           "playcount": 66,
           "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
           "artist": "Nick Drake"
-        },
-        {
-          "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 65,
-          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
-          "artist": "George Harrison"
         },
         {
           "name": "Scott 4",
@@ -502,13 +502,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bert Jansch"
         },
         {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 27,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "Scott 3",
           "playcount": 25,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
@@ -516,11 +509,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Scott Walker"
         },
         {
-          "name": "Come Away with Me",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Norah+Jones/Come+Away+with+Me",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d241c204d07ae6a8881b80ee0fcd0e84.png",
-          "artist": "Norah Jones"
+          "name": "The Beatles (White Album / Super Deluxe)",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
+          "artist": "The Beatles"
         },
         {
           "name": "Five Leaves Left",
@@ -528,19 +521,19 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "Then Play On (2013 Remaster) [Expanded Edition]",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/Fleetwood+Mac/Then+Play+On+(2013+Remaster)+%5BExpanded+Edition%5D",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcf75e6077125c3b5c44c14323c7cebe.jpg",
+          "artist": "Fleetwood Mac"
         }
       ],
       "tracks": [
         {
-          "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 15,
+          "playcount": 16,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -567,11 +560,25 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Glory of the Snow",
           "playcount": 10,
           "url": "https://www.last.fm/music/Clairo/_/Glory+of+the+Snow",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Clairo"
+        },
+        {
+          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         },
         {
           "name": "On Your Own Again",
@@ -588,13 +595,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Scott Walker"
         },
         {
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Run Of The Mill (2020 Mix)",
           "playcount": 7,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
@@ -607,7 +607,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 275,
+          "playcount": 279,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -630,15 +630,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Van Morrison",
-          "playcount": 98,
-          "url": "https://www.last.fm/music/Van+Morrison",
+          "name": "Bob Dylan",
+          "playcount": 99,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 96,
-          "url": "https://www.last.fm/music/Bob+Dylan",
+          "name": "Van Morrison",
+          "playcount": 98,
+          "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -669,7 +669,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 187,
+          "playcount": 191,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -741,14 +741,14 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 24,
+          "playcount": 27,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -815,7 +815,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1182,
+          "playcount": 1117,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -827,7 +827,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 351,
+          "playcount": 354,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -877,7 +877,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 920,
+          "playcount": 858,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -949,14 +949,14 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 199,
+          "playcount": 146,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "Run Of The Mill (2020 Mix)",
-          "playcount": 106,
+          "playcount": 105,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1012,7 +1012,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "I'd Have You Any Time (2020 Mix)",
-          "playcount": 34,
+          "playcount": 33,
           "url": "https://www.last.fm/music/George+Harrison/_/I%27d+Have+You+Any+Time+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1023,7 +1023,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3988,
+          "playcount": 3992,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1041,13 +1041,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1329,
+          "playcount": 1332,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Talking Heads",
-          "playcount": 920,
+          "playcount": 919,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1085,7 +1085,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 2647,
+          "playcount": 2651,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -1157,14 +1157,14 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 320,
+          "playcount": 323,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 234,
+          "playcount": 235,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1231,7 +1231,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 4025,
+          "playcount": 4029,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1261,7 +1261,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1385,
+          "playcount": 1388,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1293,7 +1293,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 2647,
+          "playcount": 2651,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -1365,14 +1365,14 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 320,
+          "playcount": 323,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 234,
+          "playcount": 235,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
