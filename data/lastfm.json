@@ -1,33 +1,27 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-19T20:34:30.449125Z",
+  "generatedAt": "2026-10-20T00:18:41.710931Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27651,
+    "playcount": 27653,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5126,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "River Man (Take 2, April 1969)",
-    "artist": "Nick Drake",
-    "album": "The Making Of Five Leaves Left",
-    "url": "https://www.last.fm/music/Nick+Drake/_/River+Man+(Take+2,+April+1969)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
+    "name": "Hare Krsna Mantra (Remastered 2010)",
+    "artist": "The Radha Krsna Temple",
+    "album": "The Radha Krsna Temple (Remastered 2010)",
+    "url": "https://www.last.fm/music/The+Radha+Krsna+Temple/_/Hare+Krsna+Mantra+(Remastered+2010)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/25700603c28b6f0f5273542284fcfd60.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-10-19T01:27:31Z"
+    "playedAt": "2026-10-19T23:01:30Z"
   },
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-20",
-        "label": "20 September",
-        "shortLabel": "20 Sep",
-        "count": 35
-      },
       {
         "date": "2026-09-21",
         "label": "21 September",
@@ -201,6 +195,12 @@
         "label": "19 October",
         "shortLabel": "19 Oct",
         "count": 66
+      },
+      {
+        "date": "2026-10-20",
+        "label": "20 October",
+        "shortLabel": "20 Oct",
+        "count": 2
       }
     ]
   },
@@ -215,7 +215,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 38,
+          "playcount": 39,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -236,6 +236,12 @@
           "playcount": 2,
           "url": "https://www.last.fm/music/Beach+House",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Radha Krsna Temple",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/The+Radha+Krsna+Temple",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
@@ -248,7 +254,7 @@
         },
         {
           "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 30,
+          "playcount": 31,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
@@ -361,6 +367,13 @@
           "artist": "The Beatles"
         },
         {
+          "name": "Day Tripper (2023 Mix)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "All Things Must Pass (2020 Mix)",
           "playcount": 1,
           "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
@@ -371,13 +384,6 @@
           "name": "Apple Scruffs (2020 Mix)",
           "playcount": 1,
           "url": "https://www.last.fm/music/George+Harrison/_/Apple+Scruffs+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
-          "name": "Art Of Dying (2020 Mix)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/_/Art+Of+Dying+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         }
@@ -393,7 +399,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 104,
+          "playcount": 103,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -470,7 +476,7 @@
         },
         {
           "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 55,
+          "playcount": 56,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
@@ -491,7 +497,7 @@
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 29,
+          "playcount": 27,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -521,7 +527,7 @@
       "tracks": [
         {
           "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 18,
+          "playcount": 17,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -699,7 +705,7 @@
         },
         {
           "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 55,
+          "playcount": 56,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
@@ -803,13 +809,13 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 1216,
+          "playcount": 1182,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 472,
+          "playcount": 473,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -865,7 +871,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 954,
+          "playcount": 920,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -1023,7 +1029,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1418,
+          "playcount": 1419,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1225,7 +1231,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 2591,
+          "playcount": 2592,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
