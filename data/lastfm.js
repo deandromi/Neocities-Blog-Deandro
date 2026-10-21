@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-20T23:51:16.245363Z",
+  "generatedAt": "2026-10-21T04:42:28.422901Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -1093,70 +1093,70 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 2651,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "image": "",
           "artist": "George Harrison"
         },
         {
           "name": "Something Else By The Kinks",
           "playcount": 768,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
+          "image": "",
           "artist": "The Kinks"
         },
         {
           "name": "The Kinks Are the Village Green Preservation Society",
           "playcount": 403,
           "url": "https://www.last.fm/music/The+Kinks/The+Kinks+Are+the+Village+Green+Preservation+Society",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f53795b2b0c428ea599dd9a8b337382a.jpg",
+          "image": "",
           "artist": "The Kinks"
         },
         {
           "name": "Living in the Material World",
           "playcount": 347,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
+          "image": "",
           "artist": "George Harrison"
         },
         {
           "name": "Remain in Light",
           "playcount": 333,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+          "image": "",
           "artist": "Talking Heads"
         },
         {
           "name": "Pink Moon",
           "playcount": 327,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
+          "image": "",
           "artist": "Nick Drake"
         },
         {
           "name": "Blonde on Blonde",
           "playcount": 301,
           "url": "https://www.last.fm/music/Bob+Dylan/Blonde+on+Blonde",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8dbd0e1e45eb4affb6416ec329bdf49b.png",
+          "image": "",
           "artist": "Bob Dylan"
         },
         {
           "name": "Stop Making Sense (Live)",
           "playcount": 273,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
+          "image": "",
           "artist": "Talking Heads"
         },
         {
           "name": "The Basement Tapes",
           "playcount": 270,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
+          "image": "",
           "artist": "Bob Dylan"
         },
         {
           "name": "The Stranger",
           "playcount": 240,
           "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
+          "image": "",
           "artist": "Billy Joel"
         }
       ],
