@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-21T17:09:32.451635Z",
+  "generatedAt": "2026-10-21T21:40:31.495101Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -15,7 +15,7 @@ window.DEANDRO_LASTFM_DATA = {
     "artist": "Talking Heads",
     "album": "Stop Making Sense (Live)",
     "url": "https://www.last.fm/music/Talking+Heads/_/This+Must+Be+The+Place+(Naive+Melody)+%5BLive%5D",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
     "nowPlaying": false,
     "playedAt": "2026-10-20T21:38:47Z"
   },
@@ -737,11 +737,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "The Autumn Stone (Remastered 2025)",
+          "name": "Louder Than Bombs",
           "playcount": 44,
-          "url": "https://www.last.fm/music/Small+Faces/The+Autumn+Stone+(Remastered+2025)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bf44d98949d76e9740d38267a85d272c.png",
-          "artist": "Small Faces"
+          "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f431ff5eb377cef2177845147837492f.jpg",
+          "artist": "The Smiths"
         }
       ],
       "tracks": [
