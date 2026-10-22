@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-22T11:47:51.670666Z",
+  "generatedAt": "2026-10-22T17:07:57.957647Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 957,
+          "playcount": 955,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -916,7 +916,7 @@
         },
         {
           "name": "Living in the Material World",
-          "playcount": 132,
+          "playcount": 131,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
