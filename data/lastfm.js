@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-22T04:40:10.727188Z",
+  "generatedAt": "2026-10-22T11:47:51.670666Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27675,
+    "playcount": 27687,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5126,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "This Must Be The Place (Naive Melody) [Live]",
-    "artist": "Talking Heads",
-    "album": "Stop Making Sense (Live)",
-    "url": "https://www.last.fm/music/Talking+Heads/_/This+Must+Be+The+Place+(Naive+Melody)+%5BLive%5D",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
+    "name": "Whispering Pines",
+    "artist": "The Band",
+    "album": "The Band",
+    "url": "https://www.last.fm/music/The+Band/_/Whispering+Pines",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fc0a599b522abafb7338f82f7f0a8b4e.png",
     "nowPlaying": false,
-    "playedAt": "2026-10-20T21:38:47Z"
+    "playedAt": "2026-10-22T10:58:40Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-10-22",
         "label": "22 October",
         "shortLabel": "22 Oct",
-        "count": 0
+        "count": 12
       }
     ]
   },
@@ -221,7 +221,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Scott Walker",
-          "playcount": 19,
+          "playcount": 20,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -233,14 +233,20 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "George Harrison",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/George+Harrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Heavenly Bodes",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -250,9 +256,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Radha Krsna Temple",
+          "name": "Clairo",
           "playcount": 1,
-          "url": "https://www.last.fm/music/The+Radha+Krsna+Temple",
+          "url": "https://www.last.fm/music/Clairo",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -314,18 +326,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Talking Heads"
         },
         {
+          "name": "Green Hills",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
+        },
+        {
           "name": "Remain in Light",
           "playcount": 4,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
-        },
-        {
-          "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
-          "artist": "The Beatles"
         }
       ],
       "tracks": [
@@ -405,7 +417,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 137,
+          "playcount": 138,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -423,7 +435,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "George Harrison",
-          "playcount": 80,
+          "playcount": 81,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -435,7 +447,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -443,6 +455,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Fleetwood Mac",
           "playcount": 19,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Clairo",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Clairo",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -455,12 +473,6 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Mahavishnu Orchestra with John Mclaughlin",
           "playcount": 17,
           "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Clairo",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/Clairo",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -481,7 +493,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Scott 4",
-          "playcount": 59,
+          "playcount": 60,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
@@ -529,11 +541,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Fleetwood Mac"
         },
         {
-          "name": "The Inner Mounting Flame",
+          "name": "Charm",
           "playcount": 17,
-          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
-          "artist": "The Mahavishnu Orchestra with John Mclaughlin"
+          "url": "https://www.last.fm/music/Clairo/Charm",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
+          "artist": "Clairo"
         }
       ],
       "tracks": [
@@ -567,10 +579,17 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Glory of the Snow",
-          "playcount": 10,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Clairo/_/Glory+of+the+Snow",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Clairo"
+        },
+        {
+          "name": "On Your Own Again",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
         },
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
@@ -578,13 +597,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "On Your Own Again",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "Plastic Palace People",
@@ -613,7 +625,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 266,
+          "playcount": 267,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -631,26 +643,26 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Scott Walker",
-          "playcount": 137,
+          "playcount": 138,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 99,
+          "playcount": 100,
           "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Heavenly Bodes",
+          "playcount": 98,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Van Morrison",
           "playcount": 98,
           "url": "https://www.last.fm/music/Van+Morrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Heavenly Bodes",
-          "playcount": 93,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -682,7 +694,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Green Hills",
-          "playcount": 89,
+          "playcount": 94,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
@@ -696,7 +708,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Scott 4",
-          "playcount": 59,
+          "playcount": 60,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
@@ -731,7 +743,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "George Harrison",
-          "playcount": 48,
+          "playcount": 49,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
@@ -761,14 +773,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Acting",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
         },
         {
           "name": "National Express",
-          "playcount": 21,
+          "playcount": 22,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
@@ -802,18 +814,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Rolling Stones"
         },
         {
+          "name": "De Groene Heuvels",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
+        },
+        {
           "name": "You Sent Me Flying / Cherry",
           "playcount": 14,
           "url": "https://www.last.fm/music/Amy+Winehouse/_/You+Sent+Me+Flying+%2F+Cherry",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Amy Winehouse"
-        },
-        {
-          "name": "All Things Must Pass (2020 Mix)",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
         }
       ]
     },
@@ -821,13 +833,13 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 960,
+          "playcount": 957,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 471,
+          "playcount": 470,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -839,7 +851,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 320,
+          "playcount": 321,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -869,7 +881,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Scott Walker",
-          "playcount": 137,
+          "playcount": 138,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -925,7 +937,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Basement Tapes",
-          "playcount": 115,
+          "playcount": 116,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
@@ -938,24 +950,24 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
+          "name": "Green Hills",
+          "playcount": 94,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
+        },
+        {
           "name": "Pink Moon",
           "playcount": 91,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
-        },
-        {
-          "name": "Green Hills",
-          "playcount": 89,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
-          "artist": "The Heavenly Bodes"
         }
       ],
       "tracks": [
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 97,
+          "playcount": 96,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -976,7 +988,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Run Of The Mill (2020 Mix)",
-          "playcount": 75,
+          "playcount": 74,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1029,7 +1041,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3992,
+          "playcount": 3993,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1047,7 +1059,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1332,
+          "playcount": 1333,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1083,7 +1095,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Creedence Clearwater Revival",
-          "playcount": 327,
+          "playcount": 328,
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -1140,7 +1152,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Basement Tapes",
-          "playcount": 270,
+          "playcount": 271,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
@@ -1237,7 +1249,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 4029,
+          "playcount": 4030,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1267,7 +1279,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1388,
+          "playcount": 1389,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
