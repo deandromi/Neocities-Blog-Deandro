@@ -1,6 +1,6 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-22T11:38:13.469700Z",
+  "generatedAt": "2026-10-22T17:02:58.692178Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -34,6 +34,23 @@ window.DEANDRO_CHESS_DATA = {
     }
   },
   "recentGames": [
+    {
+      "id": "185750826286",
+      "url": "https://www.chess.com/game/live/185750826286",
+      "date": "2026-10-22T13:36:41Z",
+      "player": "Deandro_M",
+      "opponent": "Safwanenoraz",
+      "color": "black",
+      "rating": 721,
+      "opponentRating": 408,
+      "result": "loss",
+      "termination": "resigned",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Sicilian Defense Nimzowitsch Closed 3...e6",
+      "accuracy": 66.7,
+      "fen": "5r1k/p6p/p4pp1/3Q1bq1/6P1/5P2/PPN4P/R3R1K1 b - g3 0 22"
+    },
     {
       "id": "185742618626",
       "url": "https://www.chess.com/game/live/185742618626",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Queens Pawn Opening 1...d5 2.e3 Nf6 3.c4",
       "accuracy": 66.3,
       "fen": "6k1/2p2ppp/p7/8/1np1N3/4P1Pb/PP3P1P/R1Br2K1 w - - 2 18"
-    },
-    {
-      "id": "184596483000",
-      "url": "https://www.chess.com/game/live/184596483000",
-      "date": "2026-09-30T10:29:53Z",
-      "player": "Deandro_M",
-      "opponent": "Kazys12345",
-      "color": "black",
-      "rating": 740,
-      "opponentRating": 750,
-      "result": "win",
-      "termination": "checkmated",
-      "timeClass": "rapid",
-      "timeControl": "900+10",
-      "opening": "Sicilian Defense Bowdler Attack 2...Nc6",
-      "accuracy": 85.4,
-      "fen": "3rr1k1/pb1p1p1p/1p3bp1/2p2p2/2P2B2/PBRQ4/6qP/1R4K1 w - - 0 26"
     }
   ],
   "featuredGames": [
