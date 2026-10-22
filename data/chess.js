@@ -1,14 +1,14 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-22T04:27:23.244004Z",
+  "generatedAt": "2026-10-22T11:38:13.469700Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
     "rapid": {
-      "current": 731,
+      "current": 721,
       "best": 951,
       "wins": 77,
-      "losses": 71,
+      "losses": 72,
       "draws": 5
     },
     "blitz": {
@@ -34,6 +34,23 @@ window.DEANDRO_CHESS_DATA = {
     }
   },
   "recentGames": [
+    {
+      "id": "185742618626",
+      "url": "https://www.chess.com/game/live/185742618626",
+      "date": "2026-10-22T10:57:52Z",
+      "player": "Deandro_M",
+      "opponent": "Akash6147",
+      "color": "black",
+      "rating": 721,
+      "opponentRating": 750,
+      "result": "loss",
+      "termination": "resigned",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Kings Fianchetto Opening Indian Defense 2.Bg2 c5",
+      "accuracy": 72.0,
+      "fen": "8/8/p6p/7k/P7/2P1PQ2/5PK1/3r4 b - - 8 45"
+    },
     {
       "id": "1036992066",
       "url": "https://www.chess.com/game/daily/1036992066",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Sicilian Defense Bowdler Attack 2...Nc6",
       "accuracy": 85.4,
       "fen": "3rr1k1/pb1p1p1p/1p3bp1/2p2p2/2P2B2/PBRQ4/6qP/1R4K1 w - - 0 26"
-    },
-    {
-      "id": "184541473078",
-      "url": "https://www.chess.com/game/live/184541473078",
-      "date": "2026-09-29T08:25:27Z",
-      "player": "Deandro_M",
-      "opponent": "qabbarielbadri",
-      "color": "black",
-      "rating": 730,
-      "opponentRating": 714,
-      "result": "win",
-      "termination": "checkmated",
-      "timeClass": "rapid",
-      "timeControl": "900+10",
-      "opening": "French Defense Kings Indian Attack 2...c5",
-      "accuracy": 78.2,
-      "fen": "r1b3k1/pp1p3p/4p1p1/2p3N1/P1P3nP/3P4/3QKrP1/q4B1R w - - 0 21"
     }
   ],
   "featuredGames": [
