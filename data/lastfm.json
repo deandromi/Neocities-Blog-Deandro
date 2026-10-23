@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-23T17:04:11.024997Z",
+  "generatedAt": "2026-10-23T21:22:20.744963Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27687,
+    "playcount": 27695,
     "artistCount": 387,
     "albumCount": 1040,
-    "trackCount": 5126,
+    "trackCount": 5128,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Whispering Pines",
-    "artist": "The Band",
-    "album": "The Band",
-    "url": "https://www.last.fm/music/The+Band/_/Whispering+Pines",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fc0a599b522abafb7338f82f7f0a8b4e.png",
+    "name": "Million Dollar Bash",
+    "artist": "Bob Dylan",
+    "album": "The Basement Tapes",
+    "url": "https://www.last.fm/music/Bob+Dylan/_/Million+Dollar+Bash",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-10-22T10:58:40Z"
+    "playedAt": "2026-10-23T20:15:26Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-10-23",
         "label": "23 October",
         "shortLabel": "23 Oct",
-        "count": 0
+        "count": 8
       }
     ]
   },
@@ -233,13 +233,13 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "George Harrison",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -256,15 +256,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Clairo",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Clairo",
+          "name": "Jordana, TV Girl",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Jordana,+TV+Girl",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Creedence Clearwater Revival",
+          "name": "Clairo",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
+          "url": "https://www.last.fm/music/Clairo",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -429,7 +429,7 @@
         },
         {
           "name": "George Harrison",
-          "playcount": 81,
+          "playcount": 82,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -447,7 +447,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -625,7 +625,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 267,
+          "playcount": 268,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -649,7 +649,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 100,
+          "playcount": 101,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -743,7 +743,7 @@
         },
         {
           "name": "George Harrison",
-          "playcount": 49,
+          "playcount": 50,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
@@ -833,37 +833,37 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 955,
+          "playcount": 956,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 466,
+          "playcount": 465,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beach Boys",
-          "playcount": 333,
+          "playcount": 332,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 321,
+          "playcount": 322,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 296,
+          "playcount": 289,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Kinks",
-          "playcount": 264,
+          "playcount": 249,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -922,13 +922,6 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Something Else By The Kinks",
-          "playcount": 130,
-          "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
-          "artist": "The Kinks"
-        },
-        {
           "name": "The Gift",
           "playcount": 124,
           "url": "https://www.last.fm/music/The+Jam/The+Gift",
@@ -937,14 +930,21 @@
         },
         {
           "name": "The Basement Tapes",
-          "playcount": 116,
+          "playcount": 117,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
         },
         {
+          "name": "Something Else By The Kinks",
+          "playcount": 115,
+          "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
+          "artist": "The Kinks"
+        },
+        {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 112,
+          "playcount": 111,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -1041,7 +1041,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 3993,
+          "playcount": 3994,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1059,7 +1059,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1333,
+          "playcount": 1334,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1152,7 +1152,7 @@
         },
         {
           "name": "The Basement Tapes",
-          "playcount": 271,
+          "playcount": 272,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
@@ -1249,7 +1249,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 4030,
+          "playcount": 4031,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1279,7 +1279,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1389,
+          "playcount": 1390,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
