@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-24T15:55:03.074110Z",
+  "generatedAt": "2026-10-24T20:45:37.567321Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -458,12 +458,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Clairo",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/Clairo",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Talking Heads",
           "playcount": 17,
           "url": "https://www.last.fm/music/Talking+Heads",
@@ -473,6 +467,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Mahavishnu Orchestra with John Mclaughlin",
           "playcount": 17,
           "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Pentangle",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/The+Pentangle",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -541,11 +541,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Fleetwood Mac"
         },
         {
-          "name": "Charm",
+          "name": "The Inner Mounting Flame",
           "playcount": 17,
-          "url": "https://www.last.fm/music/Clairo/Charm",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
-          "artist": "Clairo"
+          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
+          "artist": "The Mahavishnu Orchestra with John Mclaughlin"
         }
       ],
       "tracks": [
@@ -572,7 +572,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Glory of the Snow",
-          "playcount": 11,
+          "playcount": 10,
           "url": "https://www.last.fm/music/Clairo/_/Glory+of+the+Snow",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Clairo"
@@ -637,7 +637,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 160,
+          "playcount": 149,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -673,7 +673,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beach Boys",
-          "playcount": 54,
+          "playcount": 51,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
