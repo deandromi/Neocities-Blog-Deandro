@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-24T20:45:37.567321Z",
+  "generatedAt": "2026-10-24T23:11:12.110377Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-25",
-        "label": "25 September",
-        "shortLabel": "25 Sep",
-        "count": 24
-      },
       {
         "date": "2026-09-26",
         "label": "26 September",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "24 October",
         "shortLabel": "24 Oct",
         "count": 0
+      },
+      {
+        "date": "2026-10-25",
+        "label": "25 October",
+        "shortLabel": "25 Oct",
+        "count": 0
       }
     ]
   },
@@ -215,7 +215,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 39,
+          "playcount": 31,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -250,12 +250,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Beach House",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Beach+House",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Jordana, TV Girl",
           "playcount": 2,
           "url": "https://www.last.fm/music/Jordana,+TV+Girl",
@@ -265,6 +259,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Clairo",
           "playcount": 1,
           "url": "https://www.last.fm/music/Clairo",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -356,27 +356,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Rough Song",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Beach+House/_/Rough+Song",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Beach House"
-        },
-        {
           "name": "Instrumental (Cambridge, Lent Term / 1968)",
           "playcount": 2,
           "url": "https://www.last.fm/music/Nick+Drake/_/Instrumental+(Cambridge,+Lent+Term+%2F+1968)",
@@ -410,6 +389,27 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Talking+Heads/_/The+Great+Curve",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Talking Heads"
+        },
+        {
+          "name": "Day Tripper (2023 Mix)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "If You See Her, Say Hello",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "It's All Over Now, Baby Blue",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/It%27s+All+Over+Now,+Baby+Blue",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
         }
       ]
     },
@@ -661,7 +661,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Van Morrison",
-          "playcount": 98,
+          "playcount": 92,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1327,7 +1327,7 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Wall",
           "playcount": 585,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e996384ffa76e555dca7c352c7631633.jpg",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c095ad5803f440dc49a7a98a28fa699.png",
           "artist": "Pink Floyd"
         },
         {
