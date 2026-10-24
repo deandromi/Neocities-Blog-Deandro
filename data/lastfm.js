@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-23T21:22:20.744963Z",
+  "generatedAt": "2026-10-24T04:32:51.127346Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-24",
-        "label": "24 September",
-        "shortLabel": "24 Sep",
-        "count": 35
-      },
       {
         "date": "2026-09-25",
         "label": "25 September",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "23 October",
         "shortLabel": "23 Oct",
         "count": 8
+      },
+      {
+        "date": "2026-10-24",
+        "label": "24 October",
+        "shortLabel": "24 Oct",
+        "count": 0
       }
     ]
   },
