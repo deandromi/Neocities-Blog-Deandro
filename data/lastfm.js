@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-24T10:55:42.923414Z",
+  "generatedAt": "2026-10-24T15:55:03.074110Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 954,
+          "playcount": 945,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -895,7 +895,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 722,
+          "playcount": 713,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -967,7 +967,7 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 96,
+          "playcount": 95,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -981,14 +981,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 83,
+          "playcount": 82,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "Run Of The Mill (2020 Mix)",
-          "playcount": 73,
+          "playcount": 72,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1016,7 +1016,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "All Things Must Pass (2020 Mix)",
-          "playcount": 38,
+          "playcount": 37,
           "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
