@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-25T20:48:10.056450Z",
+  "generatedAt": "2026-10-25T23:14:41.146751Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-26",
-        "label": "26 September",
-        "shortLabel": "26 Sep",
-        "count": 39
-      },
       {
         "date": "2026-09-27",
         "label": "27 September",
@@ -201,6 +195,12 @@
         "label": "25 October",
         "shortLabel": "25 Oct",
         "count": 0
+      },
+      {
+        "date": "2026-10-26",
+        "label": "26 October",
+        "shortLabel": "26 Oct",
+        "count": 0
       }
     ]
   },
@@ -211,18 +211,6 @@
           "name": "Nick Drake",
           "playcount": 34,
           "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Beatles",
-          "playcount": 31,
-          "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Scott Walker",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -241,6 +229,12 @@
           "name": "George Harrison",
           "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Beatles",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -266,6 +260,12 @@
           "playcount": 1,
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Leonard Cohen",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Leonard+Cohen",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
@@ -275,27 +275,6 @@
           "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
           "artist": "Nick Drake"
-        },
-        {
-          "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 31,
-          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1640ceee625f0c74a73d37c6e6e1f76d.jpg",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Scott 3",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Scott 2",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "Blood on the Tracks",
@@ -310,6 +289,13 @@
           "url": "https://www.last.fm/music/Talking+Heads/Talking+Heads:+77",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cf450a0fbcfde0535dac822ca3e0ce52.png",
           "artist": "Talking Heads"
+        },
+        {
+          "name": "Rubber Soul (Super Deluxe)",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+          "artist": "The Beatles"
         },
         {
           "name": "Green Hills",
@@ -338,6 +324,20 @@
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "George Harrison",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
+          "artist": "George Harrison"
+        },
+        {
+          "name": "Summer's Over",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Jordana,+TV+Girl/Summer%27s+Over",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c62643d83785a31c545edaf163988fb.jpg",
+          "artist": "Jordana, TV Girl"
         }
       ],
       "tracks": [
@@ -384,13 +384,6 @@
           "artist": "Talking Heads"
         },
         {
-          "name": "Day Tripper (2023 Mix)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "If You See Her, Say Hello",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello",
@@ -408,6 +401,13 @@
           "name": "Million Dollar Bash",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bob+Dylan/_/Million+Dollar+Bash",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Shelter from the Storm",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Shelter+from+the+Storm",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
         }
@@ -502,7 +502,7 @@
           "name": "Rubber Soul (Super Deluxe)",
           "playcount": 56,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1640ceee625f0c74a73d37c6e6e1f76d.jpg",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
         },
         {
@@ -724,7 +724,7 @@
           "name": "Rubber Soul (Super Deluxe)",
           "playcount": 56,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1640ceee625f0c74a73d37c6e6e1f76d.jpg",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
         },
         {
@@ -833,19 +833,19 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 945,
+          "playcount": 944,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 465,
+          "playcount": 458,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beach Boys",
-          "playcount": 332,
+          "playcount": 331,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -944,7 +944,7 @@
         },
         {
           "name": "The Beatles (White Album / Super Deluxe)",
-          "playcount": 111,
+          "playcount": 109,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 914,
+          "playcount": 906,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1131,7 +1131,7 @@
         },
         {
           "name": "Remain in Light",
-          "playcount": 333,
+          "playcount": 329,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -1159,7 +1159,7 @@
         },
         {
           "name": "Stop Making Sense (Live)",
-          "playcount": 258,
+          "playcount": 255,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
