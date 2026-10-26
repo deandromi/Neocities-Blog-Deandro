@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-25T23:14:41.146751Z",
+  "generatedAt": "2026-10-26T04:42:50.714564Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -208,12 +208,6 @@
     "7day": {
       "artists": [
         {
-          "name": "Nick Drake",
-          "playcount": 34,
-          "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Talking Heads",
           "playcount": 12,
           "url": "https://www.last.fm/music/Talking+Heads",
@@ -229,12 +223,6 @@
           "name": "George Harrison",
           "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Beatles",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -266,16 +254,21 @@
           "playcount": 1,
           "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Norah Jones",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Norah+Jones",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Patti Smith",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Patti+Smith",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
-        {
-          "name": "The Making Of Five Leaves Left",
-          "playcount": 34,
-          "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5a0d18c556587c7cff4875f968dd4d0c.jpg",
-          "artist": "Nick Drake"
-        },
         {
           "name": "Blood on the Tracks",
           "playcount": 5,
@@ -289,13 +282,6 @@
           "url": "https://www.last.fm/music/Talking+Heads/Talking+Heads:+77",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cf450a0fbcfde0535dac822ca3e0ce52.png",
           "artist": "Talking Heads"
-        },
-        {
-          "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
-          "artist": "The Beatles"
         },
         {
           "name": "Green Hills",
@@ -338,6 +324,20 @@
           "url": "https://www.last.fm/music/Jordana,+TV+Girl/Summer%27s+Over",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c62643d83785a31c545edaf163988fb.jpg",
           "artist": "Jordana, TV Girl"
+        },
+        {
+          "name": "Speaking in Tongues",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Talking+Heads/Speaking+in+Tongues",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/51e321194dc49e228db8b355239814a8.png",
+          "artist": "Talking Heads"
+        },
+        {
+          "name": "Bringing It All Back Home",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/Bringing+It+All+Back+Home",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3aca61bf3adb195acf500ec9d3af8657.jpg",
+          "artist": "Bob Dylan"
         }
       ],
       "tracks": [
@@ -347,20 +347,6 @@
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Instrumental (Cambridge, Lent Term / 1968)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Nick+Drake/_/Instrumental+(Cambridge,+Lent+Term+%2F+1968)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Nick Drake"
-        },
-        {
-          "name": "Made To Love Magic (Cambridge, Lent Term / 1968)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Nick+Drake/_/Made+To+Love+Magic+(Cambridge,+Lent+Term+%2F+1968)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Nick Drake"
         },
         {
           "name": "First Week / Last Week...Carefree",
@@ -408,6 +394,20 @@
           "name": "Shelter from the Storm",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bob+Dylan/_/Shelter+from+the+Storm",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Simple Twist of Fate",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Simple+Twist+of+Fate",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Tangled Up in Blue",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Tangled+Up+in+Blue",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
         }
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 906,
+          "playcount": 905,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1159,7 +1159,7 @@
         },
         {
           "name": "Stop Making Sense (Live)",
-          "playcount": 255,
+          "playcount": 254,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
