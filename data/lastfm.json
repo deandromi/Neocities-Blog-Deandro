@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-26T12:56:47.629887Z",
+  "generatedAt": "2026-10-26T20:28:02.957906Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 138,
+          "playcount": 135,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -452,12 +452,6 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Fleetwood Mac",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/Fleetwood+Mac",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Mahavishnu Orchestra with John Mclaughlin",
           "playcount": 17,
           "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
@@ -473,6 +467,12 @@
           "name": "The Heavenly Bodes",
           "playcount": 12,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Pentangle",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/The+Pentangle",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -493,7 +493,7 @@
         },
         {
           "name": "Scott 4",
-          "playcount": 60,
+          "playcount": 57,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
@@ -534,18 +534,18 @@
           "artist": "Nick Drake"
         },
         {
-          "name": "Then Play On (2013 Remaster) [Expanded Edition]",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Fleetwood+Mac/Then+Play+On+(2013+Remaster)+%5BExpanded+Edition%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dcf75e6077125c3b5c44c14323c7cebe.jpg",
-          "artist": "Fleetwood Mac"
-        },
-        {
           "name": "The Inner Mounting Flame",
           "playcount": 17,
           "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
           "artist": "The Mahavishnu Orchestra with John Mclaughlin"
+        },
+        {
+          "name": "Wonderwall Music",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/George+Harrison/Wonderwall+Music",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png",
+          "artist": "George Harrison"
         }
       ],
       "tracks": [
@@ -571,25 +571,18 @@
           "artist": "Scott Walker"
         },
         {
-          "name": "On Your Own Again",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Glory of the Snow",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Clairo/_/Glory+of+the+Snow",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Clairo"
-        },
-        {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
           "playcount": 9,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "On Your Own Again",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
         },
         {
           "name": "Plastic Palace People",
@@ -618,6 +611,13 @@
           "url": "https://www.last.fm/music/Scott+Walker/_/Best+of+Both+Worlds",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
+        },
+        {
+          "name": "Let It Down (2020 Mix)",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/George+Harrison/_/Let+It+Down+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         }
       ]
     },
@@ -649,7 +649,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 101,
+          "playcount": 100,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -673,13 +673,13 @@
         },
         {
           "name": "The Beach Boys",
-          "playcount": 51,
+          "playcount": 48,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Amy Winehouse",
-          "playcount": 50,
+          "playcount": 46,
           "url": "https://www.last.fm/music/Amy+Winehouse",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
@@ -851,7 +851,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 321,
+          "playcount": 310,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 902,
+          "playcount": 900,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
