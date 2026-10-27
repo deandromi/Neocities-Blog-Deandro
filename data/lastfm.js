@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-27T15:19:53.832239Z",
+  "generatedAt": "2026-10-27T22:10:42.242625Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -214,12 +214,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Talking Heads",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Talking+Heads",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "George Harrison",
           "playcount": 8,
           "url": "https://www.last.fm/music/George+Harrison",
@@ -266,6 +260,12 @@ window.DEANDRO_LASTFM_DATA = {
           "playcount": 1,
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Leonard Cohen",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Leonard+Cohen",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
@@ -298,20 +298,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Grateful Dead"
         },
         {
-          "name": "Talking Heads: 77",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Talking+Heads/Talking+Heads:+77",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cf450a0fbcfde0535dac822ca3e0ce52.png",
-          "artist": "Talking Heads"
-        },
-        {
-          "name": "Remain in Light",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
-          "artist": "Talking Heads"
-        },
-        {
           "name": "Yellow Submarine (Remastered)",
           "playcount": 4,
           "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
@@ -333,11 +319,25 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Jordana, TV Girl"
         },
         {
-          "name": "Speaking in Tongues",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Talking+Heads/Speaking+in+Tongues",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/51e321194dc49e228db8b355239814a8.png",
-          "artist": "Talking Heads"
+          "name": "Frank",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Amy+Winehouse/Frank",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d5d8b5ea0b1b4542b4e0249e94d81387.jpg",
+          "artist": "Amy Winehouse"
+        },
+        {
+          "name": "Charm",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Clairo/Charm",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg",
+          "artist": "Clairo"
+        },
+        {
+          "name": "Pendulum",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/Pendulum",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/910353abf120e940a9bb773949bbfb86.png",
+          "artist": "Creedence Clearwater Revival"
         }
       ],
       "tracks": [
@@ -354,27 +354,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bob+Dylan/_/Million+Dollar+Bash",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
-        },
-        {
-          "name": "First Week / Last Week...Carefree",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Talking+Heads/_/First+Week+%2F+Last+Week...Carefree",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Talking Heads"
-        },
-        {
-          "name": "The Book I Read",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Talking+Heads/_/The+Book+I+Read",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Talking Heads"
-        },
-        {
-          "name": "The Great Curve",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Talking+Heads/_/The+Great+Curve",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Talking Heads"
         },
         {
           "name": "Acting",
@@ -410,6 +389,27 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bob+Dylan/_/Bessie+Smith",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "Clothes Line Saga",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Clothes+Line+Saga",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Goin' to Acapulco",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Goin%27+to+Acapulco",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Katie's been gone",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Katie%27s+been+gone",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
         }
       ]
     },
@@ -417,7 +417,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 125,
+          "playcount": 107,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -429,7 +429,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "George Harrison",
-          "playcount": 83,
+          "playcount": 82,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -447,7 +447,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 38,
+          "playcount": 37,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -486,7 +486,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 65,
+          "playcount": 64,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -500,14 +500,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Scott 2",
-          "playcount": 52,
+          "playcount": 43,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
           "artist": "Scott Walker"
         },
         {
           "name": "Scott 4",
-          "playcount": 48,
+          "playcount": 39,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
@@ -558,15 +558,8 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Black Sheep Boy",
-          "playcount": 12,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
@@ -586,15 +579,8 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Plastic Palace People",
-          "playcount": 9,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Jackie",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Jackie",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
@@ -613,8 +599,22 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Best of Both Worlds",
+          "name": "Jackie",
           "playcount": 6,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Jackie",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
+          "name": "Let It Down (2020 Mix)",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/George+Harrison/_/Let+It+Down+(2020+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
+        },
+        {
+          "name": "Best of Both Worlds",
+          "playcount": 5,
           "url": "https://www.last.fm/music/Scott+Walker/_/Best+of+Both+Worlds",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
@@ -1065,7 +1065,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 856,
+          "playcount": 808,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1138,7 +1138,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 321,
+          "playcount": 313,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -1158,18 +1158,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
-          "name": "Stop Making Sense (Live)",
-          "playcount": 251,
-          "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
-          "artist": "Talking Heads"
-        },
-        {
           "name": "The Stranger",
           "playcount": 240,
           "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
           "artist": "Billy Joel"
+        },
+        {
+          "name": "Pet Sounds (Mono & Stereo)",
+          "playcount": 239,
+          "url": "https://www.last.fm/music/The+Beach+Boys/Pet+Sounds+(Mono+&+Stereo)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c6fa14b8b53777ead441dfb0d6251f61.jpg",
+          "artist": "The Beach Boys"
         }
       ],
       "tracks": [
