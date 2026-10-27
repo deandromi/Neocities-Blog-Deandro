@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-27T08:56:18.664032Z",
+  "generatedAt": "2026-10-27T15:19:53.832239Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27711,
+    "playcount": 27727,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5128,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "New Speedway Boogie (2013 Remaster)",
-    "artist": "Grateful Dead",
-    "album": "Workingman's Dead",
-    "url": "https://www.last.fm/music/Grateful+Dead/_/New+Speedway+Boogie+(2013+Remaster)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a953eb3d96f639d0580611862893145d.jpg",
+    "name": "Yea! Heavy And A Bottle Of Bread",
+    "artist": "Bob Dylan",
+    "album": "The Basement Tapes",
+    "url": "https://www.last.fm/music/Bob+Dylan/_/Yea!+Heavy+And+A+Bottle+Of+Bread",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-10-26T12:10:59Z"
+    "playedAt": "2026-10-27T14:21:36Z"
   },
   "activity": {
     "days": 30,
@@ -194,13 +194,13 @@
         "date": "2026-10-26",
         "label": "26 October",
         "shortLabel": "26 Oct",
-        "count": 16
+        "count": 17
       },
       {
         "date": "2026-10-27",
         "label": "27 October",
         "shortLabel": "27 Oct",
-        "count": 0
+        "count": 15
       }
     ]
   },
@@ -208,15 +208,21 @@
     "7day": {
       "artists": [
         {
-          "name": "George Harrison",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/George+Harrison",
+          "name": "Bob Dylan",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Talking Heads",
           "playcount": 12,
           "url": "https://www.last.fm/music/Talking+Heads",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "George Harrison",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -227,26 +233,20 @@
         },
         {
           "name": "Grateful Dead",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Grateful+Dead",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan",
+          "name": "The Beatles",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Jordana, TV Girl",
           "playcount": 2,
           "url": "https://www.last.fm/music/Jordana,+TV+Girl",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Beatles",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -270,11 +270,11 @@
       ],
       "albums": [
         {
-          "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
-          "artist": "George Harrison"
+          "name": "The Basement Tapes",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
+          "artist": "Bob Dylan"
         },
         {
           "name": "Green Hills",
@@ -284,18 +284,25 @@
           "artist": "The Heavenly Bodes"
         },
         {
+          "name": "All Things Must Pass (50th Anniversary Edition)",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+          "artist": "George Harrison"
+        },
+        {
+          "name": "Workingman's Dead",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Grateful+Dead/Workingman%27s+Dead",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a953eb3d96f639d0580611862893145d.jpg",
+          "artist": "Grateful Dead"
+        },
+        {
           "name": "Talking Heads: 77",
           "playcount": 5,
           "url": "https://www.last.fm/music/Talking+Heads/Talking+Heads:+77",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cf450a0fbcfde0535dac822ca3e0ce52.png",
           "artist": "Talking Heads"
-        },
-        {
-          "name": "Workingman's Dead",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Grateful+Dead/Workingman%27s+Dead",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a953eb3d96f639d0580611862893145d.jpg",
-          "artist": "Grateful Dead"
         },
         {
           "name": "Remain in Light",
@@ -305,11 +312,11 @@
           "artist": "Talking Heads"
         },
         {
-          "name": "The Basement Tapes",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
-          "artist": "Bob Dylan"
+          "name": "Yellow Submarine (Remastered)",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
+          "artist": "The Beatles"
         },
         {
           "name": "George Harrison",
@@ -331,29 +338,22 @@
           "url": "https://www.last.fm/music/Talking+Heads/Speaking+in+Tongues",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/51e321194dc49e228db8b355239814a8.png",
           "artist": "Talking Heads"
-        },
-        {
-          "name": "Yellow Submarine (Remastered)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
-          "artist": "The Beatles"
         }
       ],
       "tracks": [
         {
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
+          "name": "Hey Bulldog (Remastered 2009)",
           "playcount": 4,
-          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
+          "artist": "The Beatles"
         },
         {
-          "name": "My Sweet Lord (2020 Mix)",
+          "name": "Million Dollar Bash",
           "playcount": 2,
-          "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Million+Dollar+Bash",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
+          "artist": "Bob Dylan"
         },
         {
           "name": "First Week / Last Week...Carefree",
@@ -377,13 +377,6 @@
           "artist": "Talking Heads"
         },
         {
-          "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "Acting",
           "playcount": 2,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
@@ -405,9 +398,16 @@
           "artist": "Amy Winehouse"
         },
         {
-          "name": "Million Dollar Bash",
+          "name": "Apple Suckling Tree",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Million+Dollar+Bash",
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Apple+Suckling+Tree",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Bessie Smith",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Bessie+Smith",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
         }
@@ -417,13 +417,13 @@
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 128,
+          "playcount": 125,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 90,
+          "playcount": 88,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -435,7 +435,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 67,
+          "playcount": 69,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -447,14 +447,8 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 25,
+          "playcount": 38,
           "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Mahavishnu Orchestra with John Mclaughlin",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -473,6 +467,12 @@
           "name": "The Pentangle",
           "playcount": 11,
           "url": "https://www.last.fm/music/The+Pentangle",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Beach Boys",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -507,7 +507,7 @@
         },
         {
           "name": "Scott 4",
-          "playcount": 50,
+          "playcount": 48,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
@@ -528,17 +528,10 @@
         },
         {
           "name": "Five Leaves Left",
-          "playcount": 19,
+          "playcount": 18,
           "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
           "artist": "Nick Drake"
-        },
-        {
-          "name": "The Inner Mounting Flame",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/+noredirect/The+Mahavishnu+Orchestra+with+John+Mclaughlin/The+Inner+Mounting+Flame",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/781d63efca1c4658af9296a6278470f0.jpg",
-          "artist": "The Mahavishnu Orchestra with John Mclaughlin"
         },
         {
           "name": "Wonderwall Music",
@@ -546,6 +539,13 @@
           "url": "https://www.last.fm/music/George+Harrison/Wonderwall+Music",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "The Basement Tapes",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
+          "artist": "Bob Dylan"
         }
       ],
       "tracks": [
@@ -557,16 +557,16 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
+          "name": "Black Sheep Boy",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
         {
-          "name": "Black Sheep Boy",
+          "name": "Old Man's Back Again (Dedicated To The Neo Stalinist Regime)",
           "playcount": 12,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
+          "url": "https://www.last.fm/music/Scott+Walker/_/Old+Man%27s+Back+Again+(Dedicated+To+The+Neo+Stalinist+Regime)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
         },
@@ -599,6 +599,13 @@
           "artist": "Scott Walker"
         },
         {
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Run Of The Mill (2020 Mix)",
           "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
@@ -611,13 +618,6 @@
           "url": "https://www.last.fm/music/Scott+Walker/_/Best+of+Both+Worlds",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
-        },
-        {
-          "name": "Let It Down (2020 Mix)",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/George+Harrison/_/Let+It+Down+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
         }
       ]
     },
@@ -631,7 +631,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 205,
+          "playcount": 207,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -649,7 +649,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 100,
+          "playcount": 113,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -807,6 +807,13 @@
           "artist": "The Smiths"
         },
         {
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Yesterday's Papers",
           "playcount": 16,
           "url": "https://www.last.fm/music/The+Rolling+Stones/_/Yesterday%27s+Papers",
@@ -819,13 +826,6 @@
           "url": "https://www.last.fm/music/Amy+Winehouse/_/You+Sent+Me+Flying+%2F+Cherry",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Amy Winehouse"
-        },
-        {
-          "name": "All Things Must Pass (2020 Mix)",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
         }
       ]
     },
@@ -839,7 +839,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 459,
+          "playcount": 461,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -851,7 +851,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 307,
+          "playcount": 319,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -915,6 +915,13 @@
           "artist": "The Easybeats"
         },
         {
+          "name": "The Basement Tapes",
+          "playcount": 130,
+          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
+          "artist": "Bob Dylan"
+        },
+        {
           "name": "Living in the Material World",
           "playcount": 125,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
@@ -927,13 +934,6 @@
           "url": "https://www.last.fm/music/The+Jam/The+Gift",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2bd4aaeec559435caf739de8c65d0be4.png",
           "artist": "The Jam"
-        },
-        {
-          "name": "The Basement Tapes",
-          "playcount": 117,
-          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
-          "artist": "Bob Dylan"
         },
         {
           "name": "Something Else By The Kinks",
@@ -1053,19 +1053,19 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1407,
+          "playcount": 1409,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1334,
+          "playcount": 1347,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Talking Heads",
-          "playcount": 874,
+          "playcount": 856,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1152,7 +1152,7 @@
         },
         {
           "name": "The Basement Tapes",
-          "playcount": 272,
+          "playcount": 285,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
@@ -1255,7 +1255,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 2594,
+          "playcount": 2596,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1279,7 +1279,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1390,
+          "playcount": 1403,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
