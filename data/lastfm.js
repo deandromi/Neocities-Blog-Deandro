@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-27T00:24:29.914706Z",
+  "generatedAt": "2026-10-27T08:56:18.664032Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -220,12 +220,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Heavenly Bodes",
           "playcount": 7,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
@@ -235,6 +229,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Grateful Dead",
           "playcount": 4,
           "url": "https://www.last.fm/music/Grateful+Dead",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bob Dylan",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -284,13 +284,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Blood on the Tracks",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Bob+Dylan/Blood+on+the+Tracks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ebde64dfd4aa4e00ce17769ce314153e.png",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "Talking Heads: 77",
           "playcount": 5,
           "url": "https://www.last.fm/music/Talking+Heads/Talking+Heads:+77",
@@ -338,6 +331,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Talking+Heads/Speaking+in+Tongues",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/51e321194dc49e228db8b355239814a8.png",
           "artist": "Talking Heads"
+        },
+        {
+          "name": "Yellow Submarine (Remastered)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
+          "artist": "The Beatles"
         }
       ],
       "tracks": [
@@ -405,9 +405,9 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Amy Winehouse"
         },
         {
-          "name": "If You See Her, Say Hello",
+          "name": "Million Dollar Bash",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello",
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Million+Dollar+Bash",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
         }
@@ -851,7 +851,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 310,
+          "playcount": 307,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1065,7 +1065,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 900,
+          "playcount": 874,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1130,18 +1130,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Remain in Light",
-          "playcount": 329,
-          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
-          "artist": "Talking Heads"
-        },
-        {
           "name": "Pink Moon",
           "playcount": 327,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "Remain in Light",
+          "playcount": 321,
+          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+          "artist": "Talking Heads"
         },
         {
           "name": "Blonde on Blonde",
