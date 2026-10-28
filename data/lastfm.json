@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-27T22:10:42.242625Z",
+  "generatedAt": "2026-10-28T05:38:09.271609Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-28",
-        "label": "28 September",
-        "shortLabel": "28 Sep",
-        "count": 44
-      },
       {
         "date": "2026-09-29",
         "label": "29 September",
@@ -201,6 +195,12 @@
         "label": "27 October",
         "shortLabel": "27 Oct",
         "count": 15
+      },
+      {
+        "date": "2026-10-28",
+        "label": "28 October",
+        "shortLabel": "28 Oct",
+        "count": 0
       }
     ]
   },
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "Scott Walker",
-          "playcount": 107,
+          "playcount": 100,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -507,7 +507,7 @@
         },
         {
           "name": "Scott 4",
-          "playcount": 39,
+          "playcount": 32,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
           "artist": "Scott Walker"
@@ -572,7 +572,7 @@
         },
         {
           "name": "On Your Own Again",
-          "playcount": 9,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Scott Walker"
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 808,
+          "playcount": 798,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1138,7 +1138,7 @@
         },
         {
           "name": "Remain in Light",
-          "playcount": 313,
+          "playcount": 307,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
