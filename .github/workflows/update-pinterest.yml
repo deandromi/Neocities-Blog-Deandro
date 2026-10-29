@@ -1,0 +1,49 @@
+name: Update Pinterest scrapbook
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "43 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocities-data-updates
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      PINTEREST_USER: Deandro2011
+      NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY || secrets.NEOCITIES_API_TOKEN }}
+
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+
+      - name: Build the Pinterest snapshot
+        run: python3 scripts/fetch_pinterest.py
+
+      - name: Publish the fresh pins to Neocities
+        if: ${{ env.NEOCITIES_API_KEY != '' }}
+        run: |
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            -F "data/pinterest.js=@data/pinterest.js;type=application/javascript" \
+            -F "data/pinterest.json=@data/pinterest.json;type=application/json" \
+            "https://neocities.org/api/upload"
+
+      - name: Save changed pins
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/pinterest.json data/pinterest.js
+          if git diff --cached --quiet; then
+            echo "The Pinterest archive is already current."
+            exit 0
+          fi
+          git commit -m "Update Pinterest scrapbook"
+          git pull --rebase origin main
+          git push origin HEAD:main
