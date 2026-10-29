@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-28T20:14:41.207661Z",
+  "generatedAt": "2026-10-29T00:53:23.577936Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-09-29",
-        "label": "29 September",
-        "shortLabel": "29 Sep",
-        "count": 28
-      },
       {
         "date": "2026-09-30",
         "label": "30 September",
@@ -200,6 +194,12 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-10-28",
         "label": "28 October",
         "shortLabel": "28 Oct",
+        "count": 0
+      },
+      {
+        "date": "2026-10-29",
+        "label": "29 October",
+        "shortLabel": "29 Oct",
         "count": 0
       }
     ]
@@ -625,7 +625,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 272,
+          "playcount": 250,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -687,7 +687,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 182,
+          "playcount": 160,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -759,14 +759,14 @@ window.DEANDRO_LASTFM_DATA = {
       "tracks": [
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 36,
+          "playcount": 34,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 26,
+          "playcount": 25,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -851,7 +851,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 318,
+          "playcount": 311,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -915,18 +915,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Easybeats"
         },
         {
-          "name": "The Basement Tapes",
-          "playcount": 130,
-          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "The Gift",
           "playcount": 124,
           "url": "https://www.last.fm/music/The+Jam/The+Gift",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2bd4aaeec559435caf739de8c65d0be4.png",
           "artist": "The Jam"
+        },
+        {
+          "name": "The Basement Tapes",
+          "playcount": 123,
+          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
+          "artist": "Bob Dylan"
         },
         {
           "name": "Living in the Material World",
@@ -1065,7 +1065,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 788,
+          "playcount": 785,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1138,7 +1138,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 307,
+          "playcount": 304,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
