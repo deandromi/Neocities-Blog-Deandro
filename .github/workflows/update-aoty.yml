@@ -1,0 +1,49 @@
+name: Update AOTY reviews
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocities-data-updates
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      AOTY_USER: deandro
+      NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY || secrets.NEOCITIES_API_TOKEN }}
+
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+
+      - name: Build the AOTY review snapshot
+        run: python3 scripts/fetch_aoty.py
+
+      - name: Publish the fresh reviews to Neocities
+        if: ${{ env.NEOCITIES_API_KEY != '' }}
+        run: |
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
+            -F "data/aoty.js=@data/aoty.js;type=application/javascript" \
+            -F "data/aoty.json=@data/aoty.json;type=application/json" \
+            "https://neocities.org/api/upload"
+
+      - name: Save changed reviews
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/aoty.json data/aoty.js
+          if git diff --cached --quiet; then
+            echo "The AOTY archive is already current."
+            exit 0
+          fi
+          git commit -m "Update AOTY reviews"
+          git pull --rebase origin main
+          git push origin HEAD:main
