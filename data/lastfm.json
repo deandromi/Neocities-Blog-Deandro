@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-29T00:53:23.577936Z",
+  "generatedAt": "2026-10-29T09:54:51.530214Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -428,15 +428,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Scott Walker",
-          "playcount": 74,
-          "url": "https://www.last.fm/music/Scott+Walker",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Beatles",
           "playcount": 69,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Scott Walker",
+          "playcount": 64,
+          "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -506,13 +506,6 @@
           "artist": "Bert Jansch"
         },
         {
-          "name": "Scott 2",
-          "playcount": 26,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
-        },
-        {
           "name": "Scott 3",
           "playcount": 25,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
@@ -520,10 +513,10 @@
           "artist": "Scott Walker"
         },
         {
-          "name": "Scott 4",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+          "name": "Scott 2",
+          "playcount": 24,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
           "artist": "Scott Walker"
         },
         {
@@ -546,6 +539,13 @@
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "Scott 4",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+4",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png",
+          "artist": "Scott Walker"
         }
       ],
       "tracks": [
@@ -562,13 +562,6 @@
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "On Your Own Again",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "Hey Bulldog (Remastered 2009)",
@@ -592,6 +585,13 @@
           "artist": "George Harrison"
         },
         {
+          "name": "On Your Own Again",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "All Things Must Pass (2020 Mix)",
           "playcount": 4,
           "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
@@ -613,11 +613,11 @@
           "artist": "Nick Drake"
         },
         {
-          "name": "Black Sheep Boy",
+          "name": "Day Tripper (2023 Mix)",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
+          "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Scott Walker"
+          "artist": "The Beatles"
         }
       ]
     },
