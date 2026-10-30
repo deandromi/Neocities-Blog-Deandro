@@ -3,7 +3,8 @@ name: Update AOTY reviews
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 4 * * *"
+    # every six hours, at 23 minutes past
+    - cron: "23 */6 * * *"
 
 permissions:
   contents: write
