@@ -3,7 +3,8 @@ name: Update Pinterest scrapbook
 on:
   workflow_dispatch:
   schedule:
-    - cron: "43 4 * * *"
+    # every six hours, at 43 minutes past
+    - cron: "43 */6 * * *"
 
 permissions:
   contents: write
