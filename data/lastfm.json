@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-30T17:59:27.307569Z",
+  "generatedAt": "2026-10-30T22:16:00.579472Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -209,13 +209,13 @@
       "artists": [
         {
           "name": "Bob Dylan",
-          "playcount": 14,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "George Harrison",
-          "playcount": 7,
+          "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -232,12 +232,6 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Jordana, TV Girl",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Jordana,+TV+Girl",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Heavenly Bodes",
           "playcount": 2,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
@@ -250,28 +244,16 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Leonard Cohen",
+          "name": "Sufjan Stevens",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Leonard+Cohen",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Norah Jones",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Norah+Jones",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Patti Smith",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Patti+Smith",
+          "url": "https://www.last.fm/music/Sufjan+Stevens",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
         {
           "name": "The Basement Tapes",
-          "playcount": 14,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
@@ -298,13 +280,6 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Summer's Over",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Jordana,+TV+Girl/Summer%27s+Over",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c62643d83785a31c545edaf163988fb.jpg",
-          "artist": "Jordana, TV Girl"
-        },
-        {
           "name": "Green Hills",
           "playcount": 2,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
@@ -319,25 +294,11 @@
           "artist": "Amy Winehouse"
         },
         {
-          "name": "George Harrison",
+          "name": "Illinois",
           "playcount": 1,
-          "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
-          "artist": "George Harrison"
-        },
-        {
-          "name": "New Skin for the Old Ceremony",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Leonard+Cohen/New+Skin+for+the+Old+Ceremony",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/014721dbaec74cacbce1d461a81e4f78.jpg",
-          "artist": "Leonard Cohen"
-        },
-        {
-          "name": "Feels Like Home",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Norah+Jones/Feels+Like+Home",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/56f4a3d4bbac40a8a49520f21d50b036.png",
-          "artist": "Norah Jones"
+          "url": "https://www.last.fm/music/Sufjan+Stevens/Illinois",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4884fbb2a3714e42cef5a1782e10c26e.png",
+          "artist": "Sufjan Stevens"
         }
       ],
       "tracks": [
@@ -347,13 +308,6 @@
           "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Million Dollar Bash",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Million+Dollar+Bash",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
         },
         {
           "name": "You Sent Me Flying / Cherry",
@@ -401,6 +355,13 @@
           "name": "Lo And Behold!",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bob+Dylan/_/Lo+And+Behold!",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Million Dollar Bash",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Million+Dollar+Bash",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
         },
@@ -667,7 +628,7 @@
         },
         {
           "name": "The Rolling Stones",
-          "playcount": 69,
+          "playcount": 67,
           "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -678,9 +639,9 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Amy Winehouse",
+          "name": "The Smiths",
           "playcount": 45,
-          "url": "https://www.last.fm/music/Amy+Winehouse",
+          "url": "https://www.last.fm/music/The+Smiths",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -714,18 +675,18 @@
           "artist": "Scott Walker"
         },
         {
-          "name": "Between the Buttons",
-          "playcount": 58,
-          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
-          "artist": "The Rolling Stones"
-        },
-        {
           "name": "Rubber Soul (Super Deluxe)",
           "playcount": 56,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
+        },
+        {
+          "name": "Between the Buttons",
+          "playcount": 56,
+          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
+          "artist": "The Rolling Stones"
         },
         {
           "name": "Moondance",
@@ -814,18 +775,18 @@
           "artist": "The Beatles"
         },
         {
-          "name": "You Sent Me Flying / Cherry",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/Amy+Winehouse/_/You+Sent+Me+Flying+%2F+Cherry",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Amy Winehouse"
-        },
-        {
           "name": "De Groene Heuvels",
           "playcount": 15,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/De+Groene+Heuvels",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "You Sent Me Flying / Cherry",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Amy+Winehouse/_/You+Sent+Me+Flying+%2F+Cherry",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Amy Winehouse"
         }
       ]
     },
@@ -833,7 +794,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 874,
+          "playcount": 873,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -895,7 +856,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 685,
+          "playcount": 684,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -988,7 +949,7 @@
         },
         {
           "name": "Run Of The Mill (2020 Mix)",
-          "playcount": 68,
+          "playcount": 67,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1053,7 +1014,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1394,
+          "playcount": 1392,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1065,7 +1026,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 757,
+          "playcount": 756,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
