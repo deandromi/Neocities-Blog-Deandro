@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-31T16:20:02.291949Z",
+  "generatedAt": "2026-10-31T19:16:17.082001Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -631,7 +631,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 179,
+          "playcount": 173,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,7 +1053,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1392,
+          "playcount": 1378,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
