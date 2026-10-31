@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-10-31T05:36:17.565664Z",
+  "generatedAt": "2026-10-31T12:22:09.789510Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -416,15 +416,15 @@ window.DEANDRO_LASTFM_DATA = {
     "1month": {
       "artists": [
         {
-          "name": "George Harrison",
-          "playcount": 85,
-          "url": "https://www.last.fm/music/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Nick Drake",
           "playcount": 76,
           "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "George Harrison",
+          "playcount": 69,
+          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -434,21 +434,21 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Bob Dylan",
+          "playcount": 36,
+          "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Scott Walker",
-          "playcount": 48,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bert Jansch",
-          "playcount": 41,
+          "playcount": 26,
           "url": "https://www.last.fm/music/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bob Dylan",
-          "playcount": 36,
-          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -470,9 +470,9 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Pentangle",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/The+Pentangle",
+          "name": "The Beach Boys",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -499,27 +499,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
-          "artist": "Bert Jansch"
-        },
-        {
-          "name": "Scott 3",
-          "playcount": 25,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg",
-          "artist": "Scott Walker"
-        },
-        {
-          "name": "Wonderwall Music",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/George+Harrison/Wonderwall+Music",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "The Kinks Are the Village Green Preservation Society",
           "playcount": 16,
           "url": "https://www.last.fm/music/The+Kinks/The+Kinks+Are+the+Village+Green+Preservation+Society",
@@ -534,10 +513,17 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
-          "name": "Scott 2",
+          "name": "Bert Jansch",
           "playcount": 14,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
+          "artist": "Bert Jansch"
+        },
+        {
+          "name": "Scott 3",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg",
           "artist": "Scott Walker"
         },
         {
@@ -546,6 +532,20 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bert+Jansch/Santa+Barbara+Honeymoon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6f3889213d5ba84777aa4bbb0bff9708.jpg",
           "artist": "Bert Jansch"
+        },
+        {
+          "name": "New Morning",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Green Hills",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
         }
       ],
       "tracks": [
@@ -613,11 +613,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Smokey River",
+          "name": "Beware Of Darkness (2020 Mix)",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/Smokey+River",
+          "url": "https://www.last.fm/music/George+Harrison/_/Beware+Of+Darkness+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bert Jansch"
+          "artist": "George Harrison"
         }
       ]
     },
@@ -1064,15 +1064,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Talking Heads",
-          "playcount": 756,
-          "url": "https://www.last.fm/music/Talking+Heads",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Nick Drake",
           "playcount": 750,
           "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Talking Heads",
+          "playcount": 746,
+          "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
