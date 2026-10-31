@@ -3,7 +3,7 @@
 This repository is for my *Neocities* site. If you don't know what Neocities is or what you're even doing here,
 a simple google search would do wonders!
 
-I have several actions situated here that update stuff like albumoftheyear.org reviews, chess.com games, last.fm etc.
+I have several actions situated here that update stuff like albumoftheyear.org reviews, chess.com games, last.fm statistics etc. So there's not a lot to see here unfortunately, 
 
 ### My Site
 
