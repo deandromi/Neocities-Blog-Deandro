@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-31T12:22:09.789510Z",
+  "generatedAt": "2026-10-31T16:20:02.291949Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27771,
+    "playcount": 27794,
     "artistCount": 387,
     "albumCount": 1040,
-    "trackCount": 5129,
+    "trackCount": 5130,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "People Take Pictures of Each Other",
-    "artist": "The Kinks",
-    "album": "The Kinks Are the Village Green Preservation Society",
-    "url": "https://www.last.fm/music/The+Kinks/_/People+Take+Pictures+of+Each+Other",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f53795b2b0c428ea599dd9a8b337382a.jpg",
+    "name": "Planet Earth",
+    "artist": "Devo",
+    "album": "Oh No It's Devo / Freedom of Choice",
+    "url": "https://www.last.fm/music/Devo/_/Planet+Earth",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-10-31T01:27:33Z"
+    "playedAt": "2026-10-31T16:15:23Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-10-31",
         "label": "31 October",
         "shortLabel": "31 Oct",
-        "count": 40
+        "count": 63
       }
     ]
   },
@@ -217,6 +217,12 @@
           "name": "Bob Dylan",
           "playcount": 13,
           "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -238,6 +244,18 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Pink Floyd",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Pink+Floyd",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Devo",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Devo",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Grateful Dead",
           "playcount": 5,
           "url": "https://www.last.fm/music/Grateful+Dead",
@@ -247,24 +265,6 @@
           "name": "The Beatles",
           "playcount": 4,
           "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Heavenly Bodes",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Amy Winehouse",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Amy+Winehouse",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Sufjan+Stevens",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -282,6 +282,13 @@
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "Five Leaves Left",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+          "artist": "Nick Drake"
         },
         {
           "name": "Something Else By The Kinks",
@@ -312,32 +319,25 @@
           "artist": "Creedence Clearwater Revival"
         },
         {
+          "name": "The Wall",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c095ad5803f440dc49a7a98a28fa699.png",
+          "artist": "Pink Floyd"
+        },
+        {
+          "name": "Oh No It's Devo / Freedom of Choice",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
+          "artist": "Devo"
+        },
+        {
           "name": "Workingman's Dead",
           "playcount": 5,
           "url": "https://www.last.fm/music/Grateful+Dead/Workingman%27s+Dead",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a953eb3d96f639d0580611862893145d.jpg",
           "artist": "Grateful Dead"
-        },
-        {
-          "name": "Yellow Submarine (Remastered)",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Green Hills",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
-          "artist": "The Heavenly Bodes"
-        },
-        {
-          "name": "Frank",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Amy+Winehouse/Frank",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d5d8b5ea0b1b4542b4e0249e94d81387.jpg",
-          "artist": "Amy Winehouse"
         }
       ],
       "tracks": [
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "Nick Drake",
-          "playcount": 76,
+          "playcount": 86,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -499,6 +499,13 @@
           "artist": "The Beatles"
         },
         {
+          "name": "Five Leaves Left",
+          "playcount": 20,
+          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+          "artist": "Nick Drake"
+        },
+        {
           "name": "The Kinks Are the Village Green Preservation Society",
           "playcount": 16,
           "url": "https://www.last.fm/music/The+Kinks/The+Kinks+Are+the+Village+Green+Preservation+Society",
@@ -539,13 +546,6 @@
           "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
           "artist": "Bob Dylan"
-        },
-        {
-          "name": "Green Hills",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
-          "artist": "The Heavenly Bodes"
         }
       ],
       "tracks": [
@@ -631,13 +631,13 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 187,
+          "playcount": 179,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 142,
+          "playcount": 152,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 876,
+          "playcount": 875,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -850,20 +850,20 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 289,
-          "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Nick Drake",
-          "playcount": 282,
+          "playcount": 292,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Bob Dylan",
+          "playcount": 288,
+          "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "The Kinks",
-          "playcount": 258,
+          "playcount": 253,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 750,
+          "playcount": 760,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1267,7 +1267,7 @@
         },
         {
           "name": "Pink Floyd",
-          "playcount": 1594,
+          "playcount": 1601,
           "url": "https://www.last.fm/music/Pink+Floyd",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1297,7 +1297,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 879,
+          "playcount": 889,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1325,7 +1325,7 @@
         },
         {
           "name": "The Wall",
-          "playcount": 585,
+          "playcount": 592,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c095ad5803f440dc49a7a98a28fa699.png",
           "artist": "Pink Floyd"
