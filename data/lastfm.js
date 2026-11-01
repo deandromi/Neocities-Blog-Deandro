@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-01T00:06:21.524436Z",
+  "generatedAt": "2026-11-01T05:58:16.199908Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
