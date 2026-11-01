@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-01T13:18:00.304844Z",
+  "generatedAt": "2026-11-01T19:38:10.681072Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -857,7 +857,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 288,
+          "playcount": 258,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -929,13 +929,6 @@
           "artist": "The Kinks"
         },
         {
-          "name": "The Basement Tapes",
-          "playcount": 103,
-          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "Living in the Material World",
           "playcount": 96,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
@@ -961,6 +954,13 @@
           "playcount": 84,
           "url": "https://www.last.fm/music/Small+Faces/The+Autumn+Stone+(Remastered+2025)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bf44d98949d76e9740d38267a85d272c.png",
+          "artist": "Small Faces"
+        },
+        {
+          "name": "Greatest Hits - The Immediate Years 1967-1969",
+          "playcount": 82,
+          "url": "https://www.last.fm/music/Small+Faces/Greatest+Hits+-+The+Immediate+Years+1967-1969",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bddc57736cce403dc070bdf12c5a405b.jpg",
           "artist": "Small Faces"
         }
       ],
@@ -1071,7 +1071,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 724,
+          "playcount": 698,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
