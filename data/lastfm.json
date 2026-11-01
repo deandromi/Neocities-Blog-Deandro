@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-01T05:58:16.199908Z",
+  "generatedAt": "2026-11-01T13:18:00.304844Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27798,
+    "playcount": 27800,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5130,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Planet Earth",
-    "artist": "Devo",
-    "album": "Oh No It's Devo / Freedom of Choice",
-    "url": "https://www.last.fm/music/Devo/_/Planet+Earth",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
+    "name": "Black Sheep Boy",
+    "artist": "Scott Walker",
+    "album": "Scott 2",
+    "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
     "nowPlaying": false,
-    "playedAt": "2026-10-31T23:07:09Z"
+    "playedAt": "2026-11-01T09:03:04Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-11-01",
         "label": "1 November",
         "shortLabel": "1 Nov",
-        "count": 3
+        "count": 5
       }
     ]
   },
@@ -441,7 +441,7 @@
         },
         {
           "name": "Scott Walker",
-          "playcount": 28,
+          "playcount": 30,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -643,7 +643,7 @@
         },
         {
           "name": "Scott Walker",
-          "playcount": 138,
+          "playcount": 140,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -728,18 +728,18 @@
           "artist": "The Rolling Stones"
         },
         {
+          "name": "Scott 2",
+          "playcount": 54,
+          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+          "artist": "Scott Walker"
+        },
+        {
           "name": "Moondance",
           "playcount": 54,
           "url": "https://www.last.fm/music/Van+Morrison/Moondance",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg",
           "artist": "Van Morrison"
-        },
-        {
-          "name": "Scott 2",
-          "playcount": 52,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "George Harrison",
@@ -881,7 +881,7 @@
         },
         {
           "name": "Scott Walker",
-          "playcount": 138,
+          "playcount": 140,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1071,7 +1071,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 746,
+          "playcount": 724,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
