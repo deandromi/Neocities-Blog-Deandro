@@ -1,10 +1,10 @@
 {
   "status": "ready",
-  "generatedAt": "2026-10-31T19:16:17.082001Z",
+  "generatedAt": "2026-11-01T00:06:21.524436Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27794,
+    "playcount": 27798,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5130,
@@ -17,17 +17,11 @@
     "url": "https://www.last.fm/music/Devo/_/Planet+Earth",
     "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-10-31T16:15:23Z"
+    "playedAt": "2026-10-31T23:07:09Z"
   },
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-02",
-        "label": "2 October",
-        "shortLabel": "2 Oct",
-        "count": 6
-      },
       {
         "date": "2026-10-03",
         "label": "3 October",
@@ -200,7 +194,13 @@
         "date": "2026-10-31",
         "label": "31 October",
         "shortLabel": "31 Oct",
-        "count": 63
+        "count": 64
+      },
+      {
+        "date": "2026-11-01",
+        "label": "1 November",
+        "shortLabel": "1 Nov",
+        "count": 3
       }
     ]
   },
@@ -217,6 +217,12 @@
           "name": "Bob Dylan",
           "playcount": 13,
           "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Devo",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Devo",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -250,12 +256,6 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Devo",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Devo",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Grateful Dead",
           "playcount": 5,
           "url": "https://www.last.fm/music/Grateful+Dead",
@@ -282,6 +282,13 @@
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "Oh No It's Devo / Freedom of Choice",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
+          "artist": "Devo"
         },
         {
           "name": "Five Leaves Left",
@@ -326,13 +333,6 @@
           "artist": "Pink Floyd"
         },
         {
-          "name": "Oh No It's Devo / Freedom of Choice",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
-          "artist": "Devo"
-        },
-        {
           "name": "Workingman's Dead",
           "playcount": 5,
           "url": "https://www.last.fm/music/Grateful+Dead/Workingman%27s+Dead",
@@ -341,6 +341,13 @@
         }
       ],
       "tracks": [
+        {
+          "name": "Planet Earth",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Devo/_/Planet+Earth",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Devo"
+        },
         {
           "name": "My Sweet Lord (2020 Mix)",
           "playcount": 4,
@@ -403,13 +410,6 @@
           "url": "https://www.last.fm/music/Bob+Dylan/_/Clothes+Line+Saga",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
-        },
-        {
-          "name": "Goin' to Acapulco",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Goin%27+to+Acapulco",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
         }
       ]
     },
@@ -470,9 +470,9 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beach Boys",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/The+Beach+Boys",
+          "name": "Devo",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Devo",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -578,6 +578,13 @@
           "artist": "George Harrison"
         },
         {
+          "name": "Planet Earth",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Devo/_/Planet+Earth",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Devo"
+        },
+        {
           "name": "Let It Down (2020 Mix)",
           "playcount": 5,
           "url": "https://www.last.fm/music/George+Harrison/_/Let+It+Down+(2020+Mix)",
@@ -611,13 +618,6 @@
           "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Beware Of Darkness (2020 Mix)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/George+Harrison/_/Beware+Of+Darkness+(2020+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
         }
       ]
     },
