@@ -23,6 +23,8 @@ jobs:
     steps:
       - name: Check out the site
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Build the Pinterest snapshot
         run: python3 scripts/fetch_pinterest.py
