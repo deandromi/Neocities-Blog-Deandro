@@ -1,9 +1,21 @@
 window.DEANDRO_PINTEREST_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-02T06:52:06.945019Z",
+  "generatedAt": "2026-11-02T14:23:32.600689Z",
   "username": "Deandro2011",
   "profileUrl": "https://www.pinterest.com/Deandro2011/",
   "pins": [
+    {
+      "id": "1018306165767277767",
+      "url": "https://www.pinterest.com/pin/1018306165767277767/",
+      "image": "https://i.pinimg.com/474x/d1/90/0b/d1900b251f1c9b734a6be218650f9d9d.jpg",
+      "date": "2026-11-02T14:09:52Z"
+    },
+    {
+      "id": "1018306165767277764",
+      "url": "https://www.pinterest.com/pin/1018306165767277764/",
+      "image": "https://i.pinimg.com/474x/4e/5c/bb/4e5cbb446ec9bfed356b833a9aea043d.jpg",
+      "date": "2026-11-02T14:09:41Z"
+    },
     {
       "id": "1018306165767261439",
       "url": "https://www.pinterest.com/pin/1018306165767261439/",
