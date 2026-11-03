@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-03T06:44:10.957800Z",
+  "generatedAt": "2026-11-03T17:00:28.822832Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -214,12 +214,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Devo",
           "playcount": 10,
           "url": "https://www.last.fm/music/Devo",
@@ -260,12 +254,6 @@ window.DEANDRO_LASTFM_DATA = {
           "playcount": 2,
           "url": "https://www.last.fm/music/Scott+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Beatles",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
@@ -275,13 +263,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Kinks/The+Kinks+Are+the+Village+Green+Preservation+Society",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f53795b2b0c428ea599dd9a8b337382a.jpg",
           "artist": "The Kinks"
-        },
-        {
-          "name": "The Basement Tapes",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
-          "artist": "Bob Dylan"
         },
         {
           "name": "Oh No It's Devo / Freedom of Choice",
@@ -377,39 +358,39 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Fleetwood Mac"
         },
         {
-          "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "name": "Bad Moon Rising",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Bad+Moon+Rising",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
+          "artist": "Creedence Clearwater Revival"
         },
         {
-          "name": "Apple Suckling Tree",
+          "name": "Commotion",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Apple+Suckling+Tree",
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Commotion",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Creedence Clearwater Revival"
         },
         {
-          "name": "Bessie Smith",
+          "name": "Cross-Tie Walker",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Bessie+Smith",
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Cross-Tie+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Creedence Clearwater Revival"
         },
         {
-          "name": "Clothes Line Saga",
+          "name": "Green River",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Clothes+Line+Saga",
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Green+River",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Creedence Clearwater Revival"
         },
         {
-          "name": "Goin' to Acapulco",
+          "name": "Lodi",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Goin%27+to+Acapulco",
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Lodi",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Creedence Clearwater Revival"
         }
       ]
     },
@@ -434,27 +415,21 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Kinks",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/The+Kinks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Bob Dylan",
-          "playcount": 36,
+          "playcount": 24,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Scott Walker",
-          "playcount": 30,
+          "playcount": 22,
           "url": "https://www.last.fm/music/Scott+Walker",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bert Jansch",
-          "playcount": 26,
-          "url": "https://www.last.fm/music/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Kinks",
-          "playcount": 26,
-          "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -473,6 +448,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Devo",
           "playcount": 10,
           "url": "https://www.last.fm/music/Devo",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Beach Boys",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -520,13 +501,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
-          "artist": "Bert Jansch"
-        },
-        {
           "name": "Scott 3",
           "playcount": 13,
           "url": "https://www.last.fm/music/Scott+Walker/Scott+3",
@@ -534,18 +508,25 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Scott Walker"
         },
         {
-          "name": "Santa Barbara Honeymoon",
+          "name": "Green Hills",
           "playcount": 12,
-          "url": "https://www.last.fm/music/Bert+Jansch/Santa+Barbara+Honeymoon",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6f3889213d5ba84777aa4bbb0bff9708.jpg",
-          "artist": "Bert Jansch"
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
         },
         {
-          "name": "New Morning",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
-          "artist": "Bob Dylan"
+          "name": "Oh No It's Devo / Freedom of Choice",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
+          "artist": "Devo"
+        },
+        {
+          "name": "Something Else By The Kinks",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
+          "artist": "The Kinks"
         }
       ],
       "tracks": [
@@ -845,7 +826,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beach Boys",
-          "playcount": 319,
+          "playcount": 318,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -902,7 +883,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Sunflower",
-          "playcount": 208,
+          "playcount": 207,
           "url": "https://www.last.fm/music/The+Beach+Boys/Sunflower",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png",
           "artist": "The Beach Boys"
@@ -1053,13 +1034,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1370,
+          "playcount": 1368,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1337,
+          "playcount": 1336,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
