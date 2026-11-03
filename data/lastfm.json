@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-02T21:41:30.025905Z",
+  "generatedAt": "2026-11-03T06:44:10.957800Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-04",
-        "label": "4 October",
-        "shortLabel": "4 Oct",
-        "count": 45
-      },
       {
         "date": "2026-10-05",
         "label": "5 October",
@@ -201,6 +195,12 @@
         "label": "2 November",
         "shortLabel": "2 Nov",
         "count": 0
+      },
+      {
+        "date": "2026-11-03",
+        "label": "3 November",
+        "shortLabel": "3 Nov",
+        "count": 0
       }
     ]
   },
@@ -322,7 +322,7 @@
           "name": "The Wall",
           "playcount": 7,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c095ad5803f440dc49a7a98a28fa699.png",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e996384ffa76e555dca7c352c7631633.jpg",
           "artist": "Pink Floyd"
         },
         {
@@ -1327,7 +1327,7 @@
           "name": "The Wall",
           "playcount": 592,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c095ad5803f440dc49a7a98a28fa699.png",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e996384ffa76e555dca7c352c7631633.jpg",
           "artist": "Pink Floyd"
         },
         {
