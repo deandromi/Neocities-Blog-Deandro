@@ -1,9 +1,27 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-04T06:59:09.051607Z",
+  "generatedAt": "2026-11-04T20:02:50.179791Z",
   "username": "Deandro2011",
   "profileUrl": "https://www.pinterest.com/Deandro2011/",
   "pins": [
+    {
+      "id": "1018306165767340146",
+      "url": "https://www.pinterest.com/pin/1018306165767340146/",
+      "image": "https://i.pinimg.com/474x/c7/ea/3f/c7ea3feefedd48a640c1166c0ad2f211.jpg",
+      "date": "2026-11-04T16:00:15Z"
+    },
+    {
+      "id": "1018306165767339145",
+      "url": "https://www.pinterest.com/pin/1018306165767339145/",
+      "image": "https://i.pinimg.com/474x/d6/e2/af/d6e2af2d890b50c1c3489bcf268fcd0e.jpg",
+      "date": "2026-11-04T15:08:48Z"
+    },
+    {
+      "id": "1018306165767339091",
+      "url": "https://www.pinterest.com/pin/1018306165767339091/",
+      "image": "https://i.pinimg.com/474x/bd/74/cf/bd74cffd14167d981e45006d8f43321c.jpg",
+      "date": "2026-11-04T15:07:21Z"
+    },
     {
       "id": "1018306165767277767",
       "url": "https://www.pinterest.com/pin/1018306165767277767/",
