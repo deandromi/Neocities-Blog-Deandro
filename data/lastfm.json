@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-05T06:41:19.755456Z",
+  "generatedAt": "2026-11-05T17:22:30.396770Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27807,
+    "playcount": 27812,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5130,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "The Ballad of John and Yoko",
-    "artist": "The Beatles",
-    "album": "1967-1970",
-    "url": "https://www.last.fm/music/The+Beatles/_/The+Ballad+of+John+and+Yoko",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7209d4ae50f35ebdd21d2c74a850f126.png",
+    "name": "Single Handed Sailor",
+    "artist": "Dire Straits",
+    "album": "Communiqué",
+    "url": "https://www.last.fm/music/Dire+Straits/_/Single+Handed+Sailor",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/23a8221058d3488eb685ea66de8ee104.png",
     "nowPlaying": false,
-    "playedAt": "2026-11-04T22:18:15Z"
+    "playedAt": "2026-11-05T10:48:02Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-11-05",
         "label": "5 November",
         "shortLabel": "5 Nov",
-        "count": 0
+        "count": 5
       }
     ]
   },
@@ -247,6 +247,12 @@
           "name": "The Beatles",
           "playcount": 7,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Dire Straits",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -313,6 +319,13 @@
           "artist": "Pink Floyd"
         },
         {
+          "name": "Communiqué",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Dire+Straits/Communiqu%C3%A9",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/23a8221058d3488eb685ea66de8ee104.png",
+          "artist": "Dire Straits"
+        },
+        {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 3,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
@@ -324,13 +337,6 @@
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Beatles/1967-1970",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7209d4ae50f35ebdd21d2c74a850f126.png",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Yellow Submarine (Remastered)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
           "artist": "The Beatles"
         }
       ],
@@ -827,13 +833,13 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 850,
+          "playcount": 831,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 428,
+          "playcount": 427,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -889,7 +895,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 663,
+          "playcount": 644,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -961,7 +967,7 @@
       "tracks": [
         {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 91,
+          "playcount": 90,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -975,14 +981,14 @@
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 79,
+          "playcount": 78,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
         },
         {
           "name": "Run Of The Mill (2020 Mix)",
-          "playcount": 59,
+          "playcount": 58,
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1010,7 +1016,7 @@
         },
         {
           "name": "All Things Must Pass (2020 Mix)",
-          "playcount": 35,
+          "playcount": 34,
           "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -1047,7 +1053,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1375,
+          "playcount": 1372,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1065,13 +1071,13 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 639,
+          "playcount": 634,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Dire Straits",
-          "playcount": 586,
+          "playcount": 591,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1146,7 +1152,7 @@
         },
         {
           "name": "Remain in Light",
-          "playcount": 278,
+          "playcount": 273,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -1285,7 +1291,7 @@
         },
         {
           "name": "Dire Straits",
-          "playcount": 985,
+          "playcount": 990,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
