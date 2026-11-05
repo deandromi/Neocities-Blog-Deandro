@@ -1,33 +1,27 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-04T21:18:14.442397Z",
+  "generatedAt": "2026-11-05T06:41:19.755456Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27800,
+    "playcount": 27807,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5130,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Black Sheep Boy",
-    "artist": "Scott Walker",
-    "album": "Scott 2",
-    "url": "https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
+    "name": "The Ballad of John and Yoko",
+    "artist": "The Beatles",
+    "album": "1967-1970",
+    "url": "https://www.last.fm/music/The+Beatles/_/The+Ballad+of+John+and+Yoko",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7209d4ae50f35ebdd21d2c74a850f126.png",
     "nowPlaying": false,
-    "playedAt": "2026-11-01T09:03:04Z"
+    "playedAt": "2026-11-04T22:18:15Z"
   },
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-06",
-        "label": "6 October",
-        "shortLabel": "6 Oct",
-        "count": 16
-      },
       {
         "date": "2026-10-07",
         "label": "7 October",
@@ -200,6 +194,12 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-04",
         "label": "4 November",
         "shortLabel": "4 Nov",
+        "count": 7
+      },
+      {
+        "date": "2026-11-05",
+        "label": "5 November",
+        "shortLabel": "5 Nov",
         "count": 0
       }
     ]
@@ -241,6 +241,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Pink Floyd",
           "playcount": 7,
           "url": "https://www.last.fm/music/Pink+Floyd",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Beatles",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -314,11 +320,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Scott 2",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
+          "name": "1967-1970",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Beatles/1967-1970",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7209d4ae50f35ebdd21d2c74a850f126.png",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "Yellow Submarine (Remastered)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
+          "artist": "The Beatles"
         }
       ],
       "tracks": [
@@ -335,6 +348,20 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "The Ballad of John and Yoko",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Beatles/_/The+Ballad+of+John+and+Yoko",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
         },
         {
           "name": "Starstruck",
@@ -377,20 +404,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Cross-Tie+Walker",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Creedence Clearwater Revival"
-        },
-        {
-          "name": "Green River",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Green+River",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Creedence Clearwater Revival"
-        },
-        {
-          "name": "Lodi",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Lodi",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Creedence Clearwater Revival"
         }
       ]
     },
@@ -404,7 +417,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 58,
+          "playcount": 65,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -467,7 +480,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 46,
+          "playcount": 47,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
@@ -522,11 +535,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Devo"
         },
         {
-          "name": "Something Else By The Kinks",
+          "name": "Yellow Submarine (Remastered)",
           "playcount": 10,
-          "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
-          "artist": "The Kinks"
+          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
+          "artist": "The Beatles"
         }
       ],
       "tracks": [
@@ -539,7 +552,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 7,
+          "playcount": 10,
           "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -573,6 +586,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Nick Drake"
         },
         {
+          "name": "Day Tripper (2023 Mix)",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Let It Down (2020 Mix)",
           "playcount": 3,
           "url": "https://www.last.fm/music/George+Harrison/_/Let+It+Down+(2020+Mix)",
@@ -592,13 +612,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beach Boys"
-        },
-        {
-          "name": "Day Tripper (2023 Mix)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
         }
       ]
     },
@@ -612,7 +625,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 172,
+          "playcount": 178,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -648,7 +661,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Rolling Stones",
-          "playcount": 63,
+          "playcount": 62,
           "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -696,7 +709,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 56,
+          "playcount": 57,
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
@@ -767,6 +780,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Long, Long, Long (2018 Mix)",
           "playcount": 18,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
@@ -786,13 +806,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/_/Run+Of+The+Mill+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
         },
         {
           "name": "De Groene Heuvels",
@@ -820,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 421,
+          "playcount": 428,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1034,7 +1047,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1368,
+          "playcount": 1375,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1236,7 +1249,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 2596,
+          "playcount": 2603,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
