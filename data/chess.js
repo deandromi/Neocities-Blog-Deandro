@@ -1,14 +1,14 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-05T06:27:15.354253Z",
+  "generatedAt": "2026-11-05T19:50:35.437338Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
     "rapid": {
       "current": 721,
       "best": 951,
-      "wins": 77,
-      "losses": 72,
+      "wins": 78,
+      "losses": 73,
       "draws": 5
     },
     "blitz": {
@@ -34,6 +34,40 @@ window.DEANDRO_CHESS_DATA = {
     }
   },
   "recentGames": [
+    {
+      "id": "186578216102",
+      "url": "https://www.chess.com/game/live/186578216102",
+      "date": "2026-11-05T10:30:35Z",
+      "player": "Deandro_M",
+      "opponent": "liri5",
+      "color": "black",
+      "rating": 721,
+      "opponentRating": 749,
+      "result": "loss",
+      "termination": "resigned",
+      "timeClass": "rapid",
+      "timeControl": "600",
+      "opening": "Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3",
+      "accuracy": null,
+      "fen": "r2k2nr/pb3pbp/6p1/n1pN4/8/4BN2/PPP2PPP/R2QK2R w KQ - 0 14"
+    },
+    {
+      "id": "186577570074",
+      "url": "https://www.chess.com/game/live/186577570074",
+      "date": "2026-11-05T10:18:59Z",
+      "player": "Deandro_M",
+      "opponent": "Roma1260",
+      "color": "white",
+      "rating": 732,
+      "opponentRating": 702,
+      "result": "win",
+      "termination": "checkmated",
+      "timeClass": "rapid",
+      "timeControl": "600",
+      "opening": "Queens Pawn Opening Horwitz Defense",
+      "accuracy": 73.4,
+      "fen": "3r1r1k/pR5Q/3p2p1/3p1n2/3P2q1/B1P1PN2/P2N1PPP/1R4K1 b - - 2 26"
+    },
     {
       "id": "185750826286",
       "url": "https://www.chess.com/game/live/185750826286",
@@ -67,40 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Kings Fianchetto Opening Indian Defense 2.Bg2 c5",
       "accuracy": 72.0,
       "fen": "8/8/p6p/7k/P7/2P1PQ2/5PK1/3r4 b - - 8 45"
-    },
-    {
-      "id": "1036992066",
-      "url": "https://www.chess.com/game/daily/1036992066",
-      "date": "2026-10-15T19:41:09Z",
-      "player": "Deandro_M",
-      "opponent": "Cardiff",
-      "color": "white",
-      "rating": 846,
-      "opponentRating": 924,
-      "result": "loss",
-      "termination": "resigned",
-      "timeClass": "daily",
-      "timeControl": "1/259200",
-      "opening": "Indian Game Black Knights Tango 3.Nf3 d6 4.Nc3",
-      "accuracy": 42.2,
-      "fen": "1r4k1/2r2pbp/3pp1p1/3P4/1KR1PP1P/7B/5P2/2R5 w - - 1 34"
-    },
-    {
-      "id": "184919284914",
-      "url": "https://www.chess.com/game/live/184919284914",
-      "date": "2026-10-06T18:55:53Z",
-      "player": "Deandro_M",
-      "opponent": "khubly6",
-      "color": "white",
-      "rating": 731,
-      "opponentRating": 774,
-      "result": "loss",
-      "termination": "checkmated",
-      "timeClass": "rapid",
-      "timeControl": "900+10",
-      "opening": "Queens Pawn Opening 1...d5 2.e3 Nf6 3.c4",
-      "accuracy": 66.3,
-      "fen": "6k1/2p2ppp/p7/8/1np1N3/4P1Pb/PP3P1P/R1Br2K1 w - - 2 18"
     }
   ],
   "featuredGames": [
