@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-07T05:54:47.732383Z",
+  "generatedAt": "2026-11-07T12:56:26.684437Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -643,7 +643,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Rolling Stones",
-          "playcount": 60,
+          "playcount": 57,
           "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -711,18 +711,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Van Morrison"
         },
         {
-          "name": "Between the Buttons",
-          "playcount": 53,
-          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
-          "artist": "The Rolling Stones"
-        },
-        {
           "name": "George Harrison",
           "playcount": 50,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Between the Buttons",
+          "playcount": 50,
+          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
+          "artist": "The Rolling Stones"
         },
         {
           "name": "Louder Than Bombs",
@@ -1029,7 +1029,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1353,
+          "playcount": 1351,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,7 +1053,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 595,
+          "playcount": 592,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
