@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-07T12:56:26.684437Z",
+  "generatedAt": "2026-11-07T19:24:38.546670Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -208,33 +208,27 @@
     "7day": {
       "artists": [
         {
-          "name": "Nick Drake",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Devo",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Devo",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Dire Straits",
           "playcount": 9,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Pink Floyd",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Pink+Floyd",
+          "name": "Nick Drake",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
           "playcount": 7,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Devo",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Devo",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -245,20 +239,6 @@
         }
       ],
       "albums": [
-        {
-          "name": "Oh No It's Devo / Freedom of Choice",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
-          "artist": "Devo"
-        },
-        {
-          "name": "Five Leaves Left",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
-          "artist": "Nick Drake"
-        },
         {
           "name": "Communiqué",
           "playcount": 8,
@@ -274,11 +254,11 @@
           "artist": "Nick Drake"
         },
         {
-          "name": "The Wall",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e996384ffa76e555dca7c352c7631633.jpg",
-          "artist": "Pink Floyd"
+          "name": "Oh No It's Devo / Freedom of Choice",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
+          "artist": "Devo"
         },
         {
           "name": "1967-1970",
@@ -319,7 +299,7 @@
       "tracks": [
         {
           "name": "Planet Earth",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Devo/_/Planet+Earth",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Devo"
@@ -353,39 +333,39 @@
           "artist": "Dire Straits"
         },
         {
-          "name": "Freedom of Choice",
+          "name": "Angel of Mercy",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Devo/_/Freedom+of+Choice",
+          "url": "https://www.last.fm/music/Dire+Straits/_/Angel+of+Mercy",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
+          "artist": "Dire Straits"
         },
         {
-          "name": "Peek-A-Boo",
+          "name": "Communiqué",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Devo/_/Peek-A-Boo",
+          "url": "https://www.last.fm/music/Dire+Straits/_/Communiqu%C3%A9",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
+          "artist": "Dire Straits"
         },
         {
-          "name": "That's Good",
+          "name": "Follow Me Home",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Devo/_/That%27s+Good",
+          "url": "https://www.last.fm/music/Dire+Straits/_/Follow+Me+Home",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
+          "artist": "Dire Straits"
         },
         {
-          "name": "Time Out For Fun",
+          "name": "Lady Writer",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Devo/_/Time+Out+For+Fun",
+          "url": "https://www.last.fm/music/Dire+Straits/_/Lady+Writer",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
+          "artist": "Dire Straits"
         },
         {
-          "name": "Whip It",
+          "name": "Portobello Belle (Live / Alternate Version / Remastered 2022)",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Devo/_/Whip+It",
+          "url": "https://www.last.fm/music/Dire+Straits/_/Portobello+Belle+(Live+%2F+Alternate+Version+%2F+Remastered+2022)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
+          "artist": "Dire Straits"
         }
       ]
     },
@@ -434,12 +414,6 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Heavenly Bodes",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Devo",
           "playcount": 10,
           "url": "https://www.last.fm/music/Devo",
@@ -449,6 +423,12 @@
           "name": "Dire Straits",
           "playcount": 9,
           "url": "https://www.last.fm/music/Dire+Straits",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -503,13 +483,6 @@
           "artist": "Scott Walker"
         },
         {
-          "name": "Green Hills",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
-          "artist": "The Heavenly Bodes"
-        },
-        {
           "name": "Oh No It's Devo / Freedom of Choice",
           "playcount": 10,
           "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
@@ -522,6 +495,13 @@
           "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
           "artist": "The Beatles"
+        },
+        {
+          "name": "Something Else By The Kinks",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
+          "artist": "The Kinks"
         }
       ],
       "tracks": [
@@ -575,25 +555,25 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Acting",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
-        },
-        {
-          "name": "National Express",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/National+Express",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
-        },
-        {
           "name": "Starstruck",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Kinks/_/Starstruck",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Kinks"
+        },
+        {
+          "name": "Village Green",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Kinks/_/Village+Green",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Kinks"
+        },
+        {
+          "name": "Rough Song",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Beach+House/_/Rough+Song",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Beach House"
         }
       ]
     },
@@ -637,26 +617,26 @@
         },
         {
           "name": "Van Morrison",
-          "playcount": 89,
+          "playcount": 81,
           "url": "https://www.last.fm/music/Van+Morrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Rolling Stones",
-          "playcount": 57,
-          "url": "https://www.last.fm/music/The+Rolling+Stones",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Fleetwood Mac",
           "playcount": 54,
-          "url": "https://www.last.fm/music/Fleetwood+Mac",
+          "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Smiths",
           "playcount": 45,
           "url": "https://www.last.fm/music/The+Smiths",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bert Jansch",
+          "playcount": 41,
+          "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -719,7 +699,7 @@
         },
         {
           "name": "Between the Buttons",
-          "playcount": 50,
+          "playcount": 47,
           "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
           "artist": "The Rolling Stones"
@@ -1029,7 +1009,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1351,
+          "playcount": 1342,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
