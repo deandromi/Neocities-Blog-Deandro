@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-07T19:24:38.546670Z",
+  "generatedAt": "2026-11-08T00:32:48.937462Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-09",
-        "label": "9 October",
-        "shortLabel": "9 Oct",
-        "count": 0
-      },
       {
         "date": "2026-10-10",
         "label": "10 October",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "7 November",
         "shortLabel": "7 Nov",
         "count": 0
+      },
+      {
+        "date": "2026-11-08",
+        "label": "8 November",
+        "shortLabel": "8 Nov",
+        "count": 0
       }
     ]
   },
@@ -226,12 +226,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Devo",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Devo",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Scott Walker",
           "playcount": 2,
           "url": "https://www.last.fm/music/Scott+Walker",
@@ -252,13 +246,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
-        },
-        {
-          "name": "Oh No It's Devo / Freedom of Choice",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
-          "artist": "Devo"
         },
         {
           "name": "1967-1970",
@@ -297,13 +284,6 @@ window.DEANDRO_LASTFM_DATA = {
         }
       ],
       "tracks": [
-        {
-          "name": "Planet Earth",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Devo/_/Planet+Earth",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
-        },
         {
           "name": "Hey Bulldog (Remastered 2009)",
           "playcount": 3,
@@ -366,6 +346,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Dire+Straits/_/Portobello+Belle+(Live+%2F+Alternate+Version+%2F+Remastered+2022)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Dire Straits"
+        },
+        {
+          "name": "Free Ride",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Nick+Drake/_/Free+Ride",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Nick Drake"
         }
       ]
     },
@@ -622,15 +609,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Rolling Stones",
-          "playcount": 54,
-          "url": "https://www.last.fm/music/The+Rolling+Stones",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Smiths",
           "playcount": 45,
           "url": "https://www.last.fm/music/The+Smiths",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Rolling Stones",
+          "playcount": 42,
+          "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -698,18 +685,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Between the Buttons",
-          "playcount": 47,
-          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
-          "artist": "The Rolling Stones"
-        },
-        {
           "name": "Louder Than Bombs",
           "playcount": 44,
           "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
           "artist": "The Smiths"
+        },
+        {
+          "name": "Five Leaves Left",
+          "playcount": 39,
+          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+          "artist": "Nick Drake"
         }
       ],
       "tracks": [
@@ -813,7 +800,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Kinks",
-          "playcount": 251,
+          "playcount": 247,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1009,7 +996,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1342,
+          "playcount": 1337,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1027,7 +1014,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 613,
+          "playcount": 611,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
