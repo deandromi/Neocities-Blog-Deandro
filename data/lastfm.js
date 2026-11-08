@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-08T17:54:42.532023Z",
+  "generatedAt": "2026-11-08T22:00:18.829353Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27824,
+    "playcount": 27830,
     "artistCount": 387,
     "albumCount": 1040,
     "trackCount": 5130,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "From the Morning",
-    "artist": "Nick Drake",
-    "album": "Pink Moon",
-    "url": "https://www.last.fm/music/Nick+Drake/_/From+the+Morning",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
+    "name": "Let's Spend the Night Together",
+    "artist": "The Rolling Stones",
+    "album": "Between the Buttons",
+    "url": "https://www.last.fm/music/The+Rolling+Stones/_/Let%27s+Spend+the+Night+Together",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-11-06T13:38:22Z"
+    "playedAt": "2026-11-08T21:33:46Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-08",
         "label": "8 November",
         "shortLabel": "8 Nov",
-        "count": 0
+        "count": 6
       }
     ]
   },
@@ -214,15 +214,27 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Beatles",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Nick Drake",
           "playcount": 8,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Beatles",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/The+Beatles",
+          "name": "The Heavenly Bodes",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Rolling Stones",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/The+Rolling+Stones",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -242,6 +254,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Nick Drake"
         },
         {
+          "name": "Yellow Submarine (Remastered)",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
+          "artist": "The Beatles"
+        },
+        {
           "name": "1967-1970",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Beatles/1967-1970",
@@ -249,11 +268,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Yellow Submarine (Remastered)",
+          "name": "Green Hills",
           "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
-          "artist": "The Beatles"
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
         },
         {
           "name": "Money For Nothing (Remastered 2022)",
@@ -268,12 +287,19 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
           "artist": "The Beatles"
+        },
+        {
+          "name": "Between the Buttons",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
+          "artist": "The Rolling Stones"
         }
       ],
       "tracks": [
         {
           "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 3,
+          "playcount": 5,
           "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -347,7 +373,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "The Beatles",
-          "playcount": 65,
+          "playcount": 67,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -394,15 +420,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Dire Straits",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Dire+Straits",
+          "name": "The Heavenly Bodes",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Creedence Clearwater Revival",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
+          "name": "Dire Straits",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -457,6 +483,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Scott Walker"
         },
         {
+          "name": "Yellow Submarine (Remastered)",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Oh No It's Devo / Freedom of Choice",
           "playcount": 10,
           "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
@@ -464,24 +497,17 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Devo"
         },
         {
-          "name": "Yellow Submarine (Remastered)",
+          "name": "Green Hills",
           "playcount": 10,
-          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "Something Else By The Kinks",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
-          "artist": "The Kinks"
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
         }
       ],
       "tracks": [
         {
           "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 10,
+          "playcount": 12,
           "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -529,6 +555,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
+          "name": "Acting",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
+        },
+        {
           "name": "Starstruck",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Kinks/_/Starstruck",
@@ -541,13 +574,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Kinks/_/Village+Green",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Kinks"
-        },
-        {
-          "name": "Rough Song",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Beach+House/_/Rough+Song",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Beach House"
         }
       ]
     },
@@ -561,7 +587,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 168,
+          "playcount": 170,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -585,7 +611,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Heavenly Bodes",
-          "playcount": 95,
+          "playcount": 98,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -624,7 +650,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Green Hills",
-          "playcount": 91,
+          "playcount": 94,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
@@ -695,18 +721,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "Acting",
+          "playcount": 25,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Heavenly Bodes"
+        },
+        {
           "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
           "playcount": 24,
           "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Acting",
-          "playcount": 24,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
         },
         {
           "name": "National Express",
@@ -717,7 +743,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 19,
+          "playcount": 21,
           "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -769,7 +795,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 426,
+          "playcount": 428,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -860,7 +886,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Green Hills",
-          "playcount": 96,
+          "playcount": 99,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
           "artist": "The Heavenly Bodes"
@@ -989,7 +1015,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1325,
+          "playcount": 1324,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1007,7 +1033,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 587,
+          "playcount": 579,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1082,7 +1108,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 255,
+          "playcount": 254,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -1185,7 +1211,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 2603,
+          "playcount": 2605,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
