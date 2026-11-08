@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-08T00:32:48.937462Z",
+  "generatedAt": "2026-11-08T10:15:42.626266Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -224,12 +224,6 @@
           "playcount": 7,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Scott Walker",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Scott+Walker",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
@@ -260,13 +254,6 @@
           "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Scott 2",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Scott+Walker/Scott+2",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png",
-          "artist": "Scott Walker"
         },
         {
           "name": "Money For Nothing (Remastered 2022)",
@@ -615,15 +602,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Rolling Stones",
-          "playcount": 42,
-          "url": "https://www.last.fm/music/The+Rolling+Stones",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Bert Jansch",
           "playcount": 41,
           "url": "https://www.last.fm/music/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Leonard Cohen",
+          "playcount": 38,
+          "url": "https://www.last.fm/music/Leonard+Cohen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -794,7 +781,7 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 292,
+          "playcount": 286,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
