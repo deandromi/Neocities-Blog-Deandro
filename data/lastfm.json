@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-09T06:20:40.500289Z",
+  "generatedAt": "2026-11-09T19:46:15.820553Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27830,
-    "artistCount": 387,
-    "albumCount": 1040,
-    "trackCount": 5130,
+    "playcount": 27860,
+    "artistCount": 390,
+    "albumCount": 1047,
+    "trackCount": 5160,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Let's Spend the Night Together",
-    "artist": "The Rolling Stones",
-    "album": "Between the Buttons",
-    "url": "https://www.last.fm/music/The+Rolling+Stones/_/Let%27s+Spend+the+Night+Together",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
+    "name": "Planet Earth (2009 Remaster)",
+    "artist": "Devo",
+    "album": "Freedom of Choice (2009 Remaster) [Deluxe Edition]",
+    "url": "https://www.last.fm/music/Devo/_/Planet+Earth+(2009+Remaster)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ea567d325c2cc0e04cb027ef3193a35.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-11-08T21:33:46Z"
+    "playedAt": "2026-11-09T12:56:16Z"
   },
   "activity": {
     "days": 30,
@@ -200,13 +200,25 @@
         "date": "2026-11-09",
         "label": "9 November",
         "shortLabel": "9 Nov",
-        "count": 0
+        "count": 30
       }
     ]
   },
   "charts": {
     "7day": {
       "artists": [
+        {
+          "name": "Devo",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Devo",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Jalen+Ngonda",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
         {
           "name": "Dire Straits",
           "playcount": 9,
@@ -226,19 +238,51 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Bert Jansch",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "The Heavenly Bodes",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Rolling Stones",
+          "name": "Steven Wilson",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Steven+Wilson",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Dominic Fike",
           "playcount": 1,
-          "url": "https://www.last.fm/music/The+Rolling+Stones",
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Michael Kiwanuka",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Michael+Kiwanuka",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
+        {
+          "name": "Freedom of Choice (2009 Remaster) [Deluxe Edition]",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Devo/Freedom+of+Choice+(2009+Remaster)+%5BDeluxe+Edition%5D",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ea567d325c2cc0e04cb027ef3193a35.jpg",
+          "artist": "Devo"
+        },
+        {
+          "name": "Doctrine of Love",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Jalen+Ngonda/Doctrine+of+Love",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/97eaf7cb0a8e76e45ebfeefd163bed03.png",
+          "artist": "Jalen Ngonda"
+        },
         {
           "name": "Communiqué",
           "playcount": 8,
@@ -275,25 +319,25 @@
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Money For Nothing (Remastered 2022)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Dire+Straits/Money+For+Nothing+(Remastered+2022)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/69db1d79345cdd9b33ce4add977dabb7.jpg",
-          "artist": "Dire Straits"
+          "name": "Birthday Blues",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bert+Jansch/Birthday+Blues",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87ee120eeb5fe0c7736b6c6ca6e509a0.jpg",
+          "artist": "Bert Jansch"
         },
         {
-          "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
-          "artist": "The Beatles"
+          "name": "Requiem for a Village",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Steven+Wilson/Requiem+for+a+Village",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/41233011d961f23704e435684c20f4d6.jpg",
+          "artist": "Steven Wilson"
         },
         {
-          "name": "Between the Buttons",
+          "name": "Jack Orion",
           "playcount": 1,
-          "url": "https://www.last.fm/music/The+Rolling+Stones/Between+the+Buttons",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1acc4166d21b3605704c873d103809d4.jpg",
-          "artist": "The Rolling Stones"
+          "url": "https://www.last.fm/music/Bert+Jansch/Jack+Orion",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6c5a381e65074ec8ce8a2dd458c0e62c.png",
+          "artist": "Bert Jansch"
         }
       ],
       "tracks": [
@@ -326,46 +370,46 @@
           "artist": "Dire Straits"
         },
         {
-          "name": "Angel of Mercy",
+          "name": "Come Sing Me A Happy Song To Prove We Can All Get Along The Lumpy Bumpy Long And Dusty Road",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Dire+Straits/_/Angel+of+Mercy",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Come+Sing+Me+A+Happy+Song+To+Prove+We+Can+All+Get+Along+The+Lumpy+Bumpy+Long+And+Dusty+Road",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Dire Straits"
+          "artist": "Bert Jansch"
         },
         {
-          "name": "Communiqué",
+          "name": "The Bright New Year",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Dire+Straits/_/Communiqu%C3%A9",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/The+Bright+New+Year",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Dire Straits"
+          "artist": "Bert Jansch"
         },
         {
-          "name": "Follow Me Home",
+          "name": "The Waggoner's Lad",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Dire+Straits/_/Follow+Me+Home",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/The+Waggoner%27s+Lad",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Dire Straits"
+          "artist": "Bert Jansch"
         },
         {
-          "name": "Lady Writer",
+          "name": "Cold War (2009 Remaster)",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Dire+Straits/_/Lady+Writer",
+          "url": "https://www.last.fm/music/Devo/_/Cold+War+(2009+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Dire Straits"
+          "artist": "Devo"
         },
         {
-          "name": "Portobello Belle (Live / Alternate Version / Remastered 2022)",
+          "name": "Don't You Know (2009 Remaster)",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Dire+Straits/_/Portobello+Belle+(Live+%2F+Alternate+Version+%2F+Remastered+2022)",
+          "url": "https://www.last.fm/music/Devo/_/Don%27t+You+Know+(2009+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Dire Straits"
+          "artist": "Devo"
         },
         {
-          "name": "Free Ride",
+          "name": "Freedom of Choice (2009 Remaster)",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Nick+Drake/_/Free+Ride",
+          "url": "https://www.last.fm/music/Devo/_/Freedom+of+Choice+(2009+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Nick Drake"
+          "artist": "Devo"
         }
       ]
     },
@@ -402,6 +446,12 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Devo",
+          "playcount": 22,
+          "url": "https://www.last.fm/music/Devo",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Scott Walker",
           "playcount": 22,
           "url": "https://www.last.fm/music/Scott+Walker",
@@ -414,21 +464,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Devo",
+          "name": "Jalen Ngonda",
           "playcount": 10,
-          "url": "https://www.last.fm/music/Devo",
+          "url": "https://www.last.fm/music/Jalen+Ngonda",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Heavenly Bodes",
           "playcount": 10,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Dire Straits",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -483,6 +527,13 @@
           "artist": "Scott Walker"
         },
         {
+          "name": "Freedom of Choice (2009 Remaster) [Deluxe Edition]",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Devo/Freedom+of+Choice+(2009+Remaster)+%5BDeluxe+Edition%5D",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ea567d325c2cc0e04cb027ef3193a35.jpg",
+          "artist": "Devo"
+        },
+        {
           "name": "Yellow Submarine (Remastered)",
           "playcount": 12,
           "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
@@ -495,13 +546,6 @@
           "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
           "artist": "Devo"
-        },
-        {
-          "name": "Green Hills",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
-          "artist": "The Heavenly Bodes"
         }
       ],
       "tracks": [
@@ -629,7 +673,7 @@
         },
         {
           "name": "Bert Jansch",
-          "playcount": 41,
+          "playcount": 44,
           "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -789,19 +833,19 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 825,
+          "playcount": 819,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 428,
+          "playcount": 427,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beach Boys",
-          "playcount": 316,
+          "playcount": 311,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -813,13 +857,13 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 247,
+          "playcount": 240,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 233,
+          "playcount": 232,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -892,13 +936,6 @@
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Living in the Material World",
-          "playcount": 91,
-          "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
-          "artist": "George Harrison"
-        },
-        {
           "name": "The Beatles (White Album / Super Deluxe)",
           "playcount": 89,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
@@ -911,6 +948,13 @@
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "Living in the Material World",
+          "playcount": 85,
+          "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
+          "artist": "George Harrison"
         },
         {
           "name": "The Autumn Stone (Remastered 2025)",
@@ -1015,7 +1059,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1323,
+          "playcount": 1321,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1033,7 +1077,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 572,
+          "playcount": 567,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1108,7 +1152,7 @@
         },
         {
           "name": "Remain in Light",
-          "playcount": 253,
+          "playcount": 250,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
