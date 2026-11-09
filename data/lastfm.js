@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-08T22:00:18.829353Z",
+  "generatedAt": "2026-11-09T06:20:40.500289Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-10",
-        "label": "10 October",
-        "shortLabel": "10 Oct",
-        "count": 0
-      },
       {
         "date": "2026-10-11",
         "label": "11 October",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "8 November",
         "shortLabel": "8 Nov",
         "count": 6
+      },
+      {
+        "date": "2026-11-09",
+        "label": "9 November",
+        "shortLabel": "9 Nov",
+        "count": 0
       }
     ]
   },
@@ -1015,13 +1015,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1324,
+          "playcount": 1323,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 767,
+          "playcount": 766,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1033,13 +1033,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 579,
+          "playcount": 572,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beach Boys",
-          "playcount": 530,
+          "playcount": 529,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1108,7 +1108,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 254,
+          "playcount": 253,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -1122,7 +1122,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Pet Sounds (Mono & Stereo)",
-          "playcount": 238,
+          "playcount": 237,
           "url": "https://www.last.fm/music/The+Beach+Boys/Pet+Sounds+(Mono+&+Stereo)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c6fa14b8b53777ead441dfb0d6251f61.jpg",
           "artist": "The Beach Boys"
