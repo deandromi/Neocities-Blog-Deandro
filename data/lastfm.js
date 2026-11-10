@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-10T03:33:01.819258Z",
+  "generatedAt": "2026-11-10T14:49:19.973557Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27860,
+    "playcount": 27873,
     "artistCount": 390,
-    "albumCount": 1047,
-    "trackCount": 5160,
+    "albumCount": 1048,
+    "trackCount": 5166,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Planet Earth (2009 Remaster)",
-    "artist": "Devo",
-    "album": "Freedom of Choice (2009 Remaster) [Deluxe Edition]",
-    "url": "https://www.last.fm/music/Devo/_/Planet+Earth+(2009+Remaster)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ea567d325c2cc0e04cb027ef3193a35.jpg",
+    "name": "Sunshine Life For Me (Sail Away Raymond)",
+    "artist": "George Harrison",
+    "album": "Living in the Material World (50th Anniversary)",
+    "url": "https://www.last.fm/music/George+Harrison/_/Sunshine+Life+For+Me+(Sail+Away+Raymond)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc8800905c4dd44e47143b83fa108fde.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-11-09T12:56:16Z"
+    "playedAt": "2026-11-10T10:51:28Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-10",
         "label": "10 November",
         "shortLabel": "10 Nov",
-        "count": 0
+        "count": 13
       }
     ]
   },
@@ -215,7 +215,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Jalen Ngonda",
-          "playcount": 10,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Jalen+Ngonda",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -239,8 +239,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bert Jansch",
-          "playcount": 3,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "George Harrison",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -256,15 +262,9 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Dominic Fike",
+          "name": "Bob Dylan",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Dominic+Fike",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Michael Kiwanuka",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Michael+Kiwanuka",
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -278,7 +278,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Doctrine of Love",
-          "playcount": 10,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Jalen+Ngonda/Doctrine+of+Love",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/97eaf7cb0a8e76e45ebfeefd163bed03.png",
           "artist": "Jalen Ngonda"
@@ -296,6 +296,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "Living in the Material World (50th Anniversary)",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World+(50th+Anniversary)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc8800905c4dd44e47143b83fa108fde.jpg",
+          "artist": "George Harrison"
         },
         {
           "name": "Yellow Submarine (Remastered)",
@@ -319,24 +326,17 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Heavenly Bodes"
         },
         {
+          "name": "Bert Jansch",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
+          "artist": "Bert Jansch"
+        },
+        {
           "name": "Birthday Blues",
           "playcount": 2,
           "url": "https://www.last.fm/music/Bert+Jansch/Birthday+Blues",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87ee120eeb5fe0c7736b6c6ca6e509a0.jpg",
-          "artist": "Bert Jansch"
-        },
-        {
-          "name": "Requiem for a Village",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Steven+Wilson/Requiem+for+a+Village",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/41233011d961f23704e435684c20f4d6.jpg",
-          "artist": "Steven Wilson"
-        },
-        {
-          "name": "Jack Orion",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bert+Jansch/Jack+Orion",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6c5a381e65074ec8ce8a2dd458c0e62c.png",
           "artist": "Bert Jansch"
         }
       ],
@@ -370,9 +370,37 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Dire Straits"
         },
         {
+          "name": "Taken Out of the Picture",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Jalen+Ngonda/_/Taken+Out+of+the+Picture",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Jalen Ngonda"
+        },
+        {
           "name": "Come Sing Me A Happy Song To Prove We Can All Get Along The Lumpy Bumpy Long And Dusty Road",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bert+Jansch/_/Come+Sing+Me+A+Happy+Song+To+Prove+We+Can+All+Get+Along+The+Lumpy+Bumpy+Long+And+Dusty+Road",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bert Jansch"
+        },
+        {
+          "name": "Dreams of Love",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Dreams+of+Love",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bert Jansch"
+        },
+        {
+          "name": "Love Anew (2009 Digital Remaster)",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Love+Anew+(2009+Digital+Remaster)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bert Jansch"
+        },
+        {
+          "name": "Oh How Your Love Is Strong",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Oh+How+Your+Love+Is+Strong",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bert Jansch"
         },
@@ -382,34 +410,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bert+Jansch/_/The+Bright+New+Year",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bert Jansch"
-        },
-        {
-          "name": "The Waggoner's Lad",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/The+Waggoner%27s+Lad",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bert Jansch"
-        },
-        {
-          "name": "Cold War (2009 Remaster)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Devo/_/Cold+War+(2009+Remaster)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
-        },
-        {
-          "name": "Don't You Know (2009 Remaster)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Devo/_/Don%27t+You+Know+(2009+Remaster)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
-        },
-        {
-          "name": "Freedom of Choice (2009 Remaster)",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Devo/_/Freedom+of+Choice+(2009+Remaster)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Devo"
         }
       ]
     },
@@ -429,7 +429,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "George Harrison",
-          "playcount": 34,
+          "playcount": 41,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -441,7 +441,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -465,7 +465,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Jalen Ngonda",
-          "playcount": 10,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Jalen+Ngonda",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -541,11 +541,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Oh No It's Devo / Freedom of Choice",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Devo/Oh+No+It%27s+Devo+%2F+Freedom+of+Choice",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/32f6c848609a53d711bc15ac8aa20d29.jpg",
-          "artist": "Devo"
+          "name": "Doctrine of Love",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/Jalen+Ngonda/Doctrine+of+Love",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/97eaf7cb0a8e76e45ebfeefd163bed03.png",
+          "artist": "Jalen Ngonda"
         }
       ],
       "tracks": [
@@ -625,7 +625,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 235,
+          "playcount": 242,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -648,15 +648,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 99,
-          "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Heavenly Bodes",
           "playcount": 98,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bob Dylan",
+          "playcount": 94,
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -666,15 +666,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Smiths",
-          "playcount": 45,
-          "url": "https://www.last.fm/music/The+Smiths",
+          "name": "Bert Jansch",
+          "playcount": 48,
+          "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 44,
-          "url": "https://www.last.fm/music/Bert+Jansch",
+          "name": "The Smiths",
+          "playcount": 45,
+          "url": "https://www.last.fm/music/The+Smiths",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -833,7 +833,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 816,
+          "playcount": 823,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -863,7 +863,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 231,
+          "playcount": 232,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1041,7 +1041,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 4002,
+          "playcount": 4009,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,7 +1053,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1335,
+          "playcount": 1336,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1077,7 +1077,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 555,
+          "playcount": 553,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1151,18 +1151,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
-          "name": "Remain in Light",
-          "playcount": 242,
-          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
-          "artist": "Talking Heads"
-        },
-        {
           "name": "The Stranger",
           "playcount": 240,
           "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
           "artist": "Billy Joel"
+        },
+        {
+          "name": "Remain in Light",
+          "playcount": 240,
+          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+          "artist": "Talking Heads"
         },
         {
           "name": "Pet Sounds (Mono & Stereo)",
@@ -1249,7 +1249,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 4040,
+          "playcount": 4047,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1279,7 +1279,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1403,
+          "playcount": 1404,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
