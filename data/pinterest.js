@@ -1,9 +1,33 @@
 window.DEANDRO_PINTEREST_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-10T07:45:39.216528Z",
+  "generatedAt": "2026-11-10T20:01:31.487543Z",
   "username": "Deandro2011",
   "profileUrl": "https://www.pinterest.com/Deandro2011/",
   "pins": [
+    {
+      "id": "1018306165767512850",
+      "url": "https://www.pinterest.com/pin/1018306165767512850/",
+      "image": "https://i.pinimg.com/474x/72/9a/ac/729aac69f824120b8c92c3d4543dca7e.jpg",
+      "date": "2026-11-10T09:48:23Z"
+    },
+    {
+      "id": "1018306165767512782",
+      "url": "https://www.pinterest.com/pin/1018306165767512782/",
+      "image": "https://i.pinimg.com/474x/1d/ae/50/1dae50b3f7c4e842912c30bf92910005.jpg",
+      "date": "2026-11-10T09:42:57Z"
+    },
+    {
+      "id": "1018306165767512771",
+      "url": "https://www.pinterest.com/pin/1018306165767512771/",
+      "image": "https://i.pinimg.com/474x/c0/af/9c/c0af9cfef53b8b56564a13f0004339f4.jpg",
+      "date": "2026-11-10T09:41:36Z"
+    },
+    {
+      "id": "1018306165767512686",
+      "url": "https://www.pinterest.com/pin/1018306165767512686/",
+      "image": "https://i.pinimg.com/474x/67/c8/b3/67c8b326e924c57e25980724f7bab7b8.jpg",
+      "date": "2026-11-10T09:35:17Z"
+    },
     {
       "id": "1018306165767340146",
       "url": "https://www.pinterest.com/pin/1018306165767340146/",
