@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-10T14:49:19.973557Z",
+  "generatedAt": "2026-11-10T21:17:04.395365Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -416,15 +416,15 @@
     "1month": {
       "artists": [
         {
-          "name": "The Beatles",
-          "playcount": 67,
-          "url": "https://www.last.fm/music/The+Beatles",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Nick Drake",
           "playcount": 62,
           "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Beatles",
+          "playcount": 52,
+          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -441,7 +441,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 25,
+          "playcount": 22,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -478,13 +478,6 @@
       ],
       "albums": [
         {
-          "name": "Rubber Soul (Super Deluxe)",
-          "playcount": 47,
-          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
-          "artist": "The Beatles"
-        },
-        {
           "name": "The Making Of Five Leaves Left",
           "playcount": 34,
           "url": "https://www.last.fm/music/Nick+Drake/The+Making+Of+Five+Leaves+Left",
@@ -497,6 +490,13 @@
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Rubber Soul (Super Deluxe)",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/The+Beatles/Rubber+Soul+(Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/14a2c171a9cb2c9ade2afb87f6ef6f4a.jpg",
+          "artist": "The Beatles"
         },
         {
           "name": "Five Leaves Left",
@@ -579,7 +579,7 @@
         },
         {
           "name": "Day Tripper (2023 Mix)",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 823,
+          "playcount": 822,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -851,19 +851,19 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 286,
+          "playcount": 283,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Kinks",
-          "playcount": 240,
+          "playcount": 238,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 232,
+          "playcount": 231,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -895,7 +895,7 @@
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 641,
+          "playcount": 640,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -923,7 +923,7 @@
         },
         {
           "name": "Something Else By The Kinks",
-          "playcount": 114,
+          "playcount": 113,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
@@ -1016,7 +1016,7 @@
         },
         {
           "name": "All Things Must Pass (2020 Mix)",
-          "playcount": 34,
+          "playcount": 33,
           "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
