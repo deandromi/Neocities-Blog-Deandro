@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-10T21:17:04.395365Z",
+  "generatedAt": "2026-11-11T01:16:03.112375Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-12",
-        "label": "12 October",
-        "shortLabel": "12 Oct",
-        "count": 0
-      },
       {
         "date": "2026-10-13",
         "label": "13 October",
@@ -201,6 +195,12 @@
         "label": "10 November",
         "shortLabel": "10 Nov",
         "count": 13
+      },
+      {
+        "date": "2026-11-11",
+        "label": "11 November",
+        "shortLabel": "11 Nov",
+        "count": 0
       }
     ]
   },
