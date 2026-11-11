@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-11T10:52:45.158756Z",
+  "generatedAt": "2026-11-11T19:33:38.187541Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27878,
+    "playcount": 27888,
     "artistCount": 390,
     "albumCount": 1048,
     "trackCount": 5166,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "The Ballad of Frankie Lee and Judas Priest",
-    "artist": "Bob Dylan",
-    "album": "John Wesley Harding",
-    "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a9db76c8d1cb8e1087e81c910f1197.jpg",
-    "nowPlaying": true,
-    "playedAt": null
+    "name": "Expresso Love",
+    "artist": "Dire Straits",
+    "album": "Making Movies",
+    "url": "https://www.last.fm/music/Dire+Straits/_/Expresso+Love",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
+    "nowPlaying": false,
+    "playedAt": "2026-11-11T14:38:34Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-11",
         "label": "11 November",
         "shortLabel": "11 Nov",
-        "count": 5
+        "count": 15
       }
     ]
   },
@@ -214,15 +214,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Jalen Ngonda",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/Jalen+Ngonda",
+          "name": "Dire Straits",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Dire Straits",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Dire+Straits",
+          "name": "Jalen Ngonda",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/Jalen+Ngonda",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -251,20 +251,20 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 5,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Talking Heads",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Heavenly Bodes",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Steven Wilson",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Steven+Wilson",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -305,6 +305,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "Remain in Light",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+          "artist": "Talking Heads"
+        },
+        {
           "name": "Yellow Submarine (Remastered)",
           "playcount": 5,
           "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
@@ -319,25 +326,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
+          "name": "Making Movies",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
+          "artist": "Dire Straits"
+        },
+        {
           "name": "1967-1970",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Beatles/1967-1970",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7209d4ae50f35ebdd21d2c74a850f126.png",
           "artist": "The Beatles"
-        },
-        {
-          "name": "Green Hills",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
-          "artist": "The Heavenly Bodes"
-        },
-        {
-          "name": "Bert Jansch",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
-          "artist": "Bert Jansch"
         }
       ],
       "tracks": [
@@ -354,6 +354,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beatles/_/The+Ballad+of+John+and+Yoko",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
+        },
+        {
+          "name": "The Ballad of Frankie Lee and Judas Priest",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
         },
         {
           "name": "Portobello Belle",
@@ -403,13 +410,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bert+Jansch/_/Oh+How+Your+Love+Is+Strong",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bert Jansch"
-        },
-        {
-          "name": "The Bright New Year",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/The+Bright+New+Year",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bert Jansch"
         }
       ]
     },
@@ -435,7 +435,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 26,
+          "playcount": 27,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -459,20 +459,20 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 12,
+          "playcount": 17,
           "url": "https://www.last.fm/music/Talking+Heads",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Dire Straits",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Jalen Ngonda",
           "playcount": 11,
           "url": "https://www.last.fm/music/Jalen+Ngonda",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Heavenly Bodes",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -578,6 +578,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "The Great Curve",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Talking+Heads/_/The+Great+Curve",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Talking Heads"
+        },
+        {
           "name": "Day Tripper (2023 Mix)",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
@@ -611,13 +618,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Kinks/_/Starstruck",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Kinks"
-        },
-        {
-          "name": "Village Green",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Kinks/_/Village+Green",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Kinks"
         }
       ]
     },
@@ -649,7 +649,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 98,
+          "playcount": 99,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -863,7 +863,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 235,
+          "playcount": 236,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,13 +1053,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1340,
+          "playcount": 1337,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 1316,
+          "playcount": 1301,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1071,13 +1071,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Dire Straits",
-          "playcount": 592,
+          "playcount": 595,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Talking Heads",
-          "playcount": 550,
+          "playcount": 554,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1151,18 +1151,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
+          "name": "Remain in Light",
+          "playcount": 244,
+          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+          "artist": "Talking Heads"
+        },
+        {
           "name": "The Stranger",
           "playcount": 240,
           "url": "https://www.last.fm/music/Billy+Joel/The+Stranger",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png",
           "artist": "Billy Joel"
-        },
-        {
-          "name": "Remain in Light",
-          "playcount": 240,
-          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
-          "artist": "Talking Heads"
         },
         {
           "name": "Pet Sounds (Mono & Stereo)",
@@ -1279,19 +1279,19 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1408,
+          "playcount": 1409,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Talking Heads",
-          "playcount": 1125,
+          "playcount": 1130,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Dire Straits",
-          "playcount": 994,
+          "playcount": 997,
           "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1346,7 +1346,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 403,
+          "playcount": 408,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
