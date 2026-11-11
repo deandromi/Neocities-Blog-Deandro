@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-11T01:16:03.112375Z",
+  "generatedAt": "2026-11-11T10:52:45.158756Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27873,
+    "playcount": 27878,
     "artistCount": 390,
     "albumCount": 1048,
     "trackCount": 5166,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Sunshine Life For Me (Sail Away Raymond)",
-    "artist": "George Harrison",
-    "album": "Living in the Material World (50th Anniversary)",
-    "url": "https://www.last.fm/music/George+Harrison/_/Sunshine+Life+For+Me+(Sail+Away+Raymond)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc8800905c4dd44e47143b83fa108fde.jpg",
-    "nowPlaying": false,
-    "playedAt": "2026-11-10T10:51:28Z"
+    "name": "The Ballad of Frankie Lee and Judas Priest",
+    "artist": "Bob Dylan",
+    "album": "John Wesley Harding",
+    "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a9db76c8d1cb8e1087e81c910f1197.jpg",
+    "nowPlaying": true,
+    "playedAt": null
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-11",
         "label": "11 November",
         "shortLabel": "11 Nov",
-        "count": 0
+        "count": 5
       }
     ]
   },
@@ -250,6 +250,12 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Bob Dylan",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "The Heavenly Bodes",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
@@ -259,12 +265,6 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Steven Wilson",
           "playcount": 2,
           "url": "https://www.last.fm/music/Steven+Wilson",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bob Dylan",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -312,6 +312,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
+          "name": "New Morning",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
+          "artist": "Bob Dylan"
+        },
+        {
           "name": "1967-1970",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Beatles/1967-1970",
@@ -330,13 +337,6 @@ window.DEANDRO_LASTFM_DATA = {
           "playcount": 2,
           "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
-          "artist": "Bert Jansch"
-        },
-        {
-          "name": "Birthday Blues",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bert+Jansch/Birthday+Blues",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87ee120eeb5fe0c7736b6c6ca6e509a0.jpg",
           "artist": "Bert Jansch"
         }
       ],
@@ -434,15 +434,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Kinks",
+          "name": "Bob Dylan",
           "playcount": 26,
-          "url": "https://www.last.fm/music/The+Kinks",
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 22,
-          "url": "https://www.last.fm/music/Bob+Dylan",
+          "name": "The Kinks",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -648,15 +648,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Heavenly Bodes",
+          "name": "Bob Dylan",
           "playcount": 98,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
+          "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 94,
-          "url": "https://www.last.fm/music/Bob+Dylan",
+          "name": "The Heavenly Bodes",
+          "playcount": 98,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -749,11 +749,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Smiths"
         },
         {
-          "name": "Five Leaves Left",
-          "playcount": 39,
-          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
-          "artist": "Nick Drake"
+          "name": "New Morning",
+          "playcount": 40,
+          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
+          "artist": "Bob Dylan"
         }
       ],
       "tracks": [
@@ -863,7 +863,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 231,
+          "playcount": 235,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,13 +1053,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1336,
+          "playcount": 1340,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 1317,
+          "playcount": 1316,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1077,7 +1077,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 553,
+          "playcount": 550,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1279,7 +1279,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1404,
+          "playcount": 1408,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
