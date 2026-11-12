@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-12T02:14:37.697540Z",
+  "generatedAt": "2026-11-12T11:00:18.605566Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -214,12 +214,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Dire Straits",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Dire+Straits",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Jalen Ngonda",
           "playcount": 11,
           "url": "https://www.last.fm/music/Jalen+Ngonda",
@@ -235,6 +229,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Bert Jansch",
           "playcount": 7,
           "url": "https://www.last.fm/music/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Dire Straits",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Dire+Straits",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -284,13 +284,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Jalen Ngonda"
         },
         {
-          "name": "Communiqué",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Dire+Straits/Communiqu%C3%A9",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/23a8221058d3488eb685ea66de8ee104.png",
-          "artist": "Dire Straits"
-        },
-        {
           "name": "Pink Moon",
           "playcount": 8,
           "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
@@ -317,6 +310,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "Communiqué",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dire+Straits/Communiqu%C3%A9",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/23a8221058d3488eb685ea66de8ee104.png",
+          "artist": "Dire Straits"
         },
         {
           "name": "Making Movies",
@@ -347,20 +347,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
-        },
-        {
-          "name": "Portobello Belle",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dire+Straits/_/Portobello+Belle",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Dire Straits"
-        },
-        {
-          "name": "Single Handed Sailor",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dire+Straits/_/Single+Handed+Sailor",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Dire Straits"
         },
         {
           "name": "Taken Out of the Picture",
@@ -408,6 +394,20 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Bright New Year",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bert+Jansch/_/The+Bright+New+Year",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bert Jansch"
+        },
+        {
+          "name": "The First Time Ever I Saw Your Face",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bert+Jansch/_/The+First+Time+Ever+I+Saw+Your+Face",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bert Jansch"
+        },
+        {
+          "name": "The Waggoner's Lad",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bert+Jansch/_/The+Waggoner%27s+Lad",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bert Jansch"
         }
