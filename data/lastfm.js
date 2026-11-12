@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-11T19:33:38.187541Z",
+  "generatedAt": "2026-11-12T02:14:37.697540Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-13",
-        "label": "13 October",
-        "shortLabel": "13 Oct",
-        "count": 0
-      },
       {
         "date": "2026-10-14",
         "label": "14 October",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "11 November",
         "shortLabel": "11 Nov",
         "count": 15
+      },
+      {
+        "date": "2026-11-12",
+        "label": "12 November",
+        "shortLabel": "12 Nov",
+        "count": 0
       }
     ]
   },
@@ -223,12 +223,6 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Jalen Ngonda",
           "playcount": 11,
           "url": "https://www.last.fm/music/Jalen+Ngonda",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Beatles",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -265,6 +259,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Heavenly Bodes",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Steven Wilson",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Steven+Wilson",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -312,13 +312,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Talking Heads"
         },
         {
-          "name": "Yellow Submarine (Remastered)",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Beatles/Yellow+Submarine+(Remastered)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31de9ae2f5f3b465829e6042fb69ec3.jpg",
-          "artist": "The Beatles"
-        },
-        {
           "name": "New Morning",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
@@ -333,28 +326,21 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Dire Straits"
         },
         {
-          "name": "1967-1970",
+          "name": "Green Hills",
           "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/1967-1970",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7209d4ae50f35ebdd21d2c74a850f126.png",
-          "artist": "The Beatles"
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7688a41557c5978c750e34af882d238.jpg",
+          "artist": "The Heavenly Bodes"
+        },
+        {
+          "name": "Bert Jansch",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
+          "artist": "Bert Jansch"
         }
       ],
       "tracks": [
-        {
-          "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "The Ballad of John and Yoko",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/_/The+Ballad+of+John+and+Yoko",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
         {
           "name": "The Ballad of Frankie Lee and Judas Priest",
           "playcount": 2,
@@ -384,6 +370,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Jalen Ngonda"
         },
         {
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
           "name": "Come Sing Me A Happy Song To Prove We Can All Get Along The Lumpy Bumpy Long And Dusty Road",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bert+Jansch/_/Come+Sing+Me+A+Happy+Song+To+Prove+We+Can+All+Get+Along+The+Lumpy+Bumpy+Long+And+Dusty+Road",
@@ -408,6 +401,13 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Oh How Your Love Is Strong",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bert+Jansch/_/Oh+How+Your+Love+Is+Strong",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bert Jansch"
+        },
+        {
+          "name": "The Bright New Year",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bert+Jansch/_/The+Bright+New+Year",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bert Jansch"
         }
