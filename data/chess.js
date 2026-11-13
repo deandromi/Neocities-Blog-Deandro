@@ -1,6 +1,6 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-13T06:24:15.538394Z",
+  "generatedAt": "2026-11-13T19:31:33.421131Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -34,6 +34,23 @@ window.DEANDRO_CHESS_DATA = {
     }
   },
   "recentGames": [
+    {
+      "id": "187135376112",
+      "url": "https://www.chess.com/game/live/187135376112",
+      "date": "2026-11-13T16:47:39Z",
+      "player": "Deandro_M",
+      "opponent": "matsvanmars",
+      "color": "black",
+      "rating": 721,
+      "opponentRating": 917,
+      "result": "win",
+      "termination": "resigned",
+      "timeClass": "rapid",
+      "timeControl": "1800",
+      "opening": "Alapin Sicilian Defense 2...e6 3.Nf3 Nc6 4.d4",
+      "accuracy": null,
+      "fen": "5rk1/p4p1p/2b3p1/8/8/3KP1PP/Pb6/R7 w - - 0 28"
+    },
     {
       "id": "186578216102",
       "url": "https://www.chess.com/game/live/186578216102",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Sicilian Defense Nimzowitsch Closed 3...e6",
       "accuracy": 66.7,
       "fen": "5r1k/p6p/p4pp1/3Q1bq1/6P1/5P2/PPN4P/R3R1K1 b - g3 0 22"
-    },
-    {
-      "id": "185742618626",
-      "url": "https://www.chess.com/game/live/185742618626",
-      "date": "2026-10-22T10:57:52Z",
-      "player": "Deandro_M",
-      "opponent": "Akash6147",
-      "color": "black",
-      "rating": 721,
-      "opponentRating": 750,
-      "result": "loss",
-      "termination": "resigned",
-      "timeClass": "rapid",
-      "timeControl": "900+10",
-      "opening": "Kings Fianchetto Opening Indian Defense 2.Bg2 c5",
-      "accuracy": 72.0,
-      "fen": "8/8/p6p/7k/P7/2P1PQ2/5PK1/3r4 b - - 8 45"
     }
   ],
   "featuredGames": [
