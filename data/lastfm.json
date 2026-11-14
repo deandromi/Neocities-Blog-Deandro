@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-14T01:25:57.457241Z",
+  "generatedAt": "2026-11-14T10:20:27.853303Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -833,7 +833,7 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 822,
+          "playcount": 820,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -851,13 +851,13 @@
         },
         {
           "name": "Nick Drake",
-          "playcount": 282,
+          "playcount": 281,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 243,
+          "playcount": 242,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -936,13 +936,6 @@
           "artist": "The Heavenly Bodes"
         },
         {
-          "name": "Pink Moon",
-          "playcount": 87,
-          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
-          "artist": "Nick Drake"
-        },
-        {
           "name": "The Beatles (White Album / Super Deluxe)",
           "playcount": 87,
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
@@ -950,11 +943,11 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Living in the Material World",
-          "playcount": 84,
-          "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
-          "artist": "George Harrison"
+          "name": "Pink Moon",
+          "playcount": 86,
+          "url": "https://www.last.fm/music/Nick+Drake/Pink+Moon",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png",
+          "artist": "Nick Drake"
         },
         {
           "name": "The Autumn Stone (Remastered 2025)",
@@ -962,6 +955,13 @@
           "url": "https://www.last.fm/music/Small+Faces/The+Autumn+Stone+(Remastered+2025)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bf44d98949d76e9740d38267a85d272c.png",
           "artist": "Small Faces"
+        },
+        {
+          "name": "Living in the Material World",
+          "playcount": 83,
+          "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
+          "artist": "George Harrison"
         }
       ],
       "tracks": [
