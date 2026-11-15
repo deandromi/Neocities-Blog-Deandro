@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-14T22:20:36.618977Z",
+  "generatedAt": "2026-11-15T06:23:51.873448Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-16",
-        "label": "16 October",
-        "shortLabel": "16 Oct",
-        "count": 0
-      },
       {
         "date": "2026-10-17",
         "label": "17 October",
@@ -200,6 +194,12 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-14",
         "label": "14 November",
         "shortLabel": "14 Nov",
+        "count": 0
+      },
+      {
+        "date": "2026-11-15",
+        "label": "15 November",
+        "shortLabel": "15 Nov",
         "count": 0
       }
     ]
@@ -1077,7 +1077,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 540,
+          "playcount": 539,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1152,7 +1152,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 244,
+          "playcount": 243,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
