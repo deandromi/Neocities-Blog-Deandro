@@ -1,6 +1,6 @@
 window.DEANDRO_CHESS_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-15T18:44:40.172533Z",
+  "generatedAt": "2026-11-16T06:08:20.848316Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -26,14 +26,31 @@ window.DEANDRO_CHESS_DATA = {
       "draws": 0
     },
     "daily": {
-      "current": 846,
+      "current": 836,
       "best": 1200,
       "wins": 15,
-      "losses": 22,
+      "losses": 23,
       "draws": 1
     }
   },
   "recentGames": [
+    {
+      "id": "1049046836",
+      "url": "https://www.chess.com/game/daily/1049046836",
+      "date": "2026-11-15T21:25:41Z",
+      "player": "Deandro_M",
+      "opponent": "Trizzygillepsie",
+      "color": "white",
+      "rating": 836,
+      "opponentRating": 1041,
+      "result": "loss",
+      "termination": "resigned",
+      "timeClass": "daily",
+      "timeControl": "1/259200",
+      "opening": "Queens Gambit Declined Albin Countergambit",
+      "accuracy": null,
+      "fen": "r3r1k1/p4p1p/2pq2p1/2p5/2Ppb3/1Pn1PN1P/P2Q1P2/R1B2K1R w - - 3 23"
+    },
     {
       "id": "187135376112",
       "url": "https://www.chess.com/game/live/187135376112",
@@ -84,23 +101,6 @@ window.DEANDRO_CHESS_DATA = {
       "opening": "Queens Pawn Opening Horwitz Defense",
       "accuracy": 73.4,
       "fen": "3r1r1k/pR5Q/3p2p1/3p1n2/3P2q1/B1P1PN2/P2N1PPP/1R4K1 b - - 2 26"
-    },
-    {
-      "id": "185750826286",
-      "url": "https://www.chess.com/game/live/185750826286",
-      "date": "2026-10-22T13:36:41Z",
-      "player": "Deandro_M",
-      "opponent": "Safwanenoraz",
-      "color": "black",
-      "rating": 721,
-      "opponentRating": 408,
-      "result": "loss",
-      "termination": "resigned",
-      "timeClass": "rapid",
-      "timeControl": "900+10",
-      "opening": "Sicilian Defense Nimzowitsch Closed 3...e6",
-      "accuracy": 66.7,
-      "fen": "5r1k/p6p/p4pp1/3Q1bq1/6P1/5P2/PPN4P/R3R1K1 b - g3 0 22"
     }
   ],
   "featuredGames": [
