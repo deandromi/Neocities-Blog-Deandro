@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-16T06:08:20.848316Z",
+  "generatedAt": "2026-11-16T21:55:03.848288Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
@@ -65,7 +65,7 @@
       "timeClass": "rapid",
       "timeControl": "1800",
       "opening": "Alapin Sicilian Defense 2...e6 3.Nf3 Nc6 4.d4",
-      "accuracy": null,
+      "accuracy": 69.9,
       "fen": "5rk1/p4p1p/2b3p1/8/8/3KP1PP/Pb6/R7 w - - 0 28"
     },
     {
