@@ -1,33 +1,27 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-15T22:46:35.613003Z",
+  "generatedAt": "2026-11-16T06:22:35.150720Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27918,
+    "playcount": 27921,
     "artistCount": 390,
     "albumCount": 1048,
     "trackCount": 5166,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "First Week / Last Week...Carefree",
+    "name": "Seen and Not Seen",
     "artist": "Talking Heads",
-    "album": "Talking Heads: 77",
-    "url": "https://www.last.fm/music/Talking+Heads/_/First+Week+%2F+Last+Week...Carefree",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cf450a0fbcfde0535dac822ca3e0ce52.png",
-    "nowPlaying": true,
-    "playedAt": null
+    "album": "Remain in Light",
+    "url": "https://www.last.fm/music/Talking+Heads/_/Seen+and+Not+Seen",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
+    "nowPlaying": false,
+    "playedAt": "2026-11-15T22:54:10Z"
   },
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-17",
-        "label": "17 October",
-        "shortLabel": "17 Oct",
-        "count": 4
-      },
       {
         "date": "2026-10-18",
         "label": "18 October",
@@ -200,7 +194,13 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-15",
         "label": "15 November",
         "shortLabel": "15 Nov",
-        "count": 19
+        "count": 22
+      },
+      {
+        "date": "2026-11-16",
+        "label": "16 November",
+        "shortLabel": "16 Nov",
+        "count": 0
       }
     ]
   },
@@ -209,7 +209,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "Talking Heads",
-          "playcount": 19,
+          "playcount": 22,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -306,7 +306,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 5,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -333,11 +333,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
-          "artist": "Bert Jansch"
+          "name": "Talking Heads: 77",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Talking+Heads/Talking+Heads:+77",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cf450a0fbcfde0535dac822ca3e0ce52.png",
+          "artist": "Talking Heads"
         }
       ],
       "tracks": [
@@ -405,11 +405,11 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Talking Heads"
         },
         {
-          "name": "Come Sing Me A Happy Song To Prove We Can All Get Along The Lumpy Bumpy Long And Dusty Road",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/Come+Sing+Me+A+Happy+Song+To+Prove+We+Can+All+Get+Along+The+Lumpy+Bumpy+Long+And+Dusty+Road",
+          "name": "Once in a Lifetime",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Talking+Heads/_/Once+in+a+Lifetime",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bert Jansch"
+          "artist": "Talking Heads"
         }
       ]
     },
@@ -435,7 +435,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 31,
+          "playcount": 34,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -592,32 +592,32 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
+          "name": "First Week / Last Week...Carefree",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Talking+Heads/_/First+Week+%2F+Last+Week...Carefree",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Talking Heads"
+        },
+        {
+          "name": "Once in a Lifetime",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Talking+Heads/_/Once+in+a+Lifetime",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Talking Heads"
+        },
+        {
+          "name": "Seen and Not Seen",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Talking+Heads/_/Seen+and+Not+Seen",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Talking Heads"
+        },
+        {
           "name": "The Book I Read",
           "playcount": 3,
           "url": "https://www.last.fm/music/Talking+Heads/_/The+Book+I+Read",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Talking Heads"
-        },
-        {
-          "name": "The Great Curve",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Talking+Heads/_/The+Great+Curve",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Talking Heads"
-        },
-        {
-          "name": "Day Tripper (2023 Mix)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/_/Day+Tripper+(2023+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
-          "name": "The Ballad of John and Yoko",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Beatles/_/The+Ballad+of+John+and+Yoko",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
         }
       ]
     },
@@ -672,15 +672,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "The Smiths",
-          "playcount": 45,
-          "url": "https://www.last.fm/music/The+Smiths",
+          "name": "Talking Heads",
+          "playcount": 47,
+          "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Talking Heads",
-          "playcount": 44,
-          "url": "https://www.last.fm/music/Talking+Heads",
+          "name": "The Smiths",
+          "playcount": 45,
+          "url": "https://www.last.fm/music/The+Smiths",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -1083,7 +1083,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 522,
+          "playcount": 524,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1159,7 +1159,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 237,
+          "playcount": 239,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
@@ -1285,7 +1285,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 1144,
+          "playcount": 1147,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1346,7 +1346,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Remain in Light",
-          "playcount": 408,
+          "playcount": 410,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
           "artist": "Talking Heads"
