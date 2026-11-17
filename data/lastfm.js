@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-16T19:33:35.191780Z",
+  "generatedAt": "2026-11-17T03:49:41.150818Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-18",
-        "label": "18 October",
-        "shortLabel": "18 Oct",
-        "count": 35
-      },
       {
         "date": "2026-10-19",
         "label": "19 October",
@@ -201,6 +195,12 @@ window.DEANDRO_LASTFM_DATA = {
         "label": "16 November",
         "shortLabel": "16 Nov",
         "count": 9
+      },
+      {
+        "date": "2026-11-17",
+        "label": "17 November",
+        "shortLabel": "17 Nov",
+        "count": 0
       }
     ]
   },
@@ -423,7 +423,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 53,
+          "playcount": 45,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -550,18 +550,18 @@ window.DEANDRO_LASTFM_DATA = {
       ],
       "tracks": [
         {
-          "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
-        },
-        {
           "name": "My Sweet Lord (2020 Mix)",
           "playcount": 9,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Hey Bulldog (Remastered 2009)",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
         },
         {
           "name": "Planet Earth",
@@ -583,13 +583,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
-        },
-        {
-          "name": "Long, Long, Long (2018 Mix)",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Beatles"
         },
         {
           "name": "River Man",
@@ -616,6 +609,13 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "First Week / Last Week...Carefree",
           "playcount": 3,
           "url": "https://www.last.fm/music/Talking+Heads/_/First+Week+%2F+Last+Week...Carefree",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Talking Heads"
+        },
+        {
+          "name": "Once in a Lifetime",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Talking+Heads/_/Once+in+a+Lifetime",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Talking Heads"
         }
@@ -863,7 +863,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Kinks",
-          "playcount": 219,
+          "playcount": 204,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -923,7 +923,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Something Else By The Kinks",
-          "playcount": 103,
+          "playcount": 101,
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
@@ -1083,7 +1083,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 508,
+          "playcount": 489,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
