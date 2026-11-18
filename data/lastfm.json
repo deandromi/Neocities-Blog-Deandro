@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-18T11:36:16.095291Z",
+  "generatedAt": "2026-11-18T20:28:05.140521Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -209,7 +209,7 @@
       "artists": [
         {
           "name": "Talking Heads",
-          "playcount": 22,
+          "playcount": 17,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -238,12 +238,6 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Dire Straits",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Dire+Straits",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Nick Drake",
           "playcount": 3,
           "url": "https://www.last.fm/music/Nick+Drake",
@@ -265,6 +259,12 @@
           "name": "Jalen Ngonda",
           "playcount": 1,
           "url": "https://www.last.fm/music/Jalen+Ngonda",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Heavenly Bodes",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -291,13 +291,6 @@
           "artist": "Bob Dylan"
         },
         {
-          "name": "Remain in Light",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
-          "artist": "Talking Heads"
-        },
-        {
           "name": "George Harrison",
           "playcount": 6,
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
@@ -319,13 +312,6 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Making Movies",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6901015514aa77621215f5a5406daa9c.jpg",
-          "artist": "Dire Straits"
-        },
-        {
           "name": "All Things Must Pass (50th Anniversary Edition)",
           "playcount": 3,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
@@ -338,6 +324,20 @@
           "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "Talking Heads: 77",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Talking+Heads/Talking+Heads:+77",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cf450a0fbcfde0535dac822ca3e0ce52.png",
+          "artist": "Talking Heads"
+        },
+        {
+          "name": "John Wesley Harding",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bob+Dylan/John+Wesley+Harding",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a9db76c8d1cb8e1087e81c910f1197.jpg",
+          "artist": "Bob Dylan"
         }
       ],
       "tracks": [
@@ -359,20 +359,6 @@
           "name": "Making Flippy Floppy (Live)",
           "playcount": 2,
           "url": "https://www.last.fm/music/Talking+Heads/_/Making+Flippy+Floppy+(Live)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Talking Heads"
-        },
-        {
-          "name": "Once in a Lifetime",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Talking+Heads/_/Once+in+a+Lifetime",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Talking Heads"
-        },
-        {
-          "name": "Seen and Not Seen",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Talking+Heads/_/Seen+and+Not+Seen",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Talking Heads"
         },
@@ -408,6 +394,20 @@
           "name": "If Not for You",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bob+Dylan/_/If+Not+for+You",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "The Man In Me",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/The+Man+In+Me",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "Three Angels",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Three+Angels",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
         }
