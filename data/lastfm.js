@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-18T00:56:29.431314Z",
+  "generatedAt": "2026-11-18T11:36:16.095291Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -221,7 +221,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 15,
+          "playcount": 10,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -256,26 +256,19 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Donovan",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Donovan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Grateful Dead",
           "playcount": 1,
           "url": "https://www.last.fm/music/Grateful+Dead",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Jalen+Ngonda",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
-        {
-          "name": "New Morning",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
-          "artist": "Bob Dylan"
-        },
         {
           "name": "Stop Making Sense (Live)",
           "playcount": 10,
@@ -289,6 +282,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
+        },
+        {
+          "name": "New Morning",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
+          "artist": "Bob Dylan"
         },
         {
           "name": "Remain in Light",
@@ -319,13 +319,6 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "John Wesley Harding",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bob+Dylan/John+Wesley+Harding",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a9db76c8d1cb8e1087e81c910f1197.jpg",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "Making Movies",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dire+Straits/Making+Movies",
@@ -338,41 +331,20 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
+        },
+        {
+          "name": "Five Leaves Left",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
+          "artist": "Nick Drake"
         }
       ],
       "tracks": [
         {
           "name": "The Ballad of Frankie Lee and Judas Priest",
-          "playcount": 3,
+          "playcount": 2,
           "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
-        },
-        {
-          "name": "If Not for You",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/If+Not+for+You",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
-        },
-        {
-          "name": "The Man In Me",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/The+Man+In+Me",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
-        },
-        {
-          "name": "Went to See the Gypsy",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Went+to+See+the+Gypsy",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
-        },
-        {
-          "name": "Winterlude",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Winterlude",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bob Dylan"
         },
@@ -410,6 +382,34 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
+        },
+        {
+          "name": "Long, Long, Long (2018 Mix)",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "Father of Night",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/Father+of+Night",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "If Dogs Run Free",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/If+Dogs+Run+Free",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
+          "name": "If Not for You",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/If+Not+for+You",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
         }
       ]
     },
@@ -440,12 +440,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Kinks",
           "playcount": 27,
           "url": "https://www.last.fm/music/The+Kinks",
@@ -455,6 +449,12 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Devo",
           "playcount": 22,
           "url": "https://www.last.fm/music/Devo",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -636,15 +636,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Nick Drake",
-          "playcount": 143,
-          "url": "https://www.last.fm/music/Nick+Drake",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Scott Walker",
           "playcount": 140,
           "url": "https://www.last.fm/music/Scott+Walker",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Nick Drake",
+          "playcount": 135,
+          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -845,7 +845,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beach Boys",
-          "playcount": 281,
+          "playcount": 275,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -902,7 +902,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Sunflower",
-          "playcount": 176,
+          "playcount": 170,
           "url": "https://www.last.fm/music/The+Beach+Boys/Sunflower",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png",
           "artist": "The Beach Boys"
@@ -995,7 +995,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "This Whole World",
-          "playcount": 44,
+          "playcount": 43,
           "url": "https://www.last.fm/music/The+Beach+Boys/_/This+Whole+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beach Boys"
@@ -1030,7 +1030,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "All I Wanna Do",
-          "playcount": 30,
+          "playcount": 29,
           "url": "https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beach Boys"
