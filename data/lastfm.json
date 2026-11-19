@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-19T11:34:35.224589Z",
+  "generatedAt": "2026-11-19T20:31:43.338535Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -256,15 +256,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bob Dylan",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Creedence Clearwater Revival",
           "playcount": 2,
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Grateful Dead",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Grateful+Dead",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -342,13 +342,6 @@
       ],
       "tracks": [
         {
-          "name": "The Ballad of Frankie Lee and Judas Priest",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "My Sweet Lord (2020 Mix)",
           "playcount": 2,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
@@ -408,6 +401,13 @@
           "name": "I've Got a Woman",
           "playcount": 1,
           "url": "https://www.last.fm/music/Bert+Jansch/_/I%27ve+Got+a+Woman",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bert Jansch"
+        },
+        {
+          "name": "Miss Heather Rosemary Sewell",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Miss+Heather+Rosemary+Sewell",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Bert Jansch"
         }
@@ -851,7 +851,7 @@
         },
         {
           "name": "The Beach Boys",
-          "playcount": 251,
+          "playcount": 242,
           "url": "https://www.last.fm/music/The+Beach+Boys",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -863,7 +863,7 @@
         },
         {
           "name": "The Kinks",
-          "playcount": 205,
+          "playcount": 197,
           "url": "https://www.last.fm/music/The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -902,7 +902,7 @@
         },
         {
           "name": "Sunflower",
-          "playcount": 159,
+          "playcount": 150,
           "url": "https://www.last.fm/music/The+Beach+Boys/Sunflower",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png",
           "artist": "The Beach Boys"
@@ -922,13 +922,6 @@
           "artist": "The Jam"
         },
         {
-          "name": "Something Else By The Kinks",
-          "playcount": 102,
-          "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
-          "artist": "The Kinks"
-        },
-        {
           "name": "Green Hills",
           "playcount": 100,
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/Green+Hills",
@@ -941,6 +934,13 @@
           "url": "https://www.last.fm/music/The+Beatles/The+Beatles+(White+Album+%2F+Super+Deluxe)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/248b2cf9482954b01c20696b1277b49a.png",
           "artist": "The Beatles"
+        },
+        {
+          "name": "Something Else By The Kinks",
+          "playcount": 94,
+          "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
+          "artist": "The Kinks"
         },
         {
           "name": "The Autumn Stone (Remastered 2025)",
@@ -1002,7 +1002,7 @@
         },
         {
           "name": "This Whole World",
-          "playcount": 42,
+          "playcount": 41,
           "url": "https://www.last.fm/music/The+Beach+Boys/_/This+Whole+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beach Boys"
@@ -1022,16 +1022,16 @@
           "artist": "George Harrison"
         },
         {
-          "name": "Cool, Cool Water",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/The+Beach+Boys/_/Cool,+Cool+Water",
+          "name": "All I Wanna Do",
+          "playcount": 27,
+          "url": "https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beach Boys"
         },
         {
-          "name": "All I Wanna Do",
-          "playcount": 28,
-          "url": "https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do",
+          "name": "Cool, Cool Water",
+          "playcount": 27,
+          "url": "https://www.last.fm/music/The+Beach+Boys/_/Cool,+Cool+Water",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beach Boys"
         }
@@ -1083,7 +1083,7 @@
         },
         {
           "name": "Talking Heads",
-          "playcount": 467,
+          "playcount": 464,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
