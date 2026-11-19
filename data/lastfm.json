@@ -1,33 +1,27 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-18T20:28:05.140521Z",
+  "generatedAt": "2026-11-19T02:32:10.165703Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 27955,
-    "artistCount": 390,
-    "albumCount": 1048,
-    "trackCount": 5166,
+    "playcount": 27984,
+    "artistCount": 391,
+    "albumCount": 1049,
+    "trackCount": 5183,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "David Watts",
-    "artist": "The Kinks",
-    "album": "Something Else By The Kinks",
-    "url": "https://www.last.fm/music/The+Kinks/_/David+Watts",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
+    "name": "Blues",
+    "artist": "Bert Jansch",
+    "album": "Birthday Blues",
+    "url": "https://www.last.fm/music/Bert+Jansch/_/Blues",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87ee120eeb5fe0c7736b6c6ca6e509a0.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-11-17T23:30:06Z"
+    "playedAt": "2026-11-19T00:00:12Z"
   },
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-20",
-        "label": "20 October",
-        "shortLabel": "20 Oct",
-        "count": 24
-      },
       {
         "date": "2026-10-21",
         "label": "21 October",
@@ -200,7 +194,13 @@
         "date": "2026-11-18",
         "label": "18 November",
         "shortLabel": "18 Nov",
-        "count": 9
+        "count": 17
+      },
+      {
+        "date": "2026-11-19",
+        "label": "19 November",
+        "shortLabel": "19 Nov",
+        "count": 21
       }
     ]
   },
@@ -217,6 +217,18 @@
           "name": "The Beatles",
           "playcount": 17,
           "url": "https://www.last.fm/music/The+Beatles",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "The Velvet Underground",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/The+Velvet+Underground",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bert Jansch",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -238,6 +250,12 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "The Velvet Underground, Nico",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/+noredirect/The+Velvet+Underground,+Nico",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Nick Drake",
           "playcount": 3,
           "url": "https://www.last.fm/music/Nick+Drake",
@@ -248,27 +266,16 @@
           "playcount": 2,
           "url": "https://www.last.fm/music/Creedence+Clearwater+Revival",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Grateful Dead",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Grateful+Dead",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Jalen Ngonda",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Jalen+Ngonda",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "The Heavenly Bodes",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
       "albums": [
+        {
+          "name": "Birthday Blues",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Bert+Jansch/Birthday+Blues",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87ee120eeb5fe0c7736b6c6ca6e509a0.jpg",
+          "artist": "Bert Jansch"
+        },
         {
           "name": "Stop Making Sense (Live)",
           "playcount": 10,
@@ -289,6 +296,13 @@
           "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "The Velvet Underground (45th Anniversary / Super Deluxe)",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/The+Velvet+Underground/The+Velvet+Underground+(45th+Anniversary+%2F+Super+Deluxe)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9ba0a511d1ef9bbe5a57dc5e482ba7cd.jpg",
+          "artist": "The Velvet Underground"
         },
         {
           "name": "George Harrison",
@@ -312,32 +326,18 @@
           "artist": "The Beatles"
         },
         {
-          "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
-          "artist": "George Harrison"
+          "name": "Loaded (2015 Remaster)",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Velvet+Underground/Loaded+(2015+Remaster)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4f98ae4828e2e0a3705b8622249c470f.jpg",
+          "artist": "The Velvet Underground"
         },
         {
-          "name": "Five Leaves Left",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
-          "artist": "Nick Drake"
-        },
-        {
-          "name": "Talking Heads: 77",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Talking+Heads/Talking+Heads:+77",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/cf450a0fbcfde0535dac822ca3e0ce52.png",
-          "artist": "Talking Heads"
-        },
-        {
-          "name": "John Wesley Harding",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bob+Dylan/John+Wesley+Harding",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/08a9db76c8d1cb8e1087e81c910f1197.jpg",
-          "artist": "Bob Dylan"
+          "name": "The Velvet Underground & Nico (45th Anniversary)",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Velvet+Underground,+Nico/The+Velvet+Underground+&+Nico+(45th+Anniversary)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e2f96fbc63dd087227dd38ea8cb2d2a7.jpg",
+          "artist": "The Velvet Underground, Nico"
         }
       ],
       "tracks": [
@@ -377,39 +377,39 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Father of Night",
+          "name": "A Woman Like You",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Father+of+Night",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/A+Woman+Like+You",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Bert Jansch"
         },
         {
-          "name": "If Dogs Run Free",
+          "name": "Birthday Blues",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/If+Dogs+Run+Free",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Birthday+Blues",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Bert Jansch"
         },
         {
-          "name": "If Not for You",
+          "name": "Blues",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/If+Not+for+You",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Blues",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Bert Jansch"
         },
         {
-          "name": "The Man In Me",
+          "name": "Come Sing Me A Happy Song To Prove We Can All Get Along The Lumpy Bumpy Long And Dusty Road",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/The+Man+In+Me",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/Come+Sing+Me+A+Happy+Song+To+Prove+We+Can+All+Get+Along+The+Lumpy+Bumpy+Long+And+Dusty+Road",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Bert Jansch"
         },
         {
-          "name": "Three Angels",
+          "name": "I Am Lonely",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/Three+Angels",
+          "url": "https://www.last.fm/music/Bert+Jansch/_/I+Am+Lonely",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
+          "artist": "Bert Jansch"
         }
       ]
     },
@@ -435,7 +435,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 31,
+          "playcount": 30,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -458,21 +458,21 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Bert Jansch",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Fleetwood Mac",
           "playcount": 13,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Dire Straits",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Dire+Straits",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Jalen Ngonda",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Jalen+Ngonda",
+          "name": "The Velvet Underground",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/The+Velvet+Underground",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
       ],
@@ -497,6 +497,13 @@
           "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
           "artist": "Bob Dylan"
+        },
+        {
+          "name": "Birthday Blues",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Bert+Jansch/Birthday+Blues",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87ee120eeb5fe0c7736b6c6ca6e509a0.jpg",
+          "artist": "Bert Jansch"
         },
         {
           "name": "Fleetwood Mac (Deluxe Edition)",
@@ -538,13 +545,6 @@
           "playcount": 11,
           "url": "https://www.last.fm/music/Talking+Heads/Remain+in+Light",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png",
-          "artist": "Talking Heads"
-        },
-        {
-          "name": "Stop Making Sense (Live)",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da3f1399afe7af93d8995529ab48667a.png",
           "artist": "Talking Heads"
         }
       ],
@@ -667,7 +667,7 @@
         },
         {
           "name": "Bert Jansch",
-          "playcount": 48,
+          "playcount": 60,
           "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1303,7 +1303,7 @@
         },
         {
           "name": "The Velvet Underground",
-          "playcount": 618,
+          "playcount": 631,
           "url": "https://www.last.fm/music/The+Velvet+Underground",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         }
