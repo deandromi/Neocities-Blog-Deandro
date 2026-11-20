@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-20T11:31:39.388287Z",
+  "generatedAt": "2026-11-20T20:11:36.533322Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -1083,7 +1083,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 449,
+          "playcount": 423,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
