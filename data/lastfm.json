@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-21T02:11:19.158586Z",
+  "generatedAt": "2026-11-21T10:57:03.404905Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "Bob Dylan",
-          "playcount": 31,
+          "playcount": 30,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -428,15 +428,15 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "George Harrison",
-          "playcount": 27,
-          "url": "https://www.last.fm/music/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Kinks",
           "playcount": 27,
           "url": "https://www.last.fm/music/The+Kinks",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "George Harrison",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -492,18 +492,18 @@
           "artist": "The Kinks"
         },
         {
-          "name": "The Basement Tapes",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "Birthday Blues",
           "playcount": 14,
           "url": "https://www.last.fm/music/Bert+Jansch/Birthday+Blues",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87ee120eeb5fe0c7736b6c6ca6e509a0.jpg",
           "artist": "Bert Jansch"
+        },
+        {
+          "name": "The Basement Tapes",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6b0c096a90207e5922c7d8f1f61dab07.jpg",
+          "artist": "Bob Dylan"
         },
         {
           "name": "Five Leaves Left",
@@ -613,11 +613,11 @@
           "artist": "The Beatles"
         },
         {
-          "name": "Acting",
+          "name": "Starstruck",
           "playcount": 3,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
+          "url": "https://www.last.fm/music/The+Kinks/_/Starstruck",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
+          "artist": "The Kinks"
         }
       ]
     },
