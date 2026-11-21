@@ -1,6 +1,6 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-20T20:11:36.533322Z",
+  "generatedAt": "2026-11-21T02:11:19.158586Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
@@ -22,12 +22,6 @@ window.DEANDRO_LASTFM_DATA = {
   "activity": {
     "days": 30,
     "points": [
-      {
-        "date": "2026-10-22",
-        "label": "22 October",
-        "shortLabel": "22 Oct",
-        "count": 12
-      },
       {
         "date": "2026-10-23",
         "label": "23 October",
@@ -200,6 +194,12 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-20",
         "label": "20 November",
         "shortLabel": "20 Nov",
+        "count": 0
+      },
+      {
+        "date": "2026-11-21",
+        "label": "21 November",
+        "shortLabel": "21 Nov",
         "count": 0
       }
     ]
@@ -1083,7 +1083,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 423,
+          "playcount": 391,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
