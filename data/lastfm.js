@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-23T01:40:00.901832Z",
+  "generatedAt": "2026-11-23T12:29:53.791782Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 28069,
+    "playcount": 28092,
     "artistCount": 396,
-    "albumCount": 1056,
-    "trackCount": 5205,
+    "albumCount": 1058,
+    "trackCount": 5208,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "See No Evil",
-    "artist": "Television",
-    "album": "Marquee Moon",
-    "url": "https://www.last.fm/music/Television/_/See+No+Evil",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg",
+    "name": "Cool, Calm And Collected",
+    "artist": "The Rolling Stones",
+    "album": "Between The Buttons (US Version)",
+    "url": "https://www.last.fm/music/The+Rolling+Stones/_/Cool,+Calm+And+Collected",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4fd4a2a5b7b2620aff9a2ea29af65587.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-11-22T22:15:46Z"
+    "playedAt": "2026-11-23T11:28:41Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-23",
         "label": "23 November",
         "shortLabel": "23 Nov",
-        "count": 0
+        "count": 25
       }
     ]
   },
@@ -214,8 +214,14 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Bert Jansch",
+          "playcount": 28,
+          "url": "https://www.last.fm/music/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Fleetwood Mac",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -223,12 +229,6 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Velvet Underground",
           "playcount": 13,
           "url": "https://www.last.fm/music/The+Velvet+Underground",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Bert Jansch",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -244,15 +244,15 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Talking Heads",
+          "name": "George Harrison",
           "playcount": 7,
-          "url": "https://www.last.fm/music/Talking+Heads",
+          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "George Harrison",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/George+Harrison",
+          "name": "Talking Heads",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -271,10 +271,17 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "Fleetwood Mac (Deluxe Edition)",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac+(Deluxe+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a469de76deff33af6b7661a51db05c42.png",
           "artist": "Fleetwood Mac"
+        },
+        {
+          "name": "Bert Jansch",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
+          "artist": "Bert Jansch"
         },
         {
           "name": "Rubber Soul (Super Deluxe)",
@@ -331,19 +338,12 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/George+Harrison/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f4ba34827a02bb18694b3824bfe531c4.png",
           "artist": "George Harrison"
-        },
-        {
-          "name": "Jake Bugg",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Jake+Bugg/Jake+Bugg",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d188a8fb00f34036bb5d072114c55dbb.png",
-          "artist": "Jake Bugg"
         }
       ],
       "tracks": [
         {
           "name": "Say You Love Me (2017 Remaster)",
-          "playcount": 11,
+          "playcount": 12,
           "url": "https://www.last.fm/music/Fleetwood+Mac/_/Say+You+Love+Me+(2017+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Fleetwood Mac"
@@ -428,14 +428,20 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Bert Jansch",
+          "playcount": 35,
+          "url": "https://www.last.fm/music/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Fleetwood Mac",
-          "playcount": 32,
+          "playcount": 33,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 29,
+          "playcount": 30,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -447,7 +453,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "George Harrison",
-          "playcount": 25,
+          "playcount": 26,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -464,12 +470,6 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "The Velvet Underground",
           "playcount": 13,
           "url": "https://www.last.fm/music/The+Velvet+Underground",
@@ -479,7 +479,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "Fleetwood Mac (Deluxe Edition)",
-          "playcount": 31,
+          "playcount": 32,
           "url": "https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac+(Deluxe+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a469de76deff33af6b7661a51db05c42.png",
           "artist": "Fleetwood Mac"
@@ -490,6 +490,13 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/The+Kinks/Something+Else+By+The+Kinks",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/372350531b254be2ae150e01e4e69339.png",
           "artist": "The Kinks"
+        },
+        {
+          "name": "Bert Jansch",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
+          "artist": "Bert Jansch"
         },
         {
           "name": "Stop Making Sense (Live)",
@@ -539,19 +546,12 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
           "artist": "Bob Dylan"
-        },
-        {
-          "name": "Freedom of Choice (2009 Remaster) [Deluxe Edition]",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Devo/Freedom+of+Choice+(2009+Remaster)+%5BDeluxe+Edition%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ea567d325c2cc0e04cb027ef3193a35.jpg",
-          "artist": "Devo"
         }
       ],
       "tracks": [
         {
           "name": "Say You Love Me (2017 Remaster)",
-          "playcount": 12,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Fleetwood+Mac/_/Say+You+Love+Me+(2017+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Fleetwood Mac"
@@ -571,18 +571,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "George Harrison"
         },
         {
+          "name": "The Ballad of Frankie Lee and Judas Priest",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Bob Dylan"
+        },
+        {
           "name": "Planet Earth",
           "playcount": 5,
           "url": "https://www.last.fm/music/Devo/_/Planet+Earth",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Devo"
-        },
-        {
-          "name": "The Ballad of Frankie Lee and Judas Priest",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Bob+Dylan/_/The+Ballad+of+Frankie+Lee+and+Judas+Priest",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bob Dylan"
         },
         {
           "name": "Over My Head (2017 Remaster)",
@@ -625,13 +625,13 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 239,
+          "playcount": 238,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 176,
+          "playcount": 175,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -643,7 +643,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 128,
+          "playcount": 127,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -655,8 +655,14 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 103,
+          "playcount": 104,
           "url": "https://www.last.fm/music/Bob+Dylan",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "Bert Jansch",
+          "playcount": 76,
+          "url": "https://www.last.fm/music/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -666,14 +672,8 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "Bert Jansch",
-          "playcount": 60,
-          "url": "https://www.last.fm/music/Bert+Jansch",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Fleetwood Mac",
-          "playcount": 57,
+          "playcount": 58,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -687,7 +687,7 @@ window.DEANDRO_LASTFM_DATA = {
       "albums": [
         {
           "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 140,
+          "playcount": 138,
           "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
           "artist": "George Harrison"
@@ -749,17 +749,17 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "Bob Dylan"
         },
         {
-          "name": "Louder Than Bombs",
-          "playcount": 44,
-          "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
-          "artist": "The Smiths"
+          "name": "Bert Jansch",
+          "playcount": 46,
+          "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
+          "artist": "Bert Jansch"
         }
       ],
       "tracks": [
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 32,
+          "playcount": 31,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -786,18 +786,18 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Beatles"
         },
         {
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Long, Long, Long (2018 Mix)",
           "playcount": 20,
           "url": "https://www.last.fm/music/The+Beatles/_/Long,+Long,+Long+(2018+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
+        },
+        {
+          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/George+Harrison/_/Ballad+of+Sir+Frankie+Crisp+(Let+It+Roll)+%5B2020+Mix%5D",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "George Harrison"
         },
         {
           "name": "Half a Person (2011 Remaster)",
@@ -857,7 +857,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 219,
+          "playcount": 220,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -958,7 +958,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Living in the Material World",
-          "playcount": 81,
+          "playcount": 80,
           "url": "https://www.last.fm/music/George+Harrison/Living+in+the+Material+World",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg",
           "artist": "George Harrison"
@@ -1041,7 +1041,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 4017,
+          "playcount": 4018,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1053,7 +1053,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1336,
+          "playcount": 1337,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1083,7 +1083,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Talking Heads",
-          "playcount": 396,
+          "playcount": 387,
           "url": "https://www.last.fm/music/Talking+Heads",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1249,7 +1249,7 @@ window.DEANDRO_LASTFM_DATA = {
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 4056,
+          "playcount": 4057,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1273,13 +1273,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Fleetwood Mac",
-          "playcount": 1495,
+          "playcount": 1496,
           "url": "https://www.last.fm/music/Fleetwood+Mac",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Bob Dylan",
-          "playcount": 1419,
+          "playcount": 1420,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
