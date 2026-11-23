@@ -1,14 +1,14 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-23T07:19:49.797151Z",
+  "generatedAt": "2026-11-23T23:45:51.628227Z",
   "username": "deandro_m",
   "profileUrl": "https://www.chess.com/member/Deandro_M",
   "ratings": {
     "rapid": {
-      "current": 721,
+      "current": 711,
       "best": 951,
       "wins": 78,
-      "losses": 73,
+      "losses": 74,
       "draws": 5
     },
     "blitz": {
@@ -34,6 +34,23 @@
     }
   },
   "recentGames": [
+    {
+      "id": "187836508054",
+      "url": "https://www.chess.com/game/live/187836508054",
+      "date": "2026-11-23T13:52:23Z",
+      "player": "Deandro_M",
+      "opponent": "samsumaideen",
+      "color": "white",
+      "rating": 711,
+      "opponentRating": 795,
+      "result": "loss",
+      "termination": "timeout",
+      "timeClass": "rapid",
+      "timeControl": "900+10",
+      "opening": "Giuoco Piano Game 4.O O Nf6 5.Nc3 d6",
+      "accuracy": null,
+      "fen": "r2qn3/p7/2ppk1p1/1p2pN2/4P3/1P1P2P1/P1PB2PP/5R1K w - - 0 22"
+    },
     {
       "id": "1049046836",
       "url": "https://www.chess.com/game/daily/1049046836",
@@ -84,23 +101,6 @@
       "opening": "Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3",
       "accuracy": null,
       "fen": "r2k2nr/pb3pbp/6p1/n1pN4/8/4BN2/PPP2PPP/R2QK2R w KQ - 0 14"
-    },
-    {
-      "id": "186577570074",
-      "url": "https://www.chess.com/game/live/186577570074",
-      "date": "2026-11-05T10:18:59Z",
-      "player": "Deandro_M",
-      "opponent": "Roma1260",
-      "color": "white",
-      "rating": 732,
-      "opponentRating": 702,
-      "result": "win",
-      "termination": "checkmated",
-      "timeClass": "rapid",
-      "timeControl": "600",
-      "opening": "Queens Pawn Opening Horwitz Defense",
-      "accuracy": 73.4,
-      "fen": "3r1r1k/pR5Q/3p2p1/3p1n2/3P2q1/B1P1PN2/P2N1PPP/1R4K1 b - - 2 26"
     }
   ],
   "featuredGames": [
