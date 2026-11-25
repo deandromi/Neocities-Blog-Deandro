@@ -1,23 +1,23 @@
 {
   "status": "ready",
-  "generatedAt": "2026-11-25T08:27:17.888145Z",
+  "generatedAt": "2026-11-25T19:13:10.844857Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 28099,
+    "playcount": 28104,
     "artistCount": 396,
     "albumCount": 1058,
-    "trackCount": 5208,
+    "trackCount": 5211,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "All Things Must Pass (2020 Mix)",
-    "artist": "George Harrison",
-    "album": "All Things Must Pass (50th Anniversary Edition)",
-    "url": "https://www.last.fm/music/George+Harrison/_/All+Things+Must+Pass+(2020+Mix)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
+    "name": "Pangea",
+    "artist": "Dominic Fike",
+    "album": "How To Quit Smoking",
+    "url": "https://www.last.fm/music/Dominic+Fike/_/Pangea",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4e4e7bffcef9a4fb42371febf16b02ab.jpg",
     "nowPlaying": false,
-    "playedAt": "2026-11-24T21:40:23Z"
+    "playedAt": "2026-11-25T10:50:47Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@
         "date": "2026-11-25",
         "label": "25 November",
         "shortLabel": "25 Nov",
-        "count": 0
+        "count": 5
       }
     ]
   },
@@ -221,7 +221,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 13,
+          "playcount": 16,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -350,7 +350,7 @@
         },
         {
           "name": "Pangea",
-          "playcount": 2,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Pangea",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Dominic Fike"
@@ -391,6 +391,13 @@
           "artist": "The Beatles"
         },
         {
+          "name": "Fa Cé-La",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Feelies/_/Fa+C%C3%A9-La",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "The Feelies"
+        },
+        {
           "name": "The Boy With the Perpetual Nervousness",
           "playcount": 2,
           "url": "https://www.last.fm/music/The+Feelies/_/The+Boy+With+the+Perpetual+Nervousness",
@@ -403,13 +410,6 @@
           "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Heavenly Bodes"
-        },
-        {
-          "name": "A Woman Like You",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bert+Jansch/_/A+Woman+Like+You",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Bert Jansch"
         }
       ]
     },
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "The Beatles",
-          "playcount": 43,
+          "playcount": 44,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -440,12 +440,6 @@
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
-          "name": "George Harrison",
-          "playcount": 31,
-          "url": "https://www.last.fm/music/George+Harrison",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
           "name": "Bob Dylan",
           "playcount": 30,
           "url": "https://www.last.fm/music/Bob+Dylan",
@@ -455,6 +449,12 @@
           "name": "Talking Heads",
           "playcount": 29,
           "url": "https://www.last.fm/music/Talking+Heads",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
+          "name": "George Harrison",
+          "playcount": 25,
+          "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -499,13 +499,6 @@
           "artist": "Bert Jansch"
         },
         {
-          "name": "All Things Must Pass (50th Anniversary Edition)",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/George+Harrison/All+Things+Must+Pass+(50th+Anniversary+Edition)",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2f051ec67af04db771f7121d697c00.jpg",
-          "artist": "George Harrison"
-        },
-        {
           "name": "Stop Making Sense (Live)",
           "playcount": 17,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
@@ -546,6 +539,13 @@
           "url": "https://www.last.fm/music/Nick+Drake/Five+Leaves+Left",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png",
           "artist": "Nick Drake"
+        },
+        {
+          "name": "New Morning",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
+          "artist": "Bob Dylan"
         }
       ],
       "tracks": [
@@ -558,14 +558,14 @@
         },
         {
           "name": "Hey Bulldog (Remastered 2009)",
-          "playcount": 11,
+          "playcount": 9,
           "url": "https://www.last.fm/music/The+Beatles/_/Hey+Bulldog+(Remastered+2009)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "The Beatles"
         },
         {
           "name": "My Sweet Lord (2020 Mix)",
-          "playcount": 8,
+          "playcount": 7,
           "url": "https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord+(2020+Mix)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "George Harrison"
@@ -585,6 +585,13 @@
           "artist": "Devo"
         },
         {
+          "name": "Pangea",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/Pangea",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Dominic Fike"
+        },
+        {
           "name": "Over My Head (2017 Remaster)",
           "playcount": 4,
           "url": "https://www.last.fm/music/Fleetwood+Mac/_/Over+My+Head+(2017+Remaster)",
@@ -599,23 +606,16 @@
           "artist": "Fleetwood Mac"
         },
         {
-          "name": "Acting",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/The+Heavenly+Bodes/_/Acting",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "The Heavenly Bodes"
-        },
-        {
-          "name": "Pangea",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/Pangea",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "artist": "Dominic Fike"
-        },
-        {
           "name": "Blue Letter (2017 Remaster)",
           "playcount": 3,
           "url": "https://www.last.fm/music/Fleetwood+Mac/_/Blue+Letter+(2017+Remaster)",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "artist": "Fleetwood Mac"
+        },
+        {
+          "name": "Sugar Daddy (2017 Remaster)",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Fleetwood+Mac/_/Sugar+Daddy+(2017+Remaster)",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
           "artist": "Fleetwood Mac"
         }
@@ -625,13 +625,13 @@
       "artists": [
         {
           "name": "George Harrison",
-          "playcount": 235,
+          "playcount": 232,
           "url": "https://www.last.fm/music/George+Harrison",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "The Beatles",
-          "playcount": 171,
+          "playcount": 174,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -655,7 +655,7 @@
         },
         {
           "name": "Bob Dylan",
-          "playcount": 95,
+          "playcount": 82,
           "url": "https://www.last.fm/music/Bob+Dylan",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -742,18 +742,18 @@
           "artist": "Van Morrison"
         },
         {
-          "name": "New Morning",
-          "playcount": 48,
-          "url": "https://www.last.fm/music/Bob+Dylan/New+Morning",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/874557ee3bcb413ea64be8587a180895.png",
-          "artist": "Bob Dylan"
-        },
-        {
           "name": "Bert Jansch",
           "playcount": 46,
           "url": "https://www.last.fm/music/Bert+Jansch/Bert+Jansch",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c438a3d32aac32863962a8cb7c018900.jpg",
           "artist": "Bert Jansch"
+        },
+        {
+          "name": "Louder Than Bombs",
+          "playcount": 44,
+          "url": "https://www.last.fm/music/The+Smiths/Louder+Than+Bombs",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6f1f7764dc74e14cef056eed1db1689.jpg",
+          "artist": "The Smiths"
         }
       ],
       "tracks": [
@@ -839,7 +839,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 448,
+          "playcount": 447,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1059,7 +1059,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 1276,
+          "playcount": 1279,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1255,7 +1255,7 @@
         },
         {
           "name": "The Beatles",
-          "playcount": 2635,
+          "playcount": 2638,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
