@@ -1,11 +1,11 @@
 window.DEANDRO_AOTY_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-26T08:42:12.439751Z",
+  "generatedAt": "2026-11-26T21:49:00.016394Z",
   "username": "deandro",
   "profileUrl": "https://www.albumoftheyear.org/user/deandro/",
   "reviewsUrl": "https://www.albumoftheyear.org/user/deandro/reviews/",
   "source": "wayback",
-  "capture": "20261126084153",
+  "capture": "20261126214731",
   "reviews": [
     {
       "id": 10772156,
