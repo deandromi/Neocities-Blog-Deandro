@@ -1,23 +1,23 @@
 window.DEANDRO_LASTFM_DATA = {
   "status": "ready",
-  "generatedAt": "2026-11-27T01:42:58.750824Z",
+  "generatedAt": "2026-11-27T12:10:59.249860Z",
   "username": "Deandro",
   "profileUrl": "https://www.last.fm/user/Deandro",
   "user": {
-    "playcount": 28110,
+    "playcount": 28111,
     "artistCount": 396,
     "albumCount": 1058,
     "trackCount": 5211,
     "registeredAt": "2025-01-23T14:23:30Z"
   },
   "nowPlaying": {
-    "name": "Poor Boy",
+    "name": "Northern Sky",
     "artist": "Nick Drake",
     "album": "Bryter Layter",
-    "url": "https://www.last.fm/music/Nick+Drake/_/Poor+Boy",
+    "url": "https://www.last.fm/music/Nick+Drake/_/Northern+Sky",
     "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ad656836a06e4267858d105ddd13fe04.png",
     "nowPlaying": false,
-    "playedAt": "2026-11-26T21:26:47Z"
+    "playedAt": "2026-11-27T03:05:15Z"
   },
   "activity": {
     "days": 30,
@@ -200,7 +200,7 @@ window.DEANDRO_LASTFM_DATA = {
         "date": "2026-11-27",
         "label": "27 November",
         "shortLabel": "27 Nov",
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -232,6 +232,12 @@ window.DEANDRO_LASTFM_DATA = {
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
+          "name": "Nick Drake",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Nick+Drake",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+        },
+        {
           "name": "Talking Heads",
           "playcount": 7,
           "url": "https://www.last.fm/music/Talking+Heads",
@@ -247,12 +253,6 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "Jake Bugg",
           "playcount": 6,
           "url": "https://www.last.fm/music/Jake+Bugg",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-        },
-        {
-          "name": "Nick Drake",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
@@ -298,6 +298,13 @@ window.DEANDRO_LASTFM_DATA = {
           "artist": "The Kinks"
         },
         {
+          "name": "Bryter Layter",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Nick+Drake/Bryter+Layter",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ad656836a06e4267858d105ddd13fe04.png",
+          "artist": "Nick Drake"
+        },
+        {
           "name": "Stop Making Sense (Live)",
           "playcount": 7,
           "url": "https://www.last.fm/music/Talking+Heads/Stop+Making+Sense+(Live)",
@@ -310,13 +317,6 @@ window.DEANDRO_LASTFM_DATA = {
           "url": "https://www.last.fm/music/Jake+Bugg/Jake+Bugg",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d188a8fb00f34036bb5d072114c55dbb.png",
           "artist": "Jake Bugg"
-        },
-        {
-          "name": "Bryter Layter",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Nick+Drake/Bryter+Layter",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ad656836a06e4267858d105ddd13fe04.png",
-          "artist": "Nick Drake"
         },
         {
           "name": "Green Hills",
@@ -447,7 +447,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 27,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -643,7 +643,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 125,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -845,7 +845,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 265,
+          "playcount": 266,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1059,13 +1059,13 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "The Beatles",
-          "playcount": 1275,
+          "playcount": 1271,
           "url": "https://www.last.fm/music/The+Beatles",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
         {
           "name": "Nick Drake",
-          "playcount": 765,
+          "playcount": 766,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1297,7 +1297,7 @@ window.DEANDRO_LASTFM_DATA = {
         },
         {
           "name": "Nick Drake",
-          "playcount": 906,
+          "playcount": 907,
           "url": "https://www.last.fm/music/Nick+Drake",
           "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
         },
@@ -1327,7 +1327,7 @@ window.DEANDRO_LASTFM_DATA = {
           "name": "The Wall",
           "playcount": 592,
           "url": "https://www.last.fm/music/Pink+Floyd/The+Wall",
-          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e996384ffa76e555dca7c352c7631633.jpg",
+          "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c095ad5803f440dc49a7a98a28fa699.png",
           "artist": "Pink Floyd"
         },
         {
